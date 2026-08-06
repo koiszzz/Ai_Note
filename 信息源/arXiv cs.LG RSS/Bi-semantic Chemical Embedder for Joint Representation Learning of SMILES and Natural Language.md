@@ -1,0 +1,12 @@
+# Bi-semantic Chemical Embedder for Joint Representation Learning of SMILES and Natural Language
+
+> 数据源：arXiv cs.LG RSS
+> RSS：[打开源文件](https://export.arxiv.org/rss/cs.LG)
+
+> 作者：David Ming Segura, Jeremy Goumaz, Joshua W. Sin, Bojana Rankovi\'c, Philippe Schwaller　|　发布时间：Wed, 05 Aug 2026 00:00:00 -0400　|　分类：cs.LG　|　原文：[打开链接](https://arxiv.org/abs/2608.03855)
+
+------
+
+arXiv:2608.03855v1 Announce Type: new
+
+Abstract: Transformer models have revolutionized natural language processing (NLP), and text-based molecular representations like SMILES have successfully extended these architectures to chemistry. However, domain-adaptive pre-training often causes models to overfit to chemical syntax, catastrophically forgetting their foundational semantic capabilities. To address this challenge, we introduce CheMatE, a chemistry-oriented embedding model that jointly captures molecular structure and domain-specific natural language within the same representation space. Built on a ModernBERT backbone, CheMatE learns bi-semantic representations through a two-stage training procedure: continued masked language modeling (MLM) followed by a Matryoshka contrastive learning stage via Multiple Negative Ranking Loss (MNRL). First, we train the model using MLM on a novel, large-scale corpus of SMILES-annotated, long-context scientific documents that were constructed and curated from FineWeb and ChemPile (comprising 10.4B and 11.5B tokens, respectively). Subsequently, the model undergoes contrastive learning using a synthetic dataset of SMILES-text pairs algorithmically derived from our original training corpus. This design exposes the model to SMILES-enriched scientific literature, enabling bi-semantic understanding. We evaluate CheMatE across a range of downstream tasks covering molecular property prediction and scientific language understanding. Our results demonstrate that coupling our custom-curated datasets with this sequential training strategy yields robust, highly transferable representations. By effectively unifying structural and contextual signals within a single text-based framework, CheMatE achieves competitive performance across both specialized chemistry models and general-purpose language model baselines.

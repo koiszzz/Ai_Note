@@ -1,0 +1,12 @@
+# MIMIC-MJX: Neuromechanical Emulation of Animal Behavior
+
+> 数据源：arXiv cs.AI RSS
+> RSS：[打开源文件](https://export.arxiv.org/rss/cs.AI)
+
+> 作者：Charles Y. Zhang (Harvard University), Yuanjia Yang (Salk Institute for Biological Studies), Aidan Sirbu (Mila), Elliott T. T. Abe (University of Washington), Emil W\"arnberg (Harvard University), Eric J. Leonardis (Salk Institute for Biological Studies), Diego E. Aldarondo (Harvard University), Adam Lee (Harvard University), Aaditya Prasad (Massachusetts Institute of Technology), Jason Foat (Salk Institute for Biological Studies), Kaiwen Bian (Salk Institute for Biological Studies), Joshua Park (Salk Institute for Biological Studies), Rusham Bhatt (Salk Institute for Biological Studies), Vyom N. Patel (Neuromatch), Hutton Saunders (Salk Institute for Biological Studies), Austin O. Barbano (Salk Institute for Biological Studies), Akira Nagamori (Salk Institute for Biological Studies), Ayesha R. Thanawalla (Salk Institute for Biological Studies), Kee Wui Huang (Salk Institute for Biological Studies), Fabian Plum (Imperial College London), Hendrik K. Beck (Imperial College London), Steven W. Flavell (Massachusetts Institute of Technology), David Labonte (Imperial College London), Blake A. Richards (Mila), Bingni W. Brunton (University of Washington), Eiman Azim (Salk Institute for Biological Studies), Bence P. \"Olveczky (Harvard University), Talmo D. Pereira (Salk Institute for Biological Studies)　|　发布时间：Wed, 05 Aug 2026 00:00:00 -0400　|　分类：q-bio.NC　|　原文：[打开链接](https://arxiv.org/abs/2511.20532)
+
+------
+
+arXiv:2511.20532v3 Announce Type: replace-cross
+
+Abstract: The primary output of the nervous system is movement and behavior. While recent advances have democratized pose tracking during complex behavior, kinematic trajectories alone provide only indirect access to the underlying control processes. Here we present MIMIC-MJX, a framework for learning biomechanically grounded neural control policies from kinematics. MIMIC-MJX provides a platform for modeling the generative process of motor control by training neural controllers that learn to actuate biomechanical animal models in physics simulation to reproduce real kinematic trajectories. We demonstrate that our implementation is accurate, fast, and generalizable to diverse animal body models, and that it can be trained with modest amounts of motion data. MIMIC-MJX can be used to model motor control policies and simulate behavioral experiments, illustrating its potential as an integrative modeling framework for neuroscience.

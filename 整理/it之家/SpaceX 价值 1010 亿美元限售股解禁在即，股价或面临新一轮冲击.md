@@ -1,0 +1,29 @@
+---
+title: "SpaceX 价值 1010 亿美元限售股解禁在即，股价或面临新一轮冲击"
+source: "it之家"
+original_file: "信息源/it之家/SpaceX 价值 1010 亿美元限售股解禁在即，股价或面临新一轮冲击.md"
+source_note: "[[信息源/it之家/SpaceX 价值 1010 亿美元限售股解禁在即，股价或面临新一轮冲击]]"
+source_sha256: ad7490fc4772e6568634dc5127a3fcad5fda34e7e07b70065b1d7232f15d2a57
+original_url: "https://www.ithome.com/0/986/241.htm"
+processed: 2026-08-06
+language: zh-CN
+---
+
+# SpaceX 价值 1010 亿美元限售股解禁在即，股价或面临新一轮冲击
+
+> [!info] 来源信息
+> - 数据源：it之家
+> - 原文链接：[打开原文](https://www.ithome.com/0/986/241.htm)
+> - Vault 原文件：[[信息源/it之家/SpaceX 价值 1010 亿美元限售股解禁在即，股价或面临新一轮冲击|查看原始文件]]
+
+## 摘要
+
+- 原始来源为中文 RSS/网页条目，以下正文保留原文信息并统一排版。
+
+## 正文
+
+<p data-vmark="990d">IT之家 8 月 5 日消息，据彭博社 5 日（今天）报道，马斯克旗下火箭、卫星和 AI 公司 SpaceX 股价跌破发行价后，仍未离场的投资者即将面临新一轮考验。价值 1,010 亿美元<span class="exch-money-value">（IT之家注：现汇率约合 6,830.56 亿元人民币）</span>的限售股<strong>将于当地时间周四解禁</strong>，庞大的新增供应可能再次冲击股价。</p><p data-vmark="661e">上市公司在 IPO 后解除内部人士股份限售并不罕见，但 SpaceX 的安排没有先例可循。公司把限售股<strong>分成九个阶段释放</strong>，希望减轻大量股票集中进入市场的冲击，然而首轮解禁规模依然惊人，就连投资多年的老股东也不敢预测市场反应。</p><p data-vmark="dd3b">2018 年便开始投资 SpaceX 的柏基投资私营企业团队主管彼得 · 辛格尔赫斯特表示：“我们从未见过类似情况，从未见过如此大的规模，也从未见过限售股以这种方式分阶段解禁。我们正身处未知水域。”</p><p data-vmark="bd94">最多 9.115 亿股<strong>即将解除限售</strong>，而 SpaceX 股价刚刚经历一轮剧烈震荡。上市后首份季度财报发布后，股价下跌 13%，<strong>几乎逆转本周一、二</strong><strong>的上涨</strong>。此前短短两天内，SpaceX 市值一度增加超过 2,500 亿美元<span class="exch-money-value">（现汇率约合 1.69 万亿元人民币）</span>。</p><p data-vmark="b563">SpaceX 在非公开市场经营了 20 多年，投资者结构本就十分庞杂。今年早些时候收购 xAI，加上马斯克此前买下 Twitter，进一步扩大了股东范围。SpaceX 在规模达到 862 亿美元<span class="exch-money-value">（现汇率约合 5,829.65 亿元人民币）</span>的创纪录 IPO 中以每股 135 美元<span class="exch-money-value">（现汇率约合 913 元人民币）</span>发行股票，但许多早期投资者成本远低于发行价，即使股价已经破发，手中股份仍有可观的账面收益。</p><p data-vmark="37b7">招股书显示，首轮解禁完成后，SpaceX 可交易股票将从目前约 6.39 亿股增至最多 15.5 亿股，流通规模增加一倍以上。</p><p data-vmark="f2da">巨额限售股即将进入市场，SpaceX 估值又处于高位，做空资金因而蜂拥而至。S3 Partners 截至周二收盘的数据显示，现有流通股中有 35% 已经被卖空。财报发布后，SpaceX 股价较 6 月 16 日高点下跌 38%，做空者由此获得 53 亿美元<span class="exch-money-value">（现汇率约合 358.44 亿元人民币）</span>账面利润。</p><p data-vmark="d191">SpaceX 股价周三再跌逾 10%，此前两日涨幅大多被抹去，<strong>价格重新回到 110 美元<span class="exch-money-value">（现汇率约合 743.9 元人民币）</span>附近</strong>。分析师依然看好长期发展前景，并把本月晚些时候暂定进行的星舰第 14 次发射视为下一个潜在催化剂。星舰是 SpaceX 把数据中心送入太空计划的关键环节。</p><p data-vmark="b15e">AI 支出高于预期，是股价掉头下跌的原因之一。华尔街更关注 SpaceX <strong>最快明年开始把数据中心送入轨道，以及利用 Starlink 网络直接挑战美国最大移动通信运营商</strong>的计划。作为目前唯一盈利的业务，卫星互联网服务 Starlink 推动季度营收超过分析师预期。</p><p data-vmark="45ba">Aptus Capital Advisors 投资组合经理戴维 · 瓦格纳表示：“在 12 月前，限售股始终会压在股价上方。面对基本面和解禁压力，许多投资者暂时不愿买入 SpaceX 股票。说白了，我们也是如此。”</p><p data-vmark="95c3">即便长期坚定看好 SpaceX 的股东，也可能趁解禁兑现部分收益。收购 xAI 后形成的 SpaceXAI 估值为 1.25 万亿美元<span class="exch-money-value">（现汇率约合 8.45 万亿元人民币）</span>，而 SpaceX 目前市值约为 1.5 万亿美元<span class="exch-money-value">（现汇率约合 10.14 万亿元人民币）</span>。</p>
+
+## 关键词
+
+#it之家

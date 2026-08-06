@@ -1,0 +1,12 @@
+# A Deployment-Friendly Foundational Framework for Efficient Computational Pathology
+
+> 数据源：arXiv cs.AI RSS
+> RSS：[打开源文件](https://export.arxiv.org/rss/cs.AI)
+
+> 作者：Yu Cai, Cheng Jin, Zhengyu Zhang, Jiabo Ma, Fengtao Zhou, Yingxue Xu, Zhengrui Guo, Yihui Wang, Zhengyu Zhang, Ling Liang, Yonghao Tan, Pingcheng Dong, Du Cai, On Ki Tang, Chenglong Zhao, Zhijian Cen, Ying Tan, Xi Wang, Can Yang, Yali Xu, Jing Cui, Zhenhui Li, Ronald Cheong Kin Chan, Yueping Liu, Feng Gao, Xiuming Zhang, Li Liang, Hao Chen, Kwang-Ting Cheng　|　发布时间：Wed, 05 Aug 2026 00:00:00 -0400　|　分类：cs.CV　|　原文：[打开链接](https://arxiv.org/abs/2602.14010)
+
+------
+
+arXiv:2602.14010v2 Announce Type: replace-cross
+
+Abstract: Pathology foundation models (PFMs) generalize well across computational pathology tasks but remain costly for gigapixel whole-slide image analysis. Here, we present LitePath, a deployment-friendly framework that addresses model over-parameterization and patch-level redundancy. LitePath combines LiteFM, a compact model distilled from Virchow2, H-Optimus-1 and UNI2 using 190 million patches, with the Adaptive Patch Selector for task-specific patch selection. Compared with Virchow2, LitePath uses 28x fewer parameters and 403.5x fewer FLOPs. On an NVIDIA Jetson Orin Nano Super, it processes 208 slides per hour, 104.5x faster than Virchow2, and consumes 0.36 kWh per 3,000 slides, 171x less energy than Virchow2 on an RTX 3090 GPU. We evaluated LitePath on 45 multicenter cohorts across four organs and 33 tasks, comprising 37 classification and 8 survival cohorts, including 33 internal, 10 external and 2 prospective cohorts, with 17,837 slides from 9,977 patients disjoint from the pretraining data. Among 22 PFMs, LitePath achieved the best average rank (6.56 vs. 6.58 for Virchow2), retained 99.71% of Virchow2's Macro-AUC across classification cohorts, and improved mean C-index by 2.14 percentage points across survival cohorts (71.91% vs. 69.77%). We further introduce the Deployability Score (D-Score), a weighted geometric mean of normalized task performance and FLOPs. LitePath achieved the highest D-Score (0.8455), outperforming H0-mini (0.7723) and Virchow2 (0.7297). In a randomized paired crossover study of four pathologists and 120 cases, LitePath increased diagnostic accuracy by 4.1-15.8 percentage points and reduced diagnostic time by 10.9-14.2%. These results demonstrate rapid, cost-effective and energy-efficient pathology image analysis on accessible hardware while maintaining competitive performance.

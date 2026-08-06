@@ -1,0 +1,29 @@
+---
+title: "反战组织悼念加沙儿童 - August 2, 2026"
+source: "iDaily 每日环球视野"
+original_file: "信息源/iDaily 每日环球视野/反战组织悼念加沙儿童 - August 2, 2026.md"
+source_note: "[[信息源/iDaily 每日环球视野/反战组织悼念加沙儿童 - August 2, 2026]]"
+source_sha256: 561dd02bd9d48f62f5f9ec5425b4fa8bd5231116072f922cb05739637567bc6a
+original_url: "https://m.idai.ly/se/ed0Jbq"
+processed: 2026-08-05
+language: zh-CN
+---
+
+# 反战组织悼念加沙儿童 - August 2, 2026
+
+> [!info] 来源信息
+> - 数据源：iDaily 每日环球视野
+> - 原文链接：[打开原文](https://m.idai.ly/se/ed0Jbq)
+> - Vault 原文件：[[信息源/iDaily 每日环球视野/反战组织悼念加沙儿童 - August 2, 2026|查看原始文件]]
+
+## 摘要
+
+- 原始来源为中文 RSS/网页条目，以下正文保留原文信息并统一排版。
+
+## 正文
+
+<figure><img src="http://pic.yupoo.com/fotomag/975a6ff812/aafca385.jpg" alt="反战组织悼念加沙儿童" referrerpolicy="no-referrer"></figure><p>荷兰席凡宁根海滩摆放数千只童鞋悼念加沙遇难儿童，海牙。8月1日，荷兰反战组织「种植橄榄树」在海牙席凡宁根海滩举行第18次加沙遇难儿童悼念活动，现场摆放超过7000双童鞋代表在以色列空袭中遇难的孩童。加沙卫生部通报7月以色列空袭导致加沙地带152人死亡，创下2026年迄今单月死亡最高纪录，其中包括21名儿童。联合国数据显示，2023年10月迄今以色列对加沙地带袭击已造成超过2万名儿童死亡，约占遇难总人口的30%，另有超过4.4万名儿童受伤。摄影师：Mouneb Taim</p>
+
+## 关键词
+
+#iDaily-每日环球视野

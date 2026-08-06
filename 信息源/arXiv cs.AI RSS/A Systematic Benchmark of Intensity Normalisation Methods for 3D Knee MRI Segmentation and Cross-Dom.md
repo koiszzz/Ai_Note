@@ -1,0 +1,12 @@
+# A Systematic Benchmark of Intensity Normalisation Methods for 3D Knee MRI Segmentation and Cross-Domain Generalisability
+
+> 数据源：arXiv cs.AI RSS
+> RSS：[打开源文件](https://export.arxiv.org/rss/cs.AI)
+
+> 作者：Oliver Mills, Philip Conaghan, Samuel Relton　|　发布时间：Wed, 05 Aug 2026 00:00:00 -0400　|　分类：cs.CV　|　原文：[打开链接](https://arxiv.org/abs/2607.20028)
+
+------
+
+arXiv:2607.20028v2 Announce Type: replace-cross
+
+Abstract: Robust out-of-the-box performance is essential for the clinical deployment of deep learning models in medical imaging. An important but underexplored factor affecting model generalisability is intensity normalisation, particularly for magnetic resonance imaging (MRI), where image intensities vary across scanners and protocols. In this study, we systematically compared seven normalisation methods and their impact on the performance of a 3D U-Net model for meniscus segmentation from knee MRI. The methods included standard scaling approaches, histogram-based techniques, and a Gaussian Mixture Model (GMM)-based method. Models were trained on the IWOAI 2019 dataset and evaluated on both internal and external test sets (SKM-TEA) to assess generalisability. Performance was similar internally but differences were significant on external data, with Z-score, Ny\'ul histogram matching, and CLAHE showing greater robustness than other methods. However, these differences were small compared to the significant performance drop observed between datasets. Overall, while intensity normalisation had a measurable effect on model generalisability, its impact was limited relative to the effects of domain shift, highlighting the need for complementary strategies for robust deployment.

@@ -1,0 +1,12 @@
+# BODHI: Do LLMs Branch Out and Discover Heterogeneous Inferences?
+
+> 数据源：arXiv cs.AI RSS
+> RSS：[打开源文件](https://export.arxiv.org/rss/cs.AI)
+
+> 作者：Soumadeep Saha, Krish Sharma, Akshay Chaturvedi, Nicholas Asher　|　发布时间：Wed, 05 Aug 2026 00:00:00 -0400　|　分类：cs.CL　|　原文：[打开链接](https://arxiv.org/abs/2608.02867)
+
+------
+
+arXiv:2608.02867v1 Announce Type: cross
+
+Abstract: Although reinforcement learning with verifiable rewards (RLVR) has improved the performance of large language models (LLMs) across a variety of reasoning tasks, there is significant debate as to whether RLVR expands the reasoning capability boundary, or just improves sampling efficiency. In this paper, we investigate the nature of test-time exploration in RLVR-trained LLMs by employing controlled maze-solving experiments and extracting a tree structure from mathematical reasoning traces (BODHI-Trees) based on semantic equivalence. This helps us delineate between entropy arising from stylistic variations and genuine inferential branching. Our findings demonstrate that the policy entropy collapse observed in RLVR models is not merely syntactic, and is accompanied by a significant reduction in semantic branching entropy. While RLVR improves adherence to environmental constraints and backtracking capabilities, it constricts the space of continuations; we provide evidence suggesting that this might be responsible for the sample efficiency gains of RLVR, albeit at the cost of genuine rollout diversity.

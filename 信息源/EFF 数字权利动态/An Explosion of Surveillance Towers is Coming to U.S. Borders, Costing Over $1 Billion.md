@@ -1,0 +1,26 @@
+# An Explosion of Surveillance Towers is Coming to U.S. Borders, Costing Over $1 Billion
+
+> 数据源：EFF 数字权利动态
+> RSS：[打开源文件](https://www.eff.org/rss/updates.xml)
+
+> 作者：Karen Gullo　|　发布时间：Mon, 20 Jul 2026 19:25:44 +0000　|　分类：Border Surveillance Technology　|　原文：[打开链接](https://www.eff.org/deeplinks/2026/07/explosion-surveillance-towers-coming-us-borders-costing-over-1-billion)
+
+------
+
+<div class="field field--name-body field--type-text-with-summary field--label-hidden"><div class="field__items"><div class="field__item even"><p><span><a href="https://www.documentcloud.org/documents/28483437-gao-26-108118/#document/p99">A new report</a></span> from the Government Accounting Office reveals that the Department of Homeland Security (DHS) plans to nearly triple the number of surveillance towers along U.S. borders, from the current 830 to 2,300 by 2034.</p>
+
+<p>DHS expects to expend $1 billion in taxpayer dollars for this dangerous expansion of a surveillance network indiscriminately trained on towns, school playgrounds, backyards, and vehicles—threatening the privacy and civil liberties of everyone in the border regions.</p>
+
+<p>The towers are planned as part of DHS component Customs and Border Protection’s (CBP) Integrated Surveillance Tower (IST) program, which captures images of people and vehicles. The IST program operates autonomous surveillance towers, consisting of autonomous surveillance towers, consisting of <a href="https://www.eff.org/deeplinks/2026/04/california-coastal-community-must-reject-cbps-ai-powered-surveillance-tower">AI-based systems</a> using radar, thermal infrared and optical systems to track targets over long distances; integrated fixed towers, optimized for surveilling foot traffic and vehicles; and remote video surveillance systems, which can often be found very close to the border fence in Arizona, including residential neighborhoods where cameras are capable of spying on homes on both sides of the border. (For a description and photos of these technologies, see EFF’s <a href="https://www.eff.org/deeplinks/2026/04/hot-press-effs-updated-guide-tech-us-mexico-border">updated guide</a> to surveillance at the U.S.-Mexico Border.)</p>
+
+<p>DHS expects to purchase more long-range autonomous towers and to upgrade existing towers with autonomous capabilities. The $1 billion comes from the so-called One Big Beautiful Act—a massive tax and spending law that President Trump signed in 2025, the report says.</p>
+
+<p>The <a href="https://www.eff.org/issues/border-surveillance-technology">explosive expansion of border surveillance</a> is a digital dumpster fire for human rights and civil liberties. It’s not just surveillance towers; <a href="https://www.eff.org/document/eff-v-dhs-cbp-supplemental-agency-list">drones</a>, <a href="https://www.youtube.com/watch?v=nleYJgKSQrY">aerostats</a>, surveillance vehicles, ground sensors, game cameras, and <a href="https://www.eff.org/deeplinks/2025/11/how-identify-automated-license-plate-readers-us-mexico-border">license plate readers</a> are also part of the vast taxpayer-funded infrastructure that threatens all those who live, work, or seek refuge in the borderlands. This technology isn’t exclusive to U.S. federal agencies: it’s also deployed by state and local law enforcement, and even by governments on the Mexican side.</p>
+
+<p>Since 2022, EFF has studied and <a href="https://www.eff.org/document/us-mexico-border-surveillance-data">mapped surveillance technology</a> along the U.S.-Mexico border using public records research, open-source intelligence, and fact-finding trips, and <span><a href="https://www.eff.org/deeplinks/2023/03/cbp-expanding-its-surveillance-tower-program-us-mexico-border-and-were-mapping-it">created a handy interactive map</a></span> to provide researchers and journalists with the tools they need to analyze the impact of U.S. border security policy. We have also documented the different types of surveillance technology in a zine, <span>"<a href="https://www.eff.org/pages/zine-surveillance-technology-us-mexico-border">Surveillance Technology at the U.S.-Mexico Border</a>." We updated the publication earlier this year to help people identify the machinery of homeland security by adding more models of surveillance towers, newly deployed military tech, and a gallery of disguised trail cams and automated license plate readers.</span></p>
+
+<p><span>EFF’s work includes <a href="https://www.eff.org/cases/alasaad-v-duke">defending the rights</a> of individuals whose devices have been <a href="https://www.eff.org/issues/border-searches">searched</a> or seized upon entering the country; <a href="https://www.eff.org/cases/united-auto-workers-v-us-department-state">pushing back</a> on the collection of biometric and social media identifiers; and developing <a href="https://www.eff.org/document/digital-privacy-us-border-one-pager-handout">digital security guidance</a> for people crossing borders.</span></p>
+
+<p>With the web of surveillance tech at the borders about to explode, EFF will continue to investigate and expose it and find ways to fight back with the communities that live in the shadow of this technological threat to human rights.</p>
+
+</div></div></div>

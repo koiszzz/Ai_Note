@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5a8f388287fc1c70",
+        "id": "8a7addd9f034bb10",
         "type": "tabs",
         "children": [
           {
-            "id": "537073eb815af892",
+            "id": "7c28e3f132e628f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI-Inbox.md",
+                "file": "整理/AI资讯日报/阿里发布Qwen3.8-Max (2026-08-04).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI-Inbox"
+              "title": "阿里发布Qwen3.8-Max (2026-08-04)"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 521.4999961853027
   },
   "right": {
     "id": "f7187db6106c572a",
@@ -176,8 +176,18 @@
             "state": {
               "type": "claudian-view",
               "state": {},
-              "icon": "bot",
-              "title": "Claudian"
+              "icon": "lucide-ghost",
+              "title": "claudian-view"
+            }
+          },
+          {
+            "id": "b7a73bcda60bb5e1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -185,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 464.642822265625
+    "width": 444.642822265625,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,28 +207,48 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "realclaudian:Open Claudian": false,
-      "obsidian-git:Open Git source control": false,
-      "github-sync:Sync with Remote": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "25c3cd4ec6f3ebd5",
+  "active": "7c28e3f132e628f2",
   "lastOpenFiles": [
-    "AI",
-    "personal_ai_note",
-    "创建链接.md",
-    "AI-Inbox.md",
-    "欢迎.md",
-    "Obsidian-AI-Setup/README.md",
-    "Obsidian-AI-Setup/AI 学习首页.md",
-    "Obsidian-AI-Setup/AI 信息源.md",
-    "Obsidian-AI-Setup/AI 收件箱.md",
-    "scripts/Fetch-AiFeeds.ps1",
-    "scripts",
-    "Obsidian-AI-Setup/scripts/Fetch-AiFeeds.ps1",
-    "Obsidian-AI-Setup/scripts",
-    "Obsidian-AI-Setup",
-    "未命名.base",
-    "未命名 1.base"
+    "整理/小众软件/复旦「学术版 Codex」：从找 Idea 到跑实验，一句话全自动.md",
+    "整理/小众软件/发现频道：10款大家发现的好评软件 2026年第31期.md",
+    "整理/小众软件/本周赛博领鸡蛋（7.31~8.6）：孤狼 OTXO、寻日之旅、变异小镇.md",
+    "整理/AI资讯日报/谷歌错过LMChat窗口 (2026-08-03).md",
+    "整理/AI资讯日报/端侧智能体本地任务规划 (2026-08-05).md",
+    "整理/AI资讯日报/阿里开源代码评审工具 (2026-07-30).md",
+    "整理/it之家/KTC 推出 27 英寸 2K 220Hz 棱镜 Q27 显示器，887 元.md",
+    "整理/it之家/AYANEO 推出复古掌机 KONKR Pocket Advance：联发科 Helio G90T 芯片，首发 499 元起.md",
+    "整理/it之家/挑战 Codex 等，Meta 推出其首个编程 AI 智能体工具 Muse Code.md",
+    "整理/it之家/试试 65°C 热风吹过的被窝：友望除螨仪 649 → 136 元新低，约 15500Pa 大吸力.md",
+    "整理/it之家/深蓝 S05 获推 DEEPAL OS 3.2：新增车头泊入、垂直车位泊出等功能.md",
+    "整理/it之家/风避人吹、风随人动、人近风柔：鸿蒙智选 1.5 匹风神之眼空调 2999 → 1499 元.md",
+    "整理/it之家/别克至境 L7 纯电版家轿预售发布：全系续航超 700km、支持 6C 快充，国补权益价 16.99 万元起.md",
+    "整理/it之家/比亚迪仰望全系车型高定版上市，U8L「暮雪千山」高定主题套装 30 万元.md",
+    "整理/it之家/长城 H10 方盒子 SUV 上市，限时换新价 20.18 万-22.38 万元.md",
+    "整理/it之家/谷歌 DeepMind 重组：哈萨比斯转任首席科学家，聚焦通用人工智能应用.md",
+    "整理/it之家/西部数据 2026 财年年报归母净利润 92.98 亿美元，同比增长 481%.md",
+    "整理/it之家/理想 i6 第 17 万辆量产车下线.md",
+    "整理/it之家/消息称三星正开发全新智能手表 Galaxy Aero，定位介于 Fit 4 手环和 Watch FE 之间.md",
+    "整理/it之家/暴雪《炉石传说》宣布升级 Unity 引擎：放弃 Win7 和 32 位系统，酒馆战棋 14 赛季正式上线.md",
+    "整理/it之家/影石 Insta360 GO Ultra AI 语音助手官宣延期推出，称团队正全力进行最后打磨与优化.md",
+    "整理/it之家/小鹏 G9L 全球首发 AI 主动贴合零重力座椅，支持一键成床.md",
+    "整理/it之家/国内首部喜剧探案动画电影《大唐妖探》延至 8 月 22 日上映，《姜子牙》导演、《唐人街探案》编剧.md",
+    "整理/it之家/华为鸿蒙 6“超透”控制 通知中心背板彩蛋在 HarmonyOS 7 花粉 Beta 版得以保留.md",
+    "整理/it之家/华为何刚：鸿蒙智行享界 G9 预售 2 小时订单超 5100 台.md",
+    "整理/it之家/Uber 2026Q2 出行订单量同比增长 18%，总预订额同比增长 24%.md",
+    "整理/NASA 每日天文图/Pasted image 20260806082048.png",
+    "整理/NASA 每日天文图/Pasted image 20260806082108.png",
+    "整理/arXiv cs.LG RSS",
+    "整理/阮一峰的网络日志",
+    "整理/arXiv cs.AI RSS",
+    "scripts/organize-ai-daily.mjs",
+    "整理/虎嗅",
+    "整理/美团技术团队",
+    "整理/游戏研究社",
+    "整理/机核",
+    "整理/小众软件",
+    "整理/华尔街见闻"
   ]
 }
