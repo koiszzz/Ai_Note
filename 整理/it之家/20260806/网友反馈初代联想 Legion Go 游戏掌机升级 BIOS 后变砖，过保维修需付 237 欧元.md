@@ -1,0 +1,44 @@
+---
+published: 2026-08-06
+title: "网友反馈初代联想 Legion Go 游戏掌机升级 BIOS 后变砖，过保维修需付 237 欧元"
+source: "it之家"
+original_file: "信息源/it之家/网友反馈初代联想 Legion Go 游戏掌机升级 BIOS 后变砖，过保维修需付 237 欧元.md"
+source_note: "[[信息源/it之家/网友反馈初代联想 Legion Go 游戏掌机升级 BIOS 后变砖，过保维修需付 237 欧元]]"
+source_sha256: c99f6092bb8c2b112bbc1b44f39988fd767089dbef5f5725ae39a0fa6609ff86
+original_url: "https://www.ithome.com/0/986/303.htm"
+processed: 2026-08-06
+language: zh-CN
+---
+
+# 网友反馈初代联想 Legion Go 游戏掌机升级 BIOS 后变砖，过保维修需付 237 欧元
+
+> [!info] 来源信息
+> - 数据源：it之家
+> - 作者：原始来源未提供
+> - 发布时间：2026-08-06
+> - 原文链接：[打开原文](https://www.ithome.com/0/986/303.htm)
+> - Vault 原文件：[[信息源/it之家/网友反馈初代联想 Legion Go 游戏掌机升级 BIOS 后变砖，过保维修需付 237 欧元|查看原始文件]]
+
+## 摘要
+
+- 本文为中文 RSS 条目，正文已从原格式转换为 Markdown 并统一排版。
+- 开篇要点：IT之家 8 月 6 日消息，科技媒体 Neowin 昨日（8 月 5 日）发布博文，报道称多名初代联想 Legion Go 游戏掌机用户反馈安装 N3CN42WW 更新后，屏幕会变黑，系统无法正常启动。 目前尚不清楚影响范围，不过根据 Reddit 社区的用户反馈，多为初代联想 Legion Go，覆盖 Z1 与 Z1 Extreme 两个版本。
+- 完整内容请阅读下方正文及原文链接。
+
+## 正文
+
+IT之家 8 月 6 日消息，科技媒体 Neowin 昨日（8 月 5 日）发布博文，**报道称多名初代联想 Legion Go 游戏掌机用户反馈安装 N3CN42WW 更新后，屏幕会变黑，系统无法正常启动。**
+
+目前尚不清楚影响范围，不过根据 Reddit 社区的用户反馈，多为初代联想 Legion Go，覆盖 Z1 与 Z1 Extreme 两个版本。
+
+在问题表现上，根据受影响用户反馈，在安装 2026 年 6 月 17 日发布的 N3CN42WW BIOS 更新后变砖。
+
+![图片](https://img.ithome.com/newsuploadfiles/2026/8/9b1a1665-5f3d-4f2d-840b-9a2446bfec51.jpg?x-bce-process=image/format,f_auto)
+
+维修费用方面，Reddit 用户 mherold11 称，其联系联想支持寻求维修，被告知设备已过保，维修需额外付费，报价为 237.16 欧元（IT之家注：现汇率约合 1,851 元人民币）。也有受影响用户称，仍在保修期内的 Legion Go 已获免费维修。
+
+![图片](https://img.ithome.com/newsuploadfiles/2026/8/3324cda4-e0f7-4195-a3ab-283917189813.jpg?x-bce-process=image/format,f_auto)
+
+## 关键词
+
+#it之家

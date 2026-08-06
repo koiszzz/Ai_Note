@@ -1,0 +1,10 @@
+# 内存危机下，微软悄然删除推荐游戏 PC 配备 32GB 内存的指南
+
+> 数据源：it之家
+> RSS：[打开源文件](https://www.ithome.com/rss/)
+
+> 发布时间：Thu, 06 Aug 2026 01:35:29 GMT　|　原文：[打开链接](https://www.ithome.com/0/986/314.htm)
+
+------
+
+<p data-vmark="5f8d">IT之家 8 月 6 日消息，全球内存短缺正在冲击整个 IT 行业，其中 PC 制造业受到的影响尤为明显。微软显然非常清楚这一问题，甚至已经开始调整自己此前关于“游戏 PC 到底需要多少内存”的指导建议。</p><p style="text-align: center;" data-vmark="578e"><img src="https://img.ithome.com/newsuploadfiles/2026/8/7b14c394-eccd-4cb3-a277-1fd0f64d8df4.jpg?x-bce-process=image/format,f_auto" w="1100" h="619" data-weibo="0" data-vmark="29c5" class="no-alt-img"></p><p data-vmark="cbcf">今年早些时候，微软曾告诉 Windows 11 用户，一台合格的游戏电脑需要配备 32GB 内存。不过，这份支持文档如今已经从微软官网消失。与此同时，微软和整个 PC 行业正面临一场前所未有的供应危机，内存、存储、GPU 以及其他核心零部件都受到影响，而这一切被认为是大型科技公司为了 AI 数据中心大规模囤积硬件所带来的后果。</p><p data-vmark="e746">IT之家注意到，微软当时发布的文章标题为《如何优化你的游戏 PC 设置》（How to optimize your gaming PC setup）。目前该页面已经无法通过公开网页访问，原始链接会跳转到 Windows 学习中心主页。不过，用户仍可以通过互联网档案馆（Internet Archive）的 Wayback Machine 查看该文档的历史版本。</p><p data-vmark="3b01">微软于 2025 年 11 月发布了这份指南，内容主要介绍了实现理想 PC 游戏体验所需的处理器、显卡和存储配置。微软表示，16GB 内存对于大多数玩家来说“已经足够”，而对于运行高负载游戏或大量 Mod 的玩家，32GB 则是更理想的容量。</p><p style="text-align: center;" data-vmark="7e55"><img src="https://img.ithome.com/newsuploadfiles/2026/8/7c012cef-5e44-416f-a157-274ecf62e973.jpg?x-bce-process=image/format,f_auto" w="1100" h="466" data-mpos="0,0" data-weibo="1" data-vmark="86e2" class="no-alt-img"></p><p data-vmark="6210">由 AI 热潮推动的供应链紧张局面（微软本身也是其中的重要参与者）实际上迫使这家公司在计算机硬件发展道路上出现了某种“倒退”。如今，微软甚至推出了一些价格昂贵、但仅配备 8GB 内存的 Surface 笔记本，而这一容量已经远远无法满足现代 PC 用户的需求。</p><p data-vmark="a450">需要指出的是，这并不完全是硬件问题，软件优化不足同样是重要因素。微软确实需要承担部分责任，但这也是整个行业长期习惯的结果：过去近十年里，由于内存价格足够低廉，开发者无需过多关注资源占用，因此逐渐形成了开发臃肿软件的趋势。</p><p data-vmark="185b">Electron 等基于网页技术的框架如今已经成为桌面应用开发的默认选择，并不是因为它们效率高，而是因为它们允许企业使用同一套代码运行在多个平台上，从而避免投入更多精力编写原生代码。</p><p data-vmark="4573">Windows 11 正是这一问题的典型例子。其大量界面仍依赖 WebView2 和类似 Electron 的封装技术，而这些方案相比原生应用通常会消耗更多内存。</p><p data-vmark="34af">微软悄然删除这份游戏优化指南，反映出公司已经意识到当前 PC 行业所面临的困境。微软 CEO 萨提亚 · 纳德拉（Satya Nadella）近期表示，公司正在通过推广原生 Windows 11 应用以及改进代码编写方式，努力重新赢回 Windows 用户的认可。</p><p data-vmark="a55d">不过，内存行业目前的供应紧张局面预计短期内难以缓解，市场可能要等到 2027 年，甚至 2028 年，才有望恢复正常。</p>
