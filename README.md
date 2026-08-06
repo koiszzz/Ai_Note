@@ -298,6 +298,38 @@ language: zh-CN
 
 日期目录取自该文章的 `published` 属性，格式严格为 `YYYYMMDD`；若 `published: null`，使用 `unknown`。合集拆分后，每篇文章都必须根据自己的发布日期进入对应日期目录，不能继续把多篇文章放在数据源根目录下。
 
+### 5.1 存量整理稿迁移与数量核对（强制）
+
+存量整理稿（历史遗留的 `整理/<数据源>/<文章>.md` 结构）必须通过迁移脚本统一规范化，不允许 LLM 手工搬移或凭记忆估算数量。执行：
+
+```powershell
+node scripts/migrate-organized-notes.mjs --vault="."
+```
+
+该脚本完成以下工作：
+
+1. 为所有缺少 `published` 的整理稿补上原始发布日期，并确保 `published` 是 YAML frontmatter 的第一个属性。日期确定优先级：已有 `published` → 源文件头部“发布时间”行 → `original_url` 中的 `/YYYY/MM/DD/` → 文件名中的 `YYYY-MM-DD`；全部无法确定时保留 `published: null` 并放入 `unknown` 日期目录。
+2. 把所有整理稿移动到 `整理/<数据源>/<YYYYMMDD|unknown>/<文章>.md` 日期目录结构。
+3. 清理重复副本：删除 `-N` 后缀且与同目录主文件内容相同或指向同一 `original_file` 的副本文件。
+4. 脚本只做机械操作（解析、frontmatter 重排、移动、删除），不代替 LLM 翻译或整理正文，也不得修改源文件。
+
+可用参数：
+
+```powershell
+node scripts/migrate-organized-notes.mjs --vault="." --dry            # 只统计与核对，不写盘
+node scripts/migrate-organized-notes.mjs --vault="." --check-only     # 只核对当前状态，不迁移
+```
+
+**迁移后必须检查数量是否对得上（强制）**：脚本输出会按数据源目录列出 `总计 / 待迁移 / 已迁移 / 无需变更 / 失败`，并在末尾给出“数量核对”四项判定。LLM 必须逐项核对以下条件，任何一项不满足即继续修复并重新运行，禁止用 `|| true` 等方式吞掉非零退出码：
+
+- 每个数据源目录的“已迁移”数必须等于该目录的“待迁移”数，且“失败”为 0。
+- 迁移后文件总数必须等于“迁移前文件总数 − 删除的重复副本数 − 同目标去重丢弃数”。
+- 迁移后 `整理/` 下不得有任何文件留在非日期目录（`整理/<源>/<文件名>.md` 或更深的非日期路径都不允许）。
+- 无法确定日期的文件必须逐文件列出，并放入 `unknown` 日期目录，不得使用当前日期冒充。
+- 脚本输出“核对结果：通过（ok: true）”且进程退出码为 0 才算通过。
+
+脚本是幂等的：已处于正确位置且 `published` 正确的文件计入“无需变更”，重复运行不产生副作用。迁移完成后，LLM 必须重新运行 `scripts/audit-organized-notes.mjs` 全量审计，确认 `pending_source_files`、`changed_source_files`、`failed_outputs` 均为 0；迁移改变了 `整理/` 中的任何文件后，之前通过的审计结果一律作废，必须重新审计。
+
 文件名规则：
 
 - 输出扩展名统一为 `.md`。

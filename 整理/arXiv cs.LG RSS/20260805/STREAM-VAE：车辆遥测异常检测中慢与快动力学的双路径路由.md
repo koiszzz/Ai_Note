@@ -1,0 +1,37 @@
+---
+published: 2026-08-05
+title: "STREAM-VAE：车辆遥测异常检测中慢与快动力学的双路径路由"
+source: "arXiv cs.LG RSS"
+original_file: "信息源/arXiv cs.LG RSS/STREAM-VAE- Dual-Path Routing for Slow and Fast Dynamics in Vehicle Telemetry Anomaly Detection.md"
+source_note: "[[信息源/arXiv cs.LG RSS/STREAM-VAE- Dual-Path Routing for Slow and Fast Dynamics in Vehicle Telemetry Anomaly Detection.]]"
+source_sha256: 8157525cc564cb5eefb14609f3346f75e2b8b1b3ebcc29a569a858cde1c65b3f
+original_url: "https://arxiv.org/abs/2511.15339"
+processed: 2026-08-05
+language: zh-CN
+---
+
+# STREAM-VAE：车辆遥测异常检测中慢与快动力学的双路径路由
+
+> [!info] 来源信息
+> - 数据源：arXiv cs.LG RSS
+> - 作者：Kadir-Kaan Özer、René Ebeling、Markus Enzweiler
+> - 发布时间：2026-08-05
+> - 原文链接：[打开原文](https://arxiv.org/abs/2511.15339)
+> - Vault 原文件：[[信息源/arXiv cs.LG RSS/STREAM-VAE- Dual-Path Routing for Slow and Fast Dynamics in Vehicle Telemetry Anomaly Detection.|查看原始文件]]
+
+## 摘要
+
+- 汽车遥测数据经常在同一序列内表现出慢漂移与快尖峰，使可靠异常检测具有挑战性；标准重建方法（包括序列变分自编码器）使用单一潜在过程，混合异质时间尺度，可能平滑尖峰或夸大方差、削弱异常分离。
+- 提出 STREAM-VAE，一个面向汽车遥测时间序列数据异常检测的变分自编码器：双路径编码器分离慢漂移与快尖峰信号动力学，解码器把瞬态偏差与正常运行模式分开表示。
+- STREAM-VAE 面向部署设计，为车载监控器与后端车队分析在各种运行模式下产生稳定异常分数。
+- 汽车遥测数据集与公共 SMD 基准上的实验表明：显式分离漂移与尖峰动力学比强预测、注意力、图与 VAE 基线改善鲁棒性。
+
+## 正文
+
+论文编号：arXiv:2511.15339v3（更新类型：replace）。以下为摘要全文翻译。
+
+汽车遥测数据经常在同一序列内表现出慢漂移与快尖峰，使可靠的异常检测具有挑战性。标准的基于重建的方法（包括序列变分自编码器）使用单一潜在过程，因此混合异质的时间尺度，可能平滑尖峰或夸大方差，削弱异常分离。在本文中，我们提出 STREAM-VAE，一个用于汽车遥测时间序列数据异常检测的变分自编码器。我们的模型使用双路径编码器分离慢漂移与快尖峰信号动力学，以及一个把瞬态偏差与正常运行模式分开表示的解码器。STREAM-VAE 面向部署设计，为车载监控器与后端车队分析在各种运行模式下产生稳定的异常分数。在汽车遥测数据集与公共 SMD 基准上的实验表明，显式分离漂移与尖峰动力学相比强预测、注意力、图与 VAE 基线改善了鲁棒性。
+
+## 关键词
+
+#异常检测 #变分自编码器 #车辆遥测 #时间序列 #双路径

@@ -1,0 +1,15 @@
+properties:
+  note.processed:
+    displayName: 文章发布日期
+views:
+  - type: table
+    name: 表格
+    filters:
+      and:
+        - file.inFolder("整理")
+    order:
+      - file.name
+      - processed
+    sort:
+      - property: processed
+        direction: DESC
