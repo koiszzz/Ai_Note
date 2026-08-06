@@ -1,0 +1,236 @@
+---
+published: 2026-08-06
+title: "谷歌AI大换血，背后究竟发生了什么？"
+source: "虎嗅"
+original_file: "信息源/虎嗅/谷歌AI大换血，背后究竟发生了什么？.md"
+source_note: "[[信息源/虎嗅/谷歌AI大换血，背后究竟发生了什么？]]"
+source_sha256: d4569394c09c9fe155e90e7d313f1ecaa024d018f54f204329c866f89c38a659
+original_url: "https://www.huxiu.com/article/4881091.html?f=rss"
+processed: 2026-08-06
+language: zh-CN
+---
+
+# 谷歌AI大换血，背后究竟发生了什么？
+
+> [!info] 来源信息
+> - 数据源：虎嗅
+> - 原文链接：[打开原文](https://www.huxiu.com/article/4881091.html?f=rss)
+> - Vault 原文件：[[信息源/虎嗅/谷歌AI大换血，背后究竟发生了什么？|查看原始文件]]
+
+## 摘要
+
+- 原始来源为中文 RSS/网页条目，以下正文保留原文信息并统一排版。
+
+## 正文
+
+本文来自微信公众号：[字母AI](https://mp.weixin.qq.com/s/zvGHYnOBWJIElAmkwO2R0Q)，作者：袁心玥，编辑：王靖，题图来自：AI生成
+
+8月5日，谷歌同时迎来了两项重要的人事变化。
+
+一边，是Google DeepMind（后文简称GDM）的领导层调整。
+
+Demis Hassabis，这位带领DeepMind创造AlphaGo、AlphaFold等标志性成果的AI科学家，不再负责GDM的日常运营，正式退居幕后，转任GDM董事长和Alphabet首席科学家。
+
+![图片](https://img.huxiucdn.com/article/content/26-08-06/452512f1-e9d6-4779-a5c5-e0dd2807e735.png?imageView2/2/w/1000/format/png/interlace/1/q/85)
+
+接手DeepMind日常运营的，是此前担任DeepMind CTO、Google首席AI架构师的Koray Kavukcuoglu。
+
+另一边，效力谷歌近27年的Jeff Dean宣布离开公司。
+
+![图片](https://img.huxiucdn.com/article/content/26-08-06/9843ee68-04b4-4011-bd67-cf879363fd44.png?imageView2/2/w/1000/format/png/interlace/1/q/85)
+
+与他一同离开的，还有Sanjay Ghemawat、Quoc Le和Oriol Vinyals。
+
+他们分别参与了Google分布式基础设施、Google Brain、Gemini以及AlphaStar等关键项目，是过去二十年谷歌AI版图的重要建设者。
+
+如今，他们将一同成立新的AI公益公司Discovery Loop。
+
+消息公布当天，Alphabet股价收跌约4%。
+
+一天时间，谷歌AI格局大变，就发生在谷歌试图加速AI竞争的关键阶段：Gemini 3.5 Pro迟迟未出、关键人才频频出走，就连CEO Sundar Pichai都承认谷歌在部分领域确实相对落后。
+
+象征谷歌模型能力的成绩单，究竟什么时候能交出来？
+
+而比模型能力更值得关注的是：为什么在AI竞争最激烈的时候，一批曾经参与构建谷歌AI版图的人，选择离开这家拥有DeepMind、TPU、搜索和云业务优势的巨头，重新创办一家AI公司？
+
+谷歌内部，究竟发生了什么？
+
+一、Gemini压力之下，谷歌有点扛不住了
+
+谷歌最不缺的，是AI研究能力。
+
+从DeepMind的AlphaGo、AlphaFold，到Google Brain推动的深度学习研究，再到自研TPU带来的算力基础，Google长期被认为拥有全球最强的AI技术储备之一。
+
+但生成式AI时代，AI竞争已经从实验室里的技术竞赛，进入模型迭代、产品落地和商业化速度的竞争。
+
+Gemini，是谷歌在生成式AI时代最重要的一次反击。
+
+2023年12月，谷歌正式发布Gemini系列模型。彼时，距离ChatGPT引爆生成式AI浪潮刚好过去一年。
+
+凭借DeepMind和Google Brain多年积累，Gemini从一开始就被寄予厚望。
+
+谷歌当时公布的测试结果显示，旗舰模型Gemini Ultra在多个基准测试中超过GPT-4。虽然部分测试方法后来受到质疑，但这次发布仍然让市场看到，谷歌并没有被OpenAI甩开。
+
+后续的模型迭代一度放大了这种期待。
+
+2025年发布的Gemini 2.5 Pro，让外界重新看到了谷歌在大模型上的竞争力。凭借更强的推理、长上下文和代码能力，Gemini 2.5 Pro在多个公开评测中表现优异。
+
+至少在当时，Google似乎找回了生成式AI竞争中的主动权。
+
+然而，Gemini 3时代，谷歌开始暴露出问题：下一代旗舰模型的推进速度，没有完全达到市场预期。
+
+等到Gemini 3.5 Pro时，问题终于兜不住了——这款能够证明谷歌模型能力的旗舰模型，原计划于6月发布，但直到现在，依然是只听雷声、不见雨点。
+
+过去的成就已经证明，谷歌并不是没有顶级模型的研发能力。
+
+那么，一定是别的地方出了问题。
+
+8月5日，Alphabet宣布：Demis Hassabis不再负责Google DeepMind日常运营，转任DeepMind董事长和Alphabet首席科学家。
+
+接替他的，是DeepMind CTO、谷歌首席AI架构师Koray Kavukcuoglu。
+
+据路透社报道，Kavukcuoglu将负责包括Gemini在内的模型开发工作，并直接向Sundar Pichai汇报。
+
+![图片](https://img.huxiucdn.com/article/content/26-08-06/bcd74263-b8e2-4063-97bc-70348354d5e8.png?imageView2/2/w/1000/format/png/interlace/1/q/85)
+
+从职务变化来看，这并不是简单的晋升。
+
+尽管Hassabis仍然保留了最高级别的科学领导角色，但在经营层面，他交出了谷歌最重要AI项目的日常控制权。
+
+一家正在苦等旗舰模型交付的公司，这时候把研发执行权交给更偏工程和产品落地的负责人，意味不言自明。
+
+如果说Hassabis负责的是谷歌AI战略和组织，那么Jeff Dean承担的则是Gemini研发的技术责任。
+
+Jeff Dean在谷歌任职近27年，参与构建了Google最核心的技术基础——早期分布式计算体系、Google Brain、TensorFlow，以及后续大规模AI模型训练基础设施。
+
+过去几年，他也是谷歌AI技术路线的重要领导者。
+
+据路透社报道，Jeff Dean此前与Oriol Vinyals、Noam Shazeer共同参与领导Gemini开发。
+
+也就是说，在Gemini旗舰模型推进不及预期时，承担技术领导责任的，也包括此次出走的人。
+
+两件事放在一起，很难被简单理解为一次普通的人才流动。
+
+二、从Hassabis到Kavukcuoglu，DeepMind正在改变什么
+
+2010年成立的DeepMind，最初并不是一家围绕短期商业化目标运转的AI公司，而是一家试图“解决智能问题（solve intelligence）”、推动科学和人类进步的人工智能研究机构。
+
+2014年，谷歌收购DeepMind。
+
+随后十年，DeepMind用一系列标志性成果证明了自己的价值：
+
+AlphaGo击败围棋世界冠军李世石；AlphaZero展示强化学习在复杂策略任务中的潜力；AlphaFold解决困扰科学界数十年的蛋白质结构预测问题。
+
+这些项目共同塑造了DeepMind的品牌，而Demis Hassabis，正是这条路线的代表人物。
+
+2023年，谷歌合并DeepMind和Google Brain，成立新的Google DeepMind，希望集中资源，加速开发下一代通用AI系统。
+
+Hassabis成为合并后GDM的CEO，负责领导这个新的AI组织。
+
+从某种意义上说，Hassabis拿到了Google AI历史上最大的权力——从DeepMind负责人，到执掌Google最核心的AI研发体系。
+
+Gemini，就是这一组织调整后的第一个重大成果。
+
+然而，随着AI竞争进入高速迭代阶段，企业需要的不只是一个领先模型，更是一套能够持续训练、快速迭代、及时发布产品的组织能力。
+
+在Gemini 3.5 Pro迟迟未到的情况下，GDM内部进行了一系列的调整，重新分配最顶尖研究资源。
+
+一个耐人寻味的变化是：DeepMind最具象征意义的科学项目之一AlphaFold，正在让位于生成式AI时代最重要的竞争项目Gemini。
+
+据《金融时报》7月29日报道，GDM解散了负责AlphaFold研发的AI for Science（AI4S）团队。
+
+过去一年里，AlphaFold论文的大部分作者已经被重新分配到其他项目：其中，一部分研究人员转向Gemini相关研究，另一部分进入Alphabet旗下AI药物研发公司Isomorphic Labs；同时，最初参与AlphaFold论文的DeepMind全职作者中，约四分之一已经离开公司。
+
+到8月5日，Alphabet宣布：Hassabis不再负责GDM日常运营，转任GDM董事长和Alphabet首席科学家。
+
+接替他的，是此前担任DeepMind CTO、Google首席AI架构师的Koray Kavukcuoglu。
+
+Kavukcuoglu本身也是DeepMind最重要的技术负责人之一：长期以来，他负责DeepMind技术路线，并参与AlphaZero、AlphaFold以及Gemini相关工作的推进。
+
+与Hassabis更偏长期研究战略不同，Kavukcuoglu的位置更加靠近模型研发和工程执行。
+
+![图片](https://img.huxiucdn.com/article/content/26-08-06/b2a76b05-eec6-4927-8f9d-d1e95effa0bd.png?imageView2/2/w/1000/format/png/interlace/1/q/85)
+
+据《The Information》报道，当谷歌联合创始人Sergey Brin要协调AI部门的重要事项——包括为团队分配AI芯片、招聘研究人员、调整员工岗位——时，他会直接联系Kavukcuoglu。
+
+报道援引多名与Kavukcuoglu共事的现任和前谷歌员工称，过去两年，他逐渐成为谷歌AI模型研发体系中的“关键协调者”（indispensable fixer）：负责协调资源分配、团队调整以及模型研发推进。
+
+虽然Kavukcuoglu不像Hassabis那样拥有诺贝尔奖光环，也不像Jeff Dean那样代表Google工程文化，但在Gemini项目推进过程中，他承担了连接研究团队与组织执行的重要角色。
+
+GDM的重心正在偏移。
+
+过去，Hassabis的任务是：找下一项AlphaGo、AlphaFold式的突破。
+
+而现在，Google更需要有人来管另一件事：如何把一个前沿模型，变成能够持续迭代、快速发布，并能服务数十亿用户的产品。
+
+三、与此同时，一群人选择离开
+
+如果说Hassabis的角色变化，是Google主动调整AI组织结构的一部分。
+
+那么Jeff Dean的离开，则留下了一个更加复杂的问题：
+
+当Google重新定义DeepMind的运行方式时，为什么参与构建Gemini的人，没有选择留下？
+
+Jeff Dean不是普通的谷歌AI研究者，过去近27年，他参与构建了谷歌从互联网时代走向AI时代的技术基础，进入大模型时代后，他同样处于谷歌AI领导层的核心。
+
+Gemini并不是一个与Jeff Dean无关的新项目，甚至可以说，他是Google试图追赶OpenAI和Anthropic过程中，负责技术方向的重要人物之一。
+
+因此，Gemini旗舰模型推进不及预期，一个自然的问题随之而来：
+
+Jeff Dean是否也需要承担责任？
+
+从企业管理逻辑来看，旗舰模型延期，并不仅仅是研究人员的问题。对于一家投入数百亿美元争夺AI竞争优势的公司而言，模型架构、训练效率、工程协作、资源分配，都会影响最终结果。
+
+而这些，正是技术领导者负责的范围。
+
+说来也巧，谷歌在外界被议论最多的地方，正是决策链条太长、资源分配混乱——一切问题皆指向内部的协调能力。
+
+但如果把Jeff Dean的离开理解为一次失败后的组织调整，未免也太过简单。
+
+因为离开的不只是Jeff Dean，还有Sanjay Ghemawat、Quoc Le和Oriol Vinyals。
+
+他们分别参与了Google过去二十年AI发展的不同阶段：
+
+Jeff Dean和Sanjay Ghemawat搭建了Google大规模分布式计算体系；Quoc Le推动了Google Brain早期深度学习研究；Oriol Vinyals参与了AlphaStar和Gemini等关键项目。
+
+也就是说，一批曾定义谷歌AI路线的人，在同一时间离开了公司。
+
+他们离开之后选择成立的，并不是一家普通创业公司，而是AI公益公司Discovery Loop。
+
+![图片](https://img.huxiucdn.com/article/content/26-08-06/cf46bf59-7088-4bd7-9bf1-76e4eaa741b6.png?imageView2/2/w/1000/format/png/interlace/1/q/85)
+
+根据公开介绍，Discovery Loop希望构建能够进行大规模运行实验的人工智能系统，并解决科学与工程领域中的关键问题。
+
+创始团队表示，他们过去帮助构建了AI基础设施和模型，而现在希望利用AI进一步探索发现本身。
+
+这个名字和公司和定位，很难不让人联想到AI行业过去几次重要的人才分裂。
+
+2015年，OpenAI成立。一批怀揣抱负的研究人员与企业家聚到一起，试图建立一家不走传统科技公司路线的AI研究机构，探索通往通用人工智能的另一种可能。其中不少人来自Google、DeepMind等机构。几年后，这支队伍站到了生成式AI浪潮的中心。
+
+2021年，Dario Amodei等人从OpenAI出走，另立Anthropic。同样的剧本再次上演——领先AI组织内部分裂，离开者渴望以另一种方式组织AI公司，围绕安全、研究方向等议题重新出发。几年后，Anthropic成了OpenAI最不可忽视的对手之一。
+
+当然，目前没有公开证据证明Jeff Dean等人的离开，是因为与Google存在类似OpenAI或Anthropic式的理念分歧。
+
+但AI行业过去几次重要组织变化，都呈现出一个共同特点：
+
+当顶尖研究人员认为现有组织方式无法完全满足他们对于AI发展的想法时，他们可能选择离开，并建立新的研究组织。
+
+大型科技公司的牌面一直很清晰：全球规模的算力、海量数据、完整的工程体系，以及成熟的商业化渠道。这也是谷歌能长期吸引顶级AI人才的主要原因。
+
+但牌面大，也意味着掣肘多：研究方向要和产品目标对齐，资源分配要走复杂流程，长期探索得面对明确的商业回报要求。
+
+目前，谷歌正在给出的答案是，把DeepMind变成一个更集中、更高效的AI研发组织，让模型训练、算力资源和产品落地绑得更紧。
+
+而Discovery Loop等机构代表了另一条路线：让少数理念相同的研究者重新聚在一起，建一个更聚焦的AI实验室。
+
+另外，一个很有意思的事实是，据公开报道，谷歌并不是完全“失去”这批人——谷歌会作为Discovery Loop的创始投资者参与，并提供云资源支持。
+
+如果这是某种问责，那实在也太过体面。与其说双方决裂，不如说是一种新关系和新格局的开始：大公司集中资源参与竞争，顶级研究者追求下一个技术突破。
+
+然后，大公司再通过投资和合作，与这些新组织保持连接。
+
+本文来自微信公众号：[字母AI](https://mp.weixin.qq.com/s/zvGHYnOBWJIElAmkwO2R0Q)，作者：袁心玥，编辑：王靖
+
+## 关键词
+
+#虎嗅

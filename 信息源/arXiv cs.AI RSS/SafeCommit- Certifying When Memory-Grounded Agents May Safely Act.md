@@ -1,0 +1,12 @@
+# SafeCommit: Certifying When Memory-Grounded Agents May Safely Act
+
+> 数据源：arXiv cs.AI RSS
+> RSS：[打开源文件](https://export.arxiv.org/rss/cs.AI)
+
+> 作者：Mayur Akewar, Ravi Ranjan　|　发布时间：Thu, 06 Aug 2026 00:00:00 -0400　|　分类：cs.AI　|　原文：[打开链接](https://arxiv.org/abs/2608.04289)
+
+------
+
+arXiv:2608.04289v1 Announce Type: new
+
+Abstract: Long-horizon agents increasingly use persistent memory and tools to take actions with external side effects. A central failure mode is premature commitment: an agent acts before resolving whether its memory grounding is stale, conflicting, incomplete, or corrupted. We formalize this problem as safe commitment under memory uncertainty and introduce SafeCommit, a risk controlled layer between agent reasoning and external execution. The layer constructs a calibrated set of plausible latent worlds from memory, observations, tool outputs, provenance, and policy constraints. It permits a side effectful action only when a conformal action certificate shows that the action is safe in every retained world. Otherwise, it selects a low-side-effect probe that targets the worlds blocking certification, or returns a conservative fallback. Under calibrated world coverage, the probability of an unsafe certified commit is at most the target level {\alpha}; with imperfect world proposal, the bound separates calibration and representation error. A dependency-free controlled simulator illustrates the safety-utility tradeoff and reproduces all reported results with one command. The goal is to offer a concrete approach for deciding not only what an agent should do, but when the available evidence is sufficient to safely do it.

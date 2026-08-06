@@ -1,0 +1,12 @@
+# Trivium: Temporal Regret as a First-Class Objective for Causal-Memory Controllers
+
+> 数据源：arXiv cs.AI RSS
+> RSS：[打开源文件](https://export.arxiv.org/rss/cs.AI)
+
+> 作者：Edward Y. Chang　|　发布时间：Thu, 06 Aug 2026 00:00:00 -0400　|　分类：cs.AI　|　原文：[打开链接](https://arxiv.org/abs/2606.04421)
+
+------
+
+arXiv:2606.04421v3 Announce Type: replace
+
+Abstract: Many agentic systems and LLM pipelines correct mistakes by optimizing outcome reward. This addresses only the what of failure; the why and when may go unlogged, allowing the same error to recur across episodes. We propose long-horizon temporal regret alongside outcome regret and epistemic regret. These are diagnostic quantities, not standard comparator-based online-learning regrets. Temporal regret captures how long an unresolved or incorrect causal model is tolerated; epistemic regret captures posterior error over that model. Over a stream of E episodes, we prove three conditional results under explicit probing, persistence, and detectability assumptions. First, under observationally equivalent confounding, outcome-only learning cannot separate causal from spurious structure, so miscalibration can persist after outcome regret reaches zero. Second, with a persistent causal log and budgeted probes, total probe complexity is logarithmic in E, inducing O(log E) delayed-identification temporal regret. The implemented clipped soft score adds a linear numerical floor, so this logarithmic claim applies only to identification delay. Third, under K detectable change-points, the rate extends to O(K log E). We instantiate Trivium and state five falsifiable predictions. On CausalBench-Seq, a hard structural readout records 7.8+-2.9 misidentified episodes per seed over 500 episodes and 20 seeds, with zero observed stationary errors, while outcome-only controllers remain misidentified throughout. Audit ablations show that continued posterior updating, not detector reopening or local repair, drives posterior recovery; local repair instead reduces committed-graph dispatch exposure. The prior logarithmic-envelope verdict based on a clipped soft score is withdrawn. A pilot real-LLM stream provides external evidence. Self-learning here means revising an external causal model, not retraining LLM weights.

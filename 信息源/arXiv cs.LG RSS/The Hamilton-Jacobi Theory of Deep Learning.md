@@ -1,0 +1,12 @@
+# The Hamilton-Jacobi Theory of Deep Learning
+
+> 数据源：arXiv cs.LG RSS
+> RSS：[打开源文件](https://export.arxiv.org/rss/cs.LG)
+
+> 作者：Jose Marie Antonio Mi\~noza, Erika Fille T. Legara, Christopher P. Monterola　|　发布时间：Thu, 06 Aug 2026 00:00:00 -0400　|　分类：cs.LG　|　原文：[打开链接](https://arxiv.org/abs/2605.28983)
+
+------
+
+arXiv:2605.28983v2 Announce Type: replace
+
+Abstract: In this paper, training a neural network is identified, exactly, as a search through Hamilton--Jacobi initial-value problems: each gradient step selects the initial data of a viscous Hamilton--Jacobi equation whose Hopf--Cole propagator best fits the observations; at inference, the input is the spatial point at which that solution is evaluated and the initial condition is already encoded in the weights. The correspondence is exact for log-sum-exp layers, with ReLU, sigmoid, SiLU, and GELU each an exact limit, gradient, or moment of the same object, and exact in composition across depth and width, with a quantified error at finite depth that vanishes in the joint limit. It is structural for residual networks, transformers, and recurrent networks (RNNs, LSTMs, SSMs), each discretizing the same class of equations, at a named and quantified approximation error. A single deformation parameter $\varepsilon$ unifies all four perspectives (network, tropical algebra, viscous PDE, convex optimization) in a commutative diagram closed under Lipschitz conditions. Quantitative consequences include: the minimax optimal generalization rate $O(n^{-1/(d+2)})$ for fixed $t$; adversarial robustness controlled by $\varepsilon$; backpropagation as the co-state equation of the Hamiltonian system for residual networks (Pontryagin Maximum Principle); scaling exponents consistent with data intrinsic dimension via PDE quadrature; and a closed-form $O(N)$ influence function (softmax attribution weights $\pi_j$) whose entropy landscape undergoes fold bifurcations as $\varepsilon$ increases, each merging attribution basins.

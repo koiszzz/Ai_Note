@@ -6,7 +6,7 @@ original_file: "信息源/掘金人工智能/08 千人千面：Agent用户记忆
 source_note: "[[信息源/掘金人工智能/08 千人千面：Agent用户记忆与上下文管理]]"
 source_sha256: 9b5d795bc49d0d018fe40d24bffde68358ee2858bb95e1df0c3677f2f3792a9b
 original_url: https://juejin.cn/post/7670150711409868854
-processed: 2026-08-05
+processed: 2026-08-06
 language: zh-CN
 ---
 

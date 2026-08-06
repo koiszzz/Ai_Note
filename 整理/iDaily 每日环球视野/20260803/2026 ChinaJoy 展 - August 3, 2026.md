@@ -6,7 +6,7 @@ original_file: "信息源/iDaily 每日环球视野/2026 ChinaJoy 展 - August 3
 source_note: "[[信息源/iDaily 每日环球视野/2026 ChinaJoy 展 - August 3, 2026]]"
 source_sha256: 115f28d6748d4e9141587461e4e528c251df974d04e59f5c35cad50f089683cc
 original_url: "https://m.idai.ly/se/f66wwh"
-processed: 2026-08-05
+processed: 2026-08-06
 language: zh-CN
 ---
 

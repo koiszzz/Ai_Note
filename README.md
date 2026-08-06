@@ -99,6 +99,16 @@ node scripts/audit-organized-notes.mjs --vault="."
 
 ### 1. 抓取最新信息
 
+部分数据源（如 Hugging Face、GitHub Pages 上的源）需要代理才能连通。若直连抓取失败，先设置代理再执行命令：
+
+```powershell
+$env:HTTP_PROXY="http://localhost:10800"
+$env:HTTPS_PROXY="http://localhost:10800"
+$env:NODE_USE_ENV_PROXY="1"
+```
+
+`NODE_USE_ENV_PROXY=1` 让 Node 内置 fetch 直接走代理（Node 24+）；未设置时脚本会在 fetch 超时后自动用 curl 回退，curl 同样读取 `HTTP_PROXY`/`HTTPS_PROXY`。代理仅解决连接类失败；返回 404、正文为空等数据源本身的问题不会因代理而恢复。
+
 在仓库根目录执行：
 
 ```powershell

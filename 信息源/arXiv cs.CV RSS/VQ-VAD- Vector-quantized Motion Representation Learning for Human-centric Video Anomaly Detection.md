@@ -1,0 +1,12 @@
+# VQ-VAD: Vector-quantized Motion Representation Learning for Human-centric Video Anomaly Detection
+
+> 数据源：arXiv cs.CV RSS
+> RSS：[打开源文件](https://export.arxiv.org/rss/cs.CV)
+
+> 作者：Narges Rashvand, Ghazal Alinezhad Noghre, Shanle Yao, Gabriel Maldonado, Hamed Tabkhi　|　发布时间：Thu, 06 Aug 2026 00:00:00 -0400　|　分类：cs.CV　|　原文：[打开链接](https://arxiv.org/abs/2608.05069)
+
+------
+
+arXiv:2608.05069v1 Announce Type: new
+
+Abstract: Video Anomaly Detection (VAD) is inherently challenging due to the scarcity of anomalies and the large visual variability in surveillance footage, including changes in lighting, viewpoint, and human appearance. To mitigate visual noise and address privacy concerns, recent work has shifted to pose-based VAD, which focuses on motion dynamics rather than raw video data. However, existing pose-based approaches model human behavior in continuous latent spaces, limiting their ability to learn compact motion patterns necessary for robust behavior analysis. We address this by proposing Vector-Quantized Video Anomaly Detection (VQ-VAD), a novel human-centric anomaly detection framework that learns discrete motion representations. VQ-VAD adapts Vector-Quantized GAN (VQ-GAN), originally developed for image generation, to operate on keypoint sequences and construct a motion codebook of normal behavior. Trained exclusively on normal motion sequences, VQ-VAD detects anomalies by identifying high reconstruction errors when an observed motion sequence cannot be mapped to the learned codebook. We conduct extensive experiments across three complementary evaluation settings, including in-domain, cross-domain, and cross-dataset generalization, on four anomaly detection benchmarks. VQ-VAD achieves strong in-domain accuracy (81.83% on HR-SHT [15]), effective cross-domain transfer from CMU Panoptic [14] (76.69% on HR-SHT [15] without retraining), and competitive cross-dataset robustness. The code base for this work is available at https://github.com/TeCSAR-UNCC/VQ-VAD.

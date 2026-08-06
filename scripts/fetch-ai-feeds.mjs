@@ -17,9 +17,24 @@ const resources = [
   ['Mozilla Hacks', 'https://hacks.mozilla.org/feed/', 'rss'],
   ['EFF 数字权利动态', 'https://www.eff.org/rss/updates.xml', 'rss'],
   ['Google Blog Feed', 'https://blog.google/intl/zh-tw/rss/', 'rss'],
-  //['Hugging Face Blog Feed', 'https://huggingface.co/blog/feed.xml', 'rss'],
+  //['The Batch（DeepLearning.AI）', 'https://www.deeplearning.ai/the-batch/feed/', 'rss'],
+  //['Hugging Face Blog Feed', 'https://huggingface.co/blog/feed.xml', 'rss'], // 条目仅含标题/链接，无正文，验证失败
+  //['Anthropic Blog', 'https://www.anthropic.com/rss.xml', 'rss'],
+  //['LlamaIndex Blog', 'https://www.llamaindex.ai/blog/rss.xml', 'rss'],
+  //['Papers With Code', 'https://paperswithcode.com/feeds/latest', 'rss'],
+  //['GitHub Trending RSS', 'https://mshibanami.github.io/GitHubTrendingRSS/', 'rss'],
+  ['Import AI', 'https://jack-clark.net/feed/', 'rss'],
+  ['MIT Technology Review AI', 'https://www.technologyreview.com/topic/artificial-intelligence/feed', 'rss'],
+  ['Ben\'s Bites', 'https://bensbites.com/feed', 'rss'],
+  ['OpenAI News', 'https://openai.com/news/rss.xml', 'rss'],
+  ['Google DeepMind Blog', 'https://deepmind.google/blog/rss.xml', 'rss'],
+  ['LangChain Blog', 'https://www.langchain.com/blog/rss.xml', 'rss'],
+  ['Simon Willison Blog', 'https://simonwillison.net/atom/everything/', 'atom'],
+  ['Sebastian Raschka Blog', 'https://sebastianraschka.com/rss_feed.xml', 'rss'],
   ['arXiv cs.AI RSS', 'https://export.arxiv.org/rss/cs.AI', 'rss'],
   ['arXiv cs.LG RSS', 'https://export.arxiv.org/rss/cs.LG', 'rss'],
+  ['arXiv cs.CL RSS', 'https://export.arxiv.org/rss/cs.CL', 'rss'],
+  ['arXiv cs.CV RSS', 'https://export.arxiv.org/rss/cs.CV', 'rss'],
   ['阮一峰的网络日志', 'https://www.ruanyifeng.com/blog/atom.xml', 'atom'],
   ['美团技术团队', 'https://tech.meituan.com/feed', 'rss'],
   ['机核', 'https://www.gcores.com/rss', 'rss'],
@@ -28,9 +43,11 @@ const resources = [
   ['游戏研究社', 'https://www.yystv.cn/rss/feed', 'rss'],
   ['AI资讯日报', 'https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml', 'rss'],
   ['华尔街见闻', 'https://feed.wallstreetcn.com/wallstreetcn/news/global', 'rss'],
-  ['it之家', 'https://www.ithome.com/rss/', 'rss'],
+  //['it之家', 'https://www.ithome.com/rss/', 'rss'],
   ['虎嗅', 'https://rss.huxiu.com/', 'rss'],
-  ['掘金人工智能', 'https://rss.injahow.cn/juejin/category/ai', 'rss']
+  ['掘金人工智能', 'https://rss.injahow.cn/juejin/category/ai', 'rss'],
+  //['机器之心', 'https://www.jiqizhixin.com/rss', 'rss'],
+  ['量子位', 'https://www.qbitai.com/feed', 'rss']
 ].map(([name, url, kind, formatter]) => ({ name, url, kind, formatter }));
 
 const supportedKinds = new Set(['rss', 'atom', 'html']);

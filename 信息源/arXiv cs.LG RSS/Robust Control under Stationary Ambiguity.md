@@ -1,0 +1,12 @@
+# Robust Control under Stationary Ambiguity
+
+> 数据源：arXiv cs.LG RSS
+> RSS：[打开源文件](https://export.arxiv.org/rss/cs.LG)
+
+> 作者：Konrad J. Mueller, Amira Akkari, Ben Wood, Lukas Gonon　|　发布时间：Thu, 06 Aug 2026 00:00:00 -0400　|　分类：cs.LG　|　原文：[打开链接](https://arxiv.org/abs/2608.04832)
+
+------
+
+arXiv:2608.04832v1 Announce Type: new
+
+Abstract: Control policies optimized in simulation can perform poorly in the real system when the parameters $x$ of the simulator are estimated from limited data but the resulting parameter uncertainty is not represented inside the simulation. A common way to incorporate such ambiguity is to simulate each trajectory of the system under a randomly drawn value for $x$. Since the policy cannot observe the drawn value, it must initially choose controls that perform well across many possible parameter values. However, if the policy progressively observes the system, it can often gradually infer the value of $x$, so that ambiguity vanishes. Over time, the policy then specializes to its estimate of $x$ and loses its robustness. This is undesirable in many real systems, where latent factors are expected to shift. In financial markets, for example, a policy hedging a derivative payoff should remain robust to changes in the volatility regime. To induce such continual robustness, we propose training policies in simulators where ambiguity varies with the system's state but does not systematically decay over time. We formalize this requirement as stationary ambiguity: the simulator should induce a stationary filter process over the latent state. We show how to construct such simulators and demonstrate, on hedging problems, that policies trained under stationary ambiguity preserve robustness to latent factors over time, leading to strong performance on real market data. As a modeling principle, stationary ambiguity informs many simulator design decisions: which models make realistic simulators, how their parameters should be randomized, and how simulator and policy should be initialized. While our experiments focus on hedging, stationary ambiguity may also be useful for other sequential control problems driven by exogenous stochastic processes with shifting latent structure.

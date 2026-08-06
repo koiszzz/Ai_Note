@@ -7,9 +7,16 @@ views:
     filters:
       and:
         - file.inFolder("整理")
+        - or:
+            - file.name.contains("AI")
+            - file.tags.contains("AI")
     order:
       - file.name
       - processed
+      - file.tags
+      - file.folder
     sort:
       - property: processed
         direction: DESC
+    columnSize:
+      file.name: 610

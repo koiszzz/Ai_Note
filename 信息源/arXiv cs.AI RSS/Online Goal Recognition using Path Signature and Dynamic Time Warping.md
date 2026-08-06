@@ -1,0 +1,12 @@
+# Online Goal Recognition using Path Signature and Dynamic Time Warping
+
+> 数据源：arXiv cs.AI RSS
+> RSS：[打开源文件](https://export.arxiv.org/rss/cs.AI)
+
+> 作者：Douglas Tesch, Nathan Gavenski, Leonardo Amado, Odinaldo Rodrigues, Felipe Meneguzzi　|　发布时间：Thu, 06 Aug 2026 00:00:00 -0400　|　分类：cs.AI　|　原文：[打开链接](https://arxiv.org/abs/2605.07736)
+
+------
+
+arXiv:2605.07736v2 Announce Type: replace
+
+Abstract: Online goal recognition in continuous domains poses two central challenges: efficiently encoding large trajectories and effectively comparing them. Recent work addresses these challenges by using custom state-space representations and metrics to compare observations against hypotheses. However, these approaches often overlook well-established encoding techniques used in other domains that offer substantial advantages. This paper introduces a novel method for online goal recognition that leverages path signatures, a compact, expressive representation of rough path theory that efficiently captures key semantic features of trajectories, enabling more meaningful comparisons between them. Experiments show that our method consistently outperforms the state of the art in predictive accuracy and online planning efficiency, while remaining competitive offline.

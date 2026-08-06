@@ -1,0 +1,12 @@
+# Visual Anchoring in Diffusion: Multimodal Zero-Shot Skeleton Action Recognition
+
+> 数据源：arXiv cs.CV RSS
+> RSS：[打开源文件](https://export.arxiv.org/rss/cs.CV)
+
+> 作者：Zehao Bao, Shujun Guo, Bruce X. B. Yu　|　发布时间：Thu, 06 Aug 2026 00:00:00 -0400　|　分类：cs.CV　|　原文：[打开链接](https://arxiv.org/abs/2608.04623)
+
+------
+
+arXiv:2608.04623v1 Announce Type: new
+
+Abstract: Zero-shot Skeleton Action Recognition (ZSAR) remains ambiguous when unseen actions share similar skeleton joint dynamics but differ in objects or scene context. RGB provides these missing cues, yet existing multimodal methods typically maintain independent skeleton and RGB scoring branches and fuse their outputs. Without using unlabeled test data for adaptation or fusion calibration, a fixed fusion weight cannot capture class-pair-dependent modality reliability, while an adaptive rule lacks target-side feedback for deciding which branch should dominate. We bypass this weight-selection problem via the classify-by-generation paradigm, where each class is scored by how accurately a text-conditioned denoiser predicts the noise added to the skeleton feature. This formulation separates the progressively corrupted skeleton from fixed conditioning, allowing RGB and text to jointly condition a single class-scoring function rather than produce independent scores. We instantiate this idea as Multimodal Triplet Diffusion for Skeleton-Text Matching (TDSM-MM), augmenting a text-conditioned denoising Transformer with a non-diffused RGB condition token that serves as a stable visual anchor during skeleton data reconstruction. Our proposed TDSM-MM has been ablated via extensive experiments and achieved the best inductive accuracy on three of four NTU-60/120 splits and surpasses the transductive state-of-the-art on NTU-120 96/24 (i.e., 71.3% vs. 69.1%), without test-time adaptation, suggesting that diffusion-based methods can be a promising direction for zero-shot learning.

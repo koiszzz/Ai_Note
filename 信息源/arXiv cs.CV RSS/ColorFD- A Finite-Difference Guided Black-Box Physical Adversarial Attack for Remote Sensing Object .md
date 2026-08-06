@@ -1,0 +1,12 @@
+# ColorFD: A Finite-Difference Guided Black-Box Physical Adversarial Attack for Remote Sensing Object Detection
+
+> 数据源：arXiv cs.CV RSS
+> RSS：[打开源文件](https://export.arxiv.org/rss/cs.CV)
+
+> 作者：Tiannuo Guo, Guhang Qiu, Yuzhen Xie, Rui Feng, Ligang Li, Deliang Xiang　|　发布时间：Thu, 06 Aug 2026 00:00:00 -0400　|　分类：cs.CV　|　原文：[打开链接](https://arxiv.org/abs/2608.04559)
+
+------
+
+arXiv:2608.04559v1 Announce Type: new
+
+Abstract: Although deep neural network-based remote sensing object detectors have achieved strong performance, they remain vulnerable to adversarial perturbations. Existing studies mainly focus on digital or white-box settings, whereas black-box physical attacks remain underexplored. These attacks are often constrained by limited physical feasibility and inefficient optimization in high-dimensional search spaces. To address these challenges, this paper proposes ColorFD, a black-box physical attack based on multiple pure-color patches. The patch positions and color parameters are jointly optimized using Differential Evolution (DE). A target-wise fitness and selection mechanism evaluates the attack state of each target and preserves target-specific improvements during evolution. Two guidance strategies further constrain the patch search space. Key-region localization identifies sensitive regions through finite-difference color probing. Common-feature extraction provides category-level spatial priors and avoids repeated localization. Although evaluated on aircraft, the formulation is not inherently restricted to this category. Experiments on YOLOv3u, YOLOv5u, and Faster R-CNN show that ColorFD outperforms the tested black-box patch method across all evaluated detectors and remains competitive with strong white-box baselines. Physical-world experiments further demonstrate that the optimized pure-color patches can be transferred from the digital domain to real imaging conditions.
