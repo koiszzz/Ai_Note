@@ -1,5 +1,4 @@
 ---
-published: 2026-08-06
 title: "Vol.183｜我替你玩了 ChinaJoy 2026 上所有的 VR 游戏"
 source: "机核"
 original_file: "信息源/机核/Vol.183｜我替你玩了 ChinaJoy 2026 上所有的 VR 游戏.md"

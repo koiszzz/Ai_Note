@@ -1,5 +1,4 @@
 ---
-published: 2026-08-06
 title: "FDA批准首款mRNA流感疫苗：相对疫苗效力提升26.6%，Moderna走出新冠之后关键一步"
 source: "虎嗅"
 original_file: "信息源/虎嗅/FDA批准首款mRNA流感疫苗：相对疫苗效力提升26.6%，Moderna走出新冠之后关键一步.md"

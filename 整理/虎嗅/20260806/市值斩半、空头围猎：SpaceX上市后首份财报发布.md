@@ -1,5 +1,4 @@
 ---
-published: 2026-08-06
 title: "市值斩半、空头围猎：SpaceX上市后首份财报发布"
 source: "虎嗅"
 original_file: "信息源/虎嗅/市值斩半、空头围猎：SpaceX上市后首份财报发布.md"

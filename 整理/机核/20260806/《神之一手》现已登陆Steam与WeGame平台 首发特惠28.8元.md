@@ -1,5 +1,4 @@
 ---
-published: 2026-08-06
 title: "《神之一手》现已登陆Steam与WeGame平台 首发特惠28.8元"
 source: "机核"
 original_file: "信息源/机核/《神之一手》现已登陆Steam与WeGame平台 首发特惠28.8元.md"

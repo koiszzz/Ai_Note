@@ -1,5 +1,4 @@
 ---
-published: 2026-08-06
 title: "没有工厂的if椰子水，一年市值蒸发近九成"
 source: "虎嗅"
 original_file: "信息源/虎嗅/没有工厂的if椰子水，一年市值蒸发近九成.md"

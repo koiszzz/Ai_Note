@@ -1,5 +1,4 @@
 ---
-published: 2026-08-06
 title: "AI 的「最后一公里」，应该怎么走？"
 source: "虎嗅"
 original_file: "信息源/虎嗅/AI 的「最后一公里」，应该怎么走？.md"

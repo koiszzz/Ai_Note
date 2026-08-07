@@ -1,5 +1,4 @@
 ---
-published: 2026-08-06
 title: "关于DeepSeek API涨价的评论"
 source: "虎嗅"
 original_file: "信息源/虎嗅/关于DeepSeek API涨价的评论.md"

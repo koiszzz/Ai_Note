@@ -98,6 +98,22 @@ function sha256(buffer) {
   return crypto.createHash('sha256').update(buffer).digest('hex');
 }
 
+function stripPublishedMarker(text) {
+  return text
+    .split(/\r?\n/)
+    .map((line) => {
+      const index = line.indexOf('发布时间：');
+      if (index < 0) return line;
+      const head = line.slice(0, index);
+      const rest = line.slice(index + '发布时间：'.length);
+      const value = rest.match(/^[^　|]*/)?.[0] || '';
+      const tail = rest.slice(value.length).replace(/^[　|]+/, '');
+      const normalized = head + tail;
+      return /^>\s*$/.test(normalized) ? '' : normalized;
+    })
+    .join('\n');
+}
+
 function isWithinSourceRoot(relativePath) {
   return relativePath === '信息源' || relativePath.startsWith('信息源/');
 }
@@ -142,6 +158,7 @@ export function auditVault(vaultPath, options = {}) {
         relative,
         text,
         hash: sha256(buffer),
+        normalizedHash: sha256(Buffer.from(stripPublishedMarker(text), 'utf8')),
         fragments: expectedFragments(text, relative),
       });
     } catch (error) {
@@ -152,6 +169,7 @@ export function auditVault(vaultPath, options = {}) {
   const outputsBySource = new Map();
   const outputFailures = [];
   let passedOutputs = 0;
+  let publishedMarkerOnlyOutputs = 0;
   for (const outputPath of outputPaths) {
     const outputRelative = normalizeRelative(path.relative(root, outputPath));
     let markdown;
@@ -171,7 +189,14 @@ export function auditVault(vaultPath, options = {}) {
     }
     const source = sources.get(originalFile);
     if (!source) errors.push('original_file 对应的可读取源文件不存在。');
-    if (source && String(fields.source_sha256 || '').toLowerCase() !== source.hash) errors.push('source_sha256 与当前源文件不一致。');
+    let publishedMarkerOnlyChange = false;
+    if (source) {
+      const recorded = String(fields.source_sha256 || '').toLowerCase();
+      const rawMatch = recorded === source.hash;
+      const markerOnlyMatch = !rawMatch && recorded === source.normalizedHash;
+      if (!rawMatch && !markerOnlyMatch) errors.push('source_sha256 与当前源文件不一致。');
+      else publishedMarkerOnlyChange = !rawMatch;
+    }
 
     const manualApproved = String(fields.validation_manual_approved || '').toLowerCase() === 'true';
     const validationAttempt = Number(fields.validation_attempt || (manualApproved ? 2 : 1));
@@ -199,7 +224,8 @@ export function auditVault(vaultPath, options = {}) {
       outputsBySource.get(originalFile).push(record);
     }
     if (record.valid) passedOutputs++;
-    else outputFailures.push({ output: outputRelative, source: originalFile || null, errors: [...new Set(errors)] });
+    if (publishedMarkerOnlyChange) publishedMarkerOnlyOutputs++;
+    if (!record.valid) outputFailures.push({ output: outputRelative, source: originalFile || null, errors: [...new Set(errors)] });
   }
 
   const coveredSources = [];
@@ -242,6 +268,7 @@ export function auditVault(vaultPath, options = {}) {
     changed_source_files: changedSources.size,
     output_articles: outputPaths.length,
     passed_outputs: passedOutputs,
+    published_marker_only_outputs: publishedMarkerOnlyOutputs,
     failed_outputs: failedOutputs,
     unreadable_source_files: unreadableSources.length,
     details: {

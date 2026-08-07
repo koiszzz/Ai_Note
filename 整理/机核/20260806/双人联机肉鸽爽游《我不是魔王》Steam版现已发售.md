@@ -1,5 +1,4 @@
 ---
-published: 2026-08-06
 title: "双人联机肉鸽爽游《我不是魔王》Steam版现已发售"
 source: "机核"
 original_file: "信息源/机核/双人联机肉鸽爽游《我不是魔王》Steam版现已发售.md"

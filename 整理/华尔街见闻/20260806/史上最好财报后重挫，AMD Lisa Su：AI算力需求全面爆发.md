@@ -1,5 +1,4 @@
 ---
-published: 2026-08-06
 title: "史上最好财报后重挫，AMD Lisa Su：AI算力需求全面爆发"
 source: "华尔街见闻"
 original_file: "信息源/华尔街见闻/史上最好财报后重挫，AMD Lisa Su：AI算力需求全面爆发.md"

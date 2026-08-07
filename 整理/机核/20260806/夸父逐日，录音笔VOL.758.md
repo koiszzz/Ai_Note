@@ -1,5 +1,4 @@
 ---
-published: 2026-08-06
 title: "夸父逐日，录音笔VOL.758"
 source: "机核"
 original_file: "信息源/机核/夸父逐日，录音笔VOL.758.md"

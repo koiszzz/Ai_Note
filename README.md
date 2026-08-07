@@ -20,7 +20,7 @@ LLM 收到这句话后，应直接完成下方全部流程，不需要再次询�
 
 > 抓取完成后，对本次扫描到的所有可读取待处理文件逐一完成解析、完整中文翻译或中文重排、写入、逐篇校验和最终审计，直到待处理数量为 0。
 
-输出笔记数量不能代替源文件覆盖率。合集拆分后可能由少量源文件产生大量笔记，因此必须以去重后的 `original_file` 覆盖情况和 `source_sha256` 为完成依据。
+输出笔记数量不能代替源文件覆盖率。合集拆分后可能由少量源文件产生大量笔记，因此必须以去重后的 `original_file` 覆盖情况和 `source_sha256` 为完成依据。源文件仅在整理后新增或改动 `发布时间` 标记行（其余内容与哈希一致）时，视为哈希一致，不判定为未整理。
 
 ### 必须持续执行的循环
 
@@ -56,7 +56,7 @@ LLM 收到这句话后，应直接完成下方全部流程，不需要再次询�
 发送最终答复前，模型必须重新读取本节并执行全量审计。以下条件必须同时满足：
 
 - `pending_source_files = 0`：不存在未被有效整理结果覆盖的可读取源文件。
-- `changed_source_files = 0`：不存在 `source_sha256` 与当前原文件不一致的整理结果。
+- `changed_source_files = 0`：不存在 `source_sha256` 与当前原文件不一致的整理结果。原文件仅新增或改动 `发布时间`（published）标记行、其余内容一致时视为一致，不进入 `changed` 或 `pending`。
 - `failed_outputs = 0`：所有新建或更新的输出均通过逐篇译后检测。
 - 每个可读取源文件都至少有一个有效输出；合集文件的每个独立条目都有独立输出。
 - 所有非简体中文标题和正文均已完整翻译；没有只翻译标题、摘要或前几段的文件。
@@ -64,7 +64,7 @@ LLM 收到这句话后，应直接完成下方全部流程，不需要再次询�
 
 任何一项不满足时，审计结果只能作为内部进度信息，模型必须继续处理，禁止据此结束任务。
 
-审计统计至少应包含以下字段，并按当前文件系统重新计算：`total_source_files`、`covered_source_files`、`pending_source_files`、`changed_source_files`、`output_articles`、`passed_outputs`、`failed_outputs`。其中 `covered_source_files` 必须按有效且哈希一致的 `original_file` 去重；若源文件是合集，只有所有已识别的 `source_fragment` 都存在并通过检测后，该源文件才算已覆盖。
+审计统计至少应包含以下字段，并按当前文件系统重新计算：`total_source_files`、`covered_source_files`、`pending_source_files`、`changed_source_files`、`output_articles`、`passed_outputs`、`failed_outputs`。其中 `covered_source_files` 必须按有效且哈希一致的 `original_file` 去重（原文件仅新增或改动 `发布时间` 标记行时视为哈希一致）；若源文件是合集，只有所有已识别的 `source_fragment` 都存在并通过检测后，该源文件才算已覆盖。
 
 ### 强制审计命令（退出前必须调用）
 
@@ -237,7 +237,7 @@ Unicode 转义：\\u[0-9A-Fa-f]{4}
 
 ### 4. 统一排版
 
-每个结果文件必须从 YAML frontmatter 开始，第一行必须是 `---`，不得在 frontmatter 前写标题、说明或其他内容。`published` 是必填属性，并且必须作为 frontmatter 的第一个属性维护；它表示文章的原始发布日期，不是整理日期。日期统一使用 `YYYY-MM-DD`。如果原文没有明确发布日期，必须根据原文上下文或来源页面谨慎判断，不能随意使用当前日期；确实无法确认时保留 `published: null`，并将该文章放入 `unknown` 日期目录，同时在来源信息中说明日期缺失。
+每个结果文件必须从 YAML frontmatter 开始，第一行必须是 `---`，不得在 frontmatter 前写标题、说明或其他内容。`published` 是必填属性，并且必须作为 frontmatter 的第一个属性维护；它表示文章的原始发布日期，不是整理日期。日期统一使用 `YYYY-MM-DD`。如果原文没有明确发布日期，必须根据原文上下文或来源页面谨慎判断，不能随意使用当前日期；确实无法确认时保留 `published: null`，并在来源信息中说明日期缺失。日期目录统一按 `published → processed → 当天` 决定（见 5.1 迁移脚本），不使用 `unknown` 目录。
 
 除 `published` 外，没有的信息项可以省略，但不得省略 `published`。
 
@@ -306,11 +306,11 @@ language: zh-CN
 → 整理/Google Blog Feed/20260806/Example.md
 ```
 
-日期目录取自该文章的 `published` 属性，格式严格为 `YYYYMMDD`；若 `published: null`，使用 `unknown`。合集拆分后，每篇文章都必须根据自己的发布日期进入对应日期目录，不能继续把多篇文章放在数据源根目录下。
+日期目录按以下优先级确定：frontmatter 的 `published`（默认优先）→ `processed` → 都没有时使用当天日期；格式统一为 `YYYYMMDD`，不使用 `unknown` 目录。合集拆分后，每篇文章都必须根据自己的发布日期进入对应日期目录，不能继续把多篇文章放在数据源根目录下。
 
 ### 5.1 存量整理稿迁移与数量核对（强制）
 
-存量整理稿（历史遗留的 `整理/<数据源>/<文章>.md` 结构）必须通过迁移脚本统一规范化，不允许 LLM 手工搬移或凭记忆估算数量。执行：
+整理脚本（`organize-ai-daily.mjs`、`organize-chinese-feeds.mjs` 等）会把结果先写入 `整理/<数据源>/` 平铺结构，因此每次运行整理脚本后都必须执行迁移脚本，把平铺文件规范化到日期目录（不限于历史遗留文件，脚本产物同样适用）；不允许 LLM 手工搬移或凭记忆估算数量。执行：
 
 ```powershell
 node scripts/migrate-organized-notes.mjs --vault="."
@@ -318,27 +318,28 @@ node scripts/migrate-organized-notes.mjs --vault="."
 
 该脚本完成以下工作：
 
-1. 为所有缺少 `published` 的整理稿补上原始发布日期，并确保 `published` 是 YAML frontmatter 的第一个属性。日期确定优先级：已有 `published` → 源文件头部“发布时间”行 → `original_url` 中的 `/YYYY/MM/DD/` → 文件名中的 `YYYY-MM-DD`；全部无法确定时保留 `published: null` 并放入 `unknown` 日期目录。
-2. 把所有整理稿移动到 `整理/<数据源>/<YYYYMMDD|unknown>/<文章>.md` 日期目录结构。
-3. 清理重复副本：删除 `-N` 后缀且与同目录主文件内容相同或指向同一 `original_file` 的副本文件。
-4. 脚本只做机械操作（解析、frontmatter 重排、移动、删除），不代替 LLM 翻译或整理正文，也不得修改源文件。
+1. 只处理平铺在 `整理/<数据源>/` 根目录下的 `.md` 文件（已进入 `YYYYMMDD` 日期目录的文件不处理）。
+2. 按以下优先级确定日期目录：frontmatter 的 `published`（默认优先）→ `processed` → 都没有时使用当天日期；日期统一格式化为 `YYYYMMDD`。
+3. 覆盖式移动到 `整理/<数据源>/<YYYYMMDD>/<文章>.md`：目标文件已存在时直接覆盖，不产生 `-N` 后缀副本。
+4. 移动完成后，在每个数据源目录（`整理/<数据源>/`，含其下全部日期子目录）内按“内容 SHA-256 + 文章标题（frontmatter `title`）”查重：同一数据源目录内存在哈希与标题都一致的文件时，保留刚移入的文件（或按文件名排序的第一个），删除其余重复文件。
+5. 脚本只做机械操作（解析 frontmatter、移动、覆盖、去重删除），不修改正文与源文件。
 
 可用参数：
 
 ```powershell
-node scripts/migrate-organized-notes.mjs --vault="." --dry            # 只统计与核对，不写盘
-node scripts/migrate-organized-notes.mjs --vault="." --check-only     # 只核对当前状态，不迁移
+node scripts/migrate-organized-notes.mjs --vault="." --source="量子位"  # 只处理指定数据源（小范围测试）
+node scripts/migrate-organized-notes.mjs --vault="." --dry              # 只打印迁移计划，不写盘
+node scripts/migrate-organized-notes.mjs --vault="." --check-only       # 只核对当前状态，不迁移
 ```
 
-**迁移后必须检查数量是否对得上（强制）**：脚本输出会按数据源目录列出 `总计 / 待迁移 / 已迁移 / 无需变更 / 失败`，并在末尾给出“数量核对”四项判定。LLM 必须逐项核对以下条件，任何一项不满足即继续修复并重新运行，禁止用 `|| true` 等方式吞掉非零退出码：
+**迁移后必须检查数量是否对得上（强制）**：脚本输出会列出每个文件的迁移明细（含日期来源：published/processed/当天），并在末尾给出“数量核对”四项判定。LLM 必须逐项核对以下条件，任何一项不满足即继续修复并重新运行，禁止用 `|| true` 等方式吞掉非零退出码：
 
-- 每个数据源目录的“已迁移”数必须等于该目录的“待迁移”数，且“失败”为 0。
-- 迁移后文件总数必须等于“迁移前文件总数 − 删除的重复副本数 − 同目标去重丢弃数”。
-- 迁移后 `整理/` 下不得有任何文件留在非日期目录（`整理/<源>/<文件名>.md` 或更深的非日期路径都不允许）。
-- 无法确定日期的文件必须逐文件列出，并放入 `unknown` 日期目录，不得使用当前日期冒充。
-- 脚本输出“核对结果：通过（ok: true）”且进程退出码为 0 才算通过。
+- 失败数为 0。
+- 迁移后文件总数 = 迁移前文件总数 − 删除的重复文件数 − 覆盖更新的文件数（覆盖更新会同时移除平铺文件，因此总数减少 1）。
+- 迁移后数据源根目录不得残留任何 `.md` 文件。
+- 每个数据源目录内（跨日期子目录）不得存在哈希与标题一致的重复文件。
 
-脚本是幂等的：已处于正确位置且 `published` 正确的文件计入“无需变更”，重复运行不产生副作用。迁移完成后，LLM 必须重新运行 `scripts/audit-organized-notes.mjs` 全量审计，确认 `pending_source_files`、`changed_source_files`、`failed_outputs` 均为 0；迁移改变了 `整理/` 中的任何文件后，之前通过的审计结果一律作废，必须重新审计。
+脚本是幂等的：已全部迁入日期目录后重复运行，待迁移数为 0，输出“核对结果：通过（ok: true）”且进程退出码为 0 才算通过。迁移完成后，LLM 必须重新运行 `scripts/audit-organized-notes.mjs` 全量审计，确认 `pending_source_files`、`changed_source_files`、`failed_outputs` 均为 0；迁移改变了 `整理/` 中的任何文件后，之前通过的审计结果一律作废，必须重新审计。迁移后的这次审计同时作为 1.1 批次循环审计的一部分，最终完成闸门以最后一次审计结果为准。
 
 文件名规则：
 
@@ -375,7 +376,9 @@ AI资讯日报合集可运行：
 node scripts/organize-ai-daily.mjs "."
 ```
 
-该脚本会按分类下的列表项输出独立笔记，并记录 `source_fragment`、原始文件哈希和原始日报双链；原始文件未变化时会跳过已有文章。
+该脚本会按分类下的列表项输出独立笔记，并记录 `source_fragment`、原始文件哈希和原始日报双链；原始文件未变化时会跳过已有文章（跳过范围包含已迁入日期目录的产物，不会重复生成）。
+
+上述两个整理脚本在写入每篇笔记前都已内置调用同一检测器，检测失败的文章不会写入；脚本产出的笔记无需再逐篇手动运行 `validate-translated-note.mjs`（最终审计会全量兜底）。仅对 LLM 手工翻译或重排的笔记，必须逐篇执行本节（译后质量检查）的检测。
 
 ### 6. 增量处理与校验
 

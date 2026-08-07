@@ -1,5 +1,4 @@
 ---
-published: 2026-08-06
 title: "算力没有见顶，市场开始审判每一美元CapEx"
 source: "虎嗅"
 original_file: "信息源/虎嗅/算力没有见顶，市场开始审判每一美元CapEx.md"
@@ -14,16 +13,12 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：虎嗅
-> - 作者：AI超维度
-> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://www.huxiu.com/article/4881013.html?f=rss)
 > - Vault 原文件：[[信息源/虎嗅/算力没有见顶，市场开始审判每一美元CapEx|查看原始文件]]
 
 ## 摘要
 
-- 本文为中文 RSS 条目，正文已从原格式转换为 Markdown 并统一排版。
-- 开篇要点：本文来自微信公众号：[AI超维度](https://mp.weixin.qq.com/s?__biz=MzcwNTI2MDk3Mw==&mid=2247484428&idx=1&sn=54b24dae328fa922a07ec9b7fb52801a&chksm=f5452ddbe491728751db6e40512a6d675b15f16a125cdd1b0c6b7f611ee5c8fd2dc35……
-- 完整内容请阅读下方正文及原文链接。
+- 原始来源为中文 RSS/网页条目，以下正文保留原文信息并统一排版。
 
 ## 正文
 

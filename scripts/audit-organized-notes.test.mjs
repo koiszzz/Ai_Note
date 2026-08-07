@@ -60,6 +60,23 @@ test('源文件变化后旧哈希不能通过', (t) => {
   assert.equal(result.failed_outputs, 1);
 });
 
+test('源文件仅新增发布时间标记时审计仍通过', (t) => {
+  const root = fixture();
+  t.after(() => fs.rmSync(root, { recursive: true, force: true }));
+  const sourceText = `> 原文：[打开链接](https://example.com)\n\n${chineseBody}`;
+  const original = source(root, '标记文章', sourceText);
+  output(root, '标记文章', original, chineseBody);
+  const sourcePath = path.join(root, ...original.relative.split('/'));
+  fs.writeFileSync(sourcePath, `> 发布时间：2026-08-06　|　原文：[打开链接](https://example.com)\n\n${chineseBody}`, 'utf8');
+  const result = auditVault(root);
+  assert.equal(result.ok, true);
+  assert.equal(result.exit_code, 0);
+  assert.equal(result.pending_source_files, 0);
+  assert.equal(result.changed_source_files, 0);
+  assert.equal(result.failed_outputs, 0);
+  assert.equal(result.published_marker_only_outputs, 1);
+});
+
 test('合集缺少任一 source_fragment 时不能算覆盖', (t) => {
   const root = fixture();
   t.after(() => fs.rmSync(root, { recursive: true, force: true }));

@@ -1,5 +1,4 @@
 ---
-published: 2026-08-06
 title: "IMF披露：加纳央行去年买黄金亏损19亿美元"
 source: "华尔街见闻"
 original_file: "信息源/华尔街见闻/IMF披露：加纳央行去年买黄金亏损19亿美元.md"

@@ -1,5 +1,4 @@
 ---
-published: 2026-08-06
 title: "谷歌AI一夜巨震，Gemini换帅，首席科学家带三个大牛出走创业"
 source: "虎嗅"
 original_file: "信息源/虎嗅/谷歌AI一夜巨震，Gemini换帅，首席科学家带三个大牛出走创业.md"

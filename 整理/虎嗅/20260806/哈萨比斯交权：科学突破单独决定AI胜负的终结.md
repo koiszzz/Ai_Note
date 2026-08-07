@@ -1,5 +1,4 @@
 ---
-published: 2026-08-06
 title: "哈萨比斯交权：科学突破单独决定AI胜负的终结"
 source: "虎嗅"
 original_file: "信息源/虎嗅/哈萨比斯交权：科学突破单独决定AI胜负的终结.md"
@@ -14,16 +13,12 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：虎嗅
-> - 作者：未尽研究
-> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://www.huxiu.com/article/4881017.html?f=rss)
 > - Vault 原文件：[[信息源/虎嗅/哈萨比斯交权：科学突破单独决定AI胜负的终结|查看原始文件]]
 
 ## 摘要
 
-- 本文为中文 RSS 条目，正文已从原格式转换为 Markdown 并统一排版。
-- 开篇要点：本文来自微信公众号：[未尽研究](https://mp.weixin.qq.com/s?__biz=MzkzMzI2ODAyNQ==&mid=2247493768&idx=1&sn=3487fd277195925eca4d134908795412&chksm=c3b4306d6e726c5a100f0bb766c17f7b0a6ea9983dbcbb55d3e17f209f1ef5c447e90a……
-- 完整内容请阅读下方正文及原文链接。
+- 原始来源为中文 RSS/网页条目，以下正文保留原文信息并统一排版。
 
 ## 正文
 

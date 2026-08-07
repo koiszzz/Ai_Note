@@ -1,5 +1,4 @@
 ---
-published: 2026-08-06
 title: "EP26 汉洋和吕东撕巴做好访谈这件事 · Case"
 source: "机核"
 original_file: "信息源/机核/EP26 汉洋和吕东撕巴做好访谈这件事 · Case.md"

@@ -1,5 +1,4 @@
 ---
-published: 2026-08-06
 title: "没有人靠段子永载GitHub，除非谷歌姐夫"
 source: "量子位"
 original_file: "信息源/量子位/没有人靠段子永载GitHub，除非谷歌姐夫.md"

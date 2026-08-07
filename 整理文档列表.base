@@ -19,4 +19,4 @@ views:
       - property: processed
         direction: DESC
     columnSize:
-      file.name: 610
+      file.name: 457

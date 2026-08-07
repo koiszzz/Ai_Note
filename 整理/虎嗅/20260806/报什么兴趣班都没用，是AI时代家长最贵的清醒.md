@@ -1,5 +1,4 @@
 ---
-published: 2026-08-06
 title: "报什么兴趣班都没用，是AI时代家长最贵的清醒"
 source: "虎嗅"
 original_file: "信息源/虎嗅/报什么兴趣班都没用，是AI时代家长最贵的清醒.md"

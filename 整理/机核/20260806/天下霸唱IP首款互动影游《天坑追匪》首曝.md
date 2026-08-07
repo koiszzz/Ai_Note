@@ -1,5 +1,4 @@
 ---
-published: 2026-08-06
 title: "天下霸唱IP首款互动影游《天坑追匪》首曝"
 source: "机核"
 original_file: "信息源/机核/天下霸唱IP首款互动影游《天坑追匪》首曝.md"

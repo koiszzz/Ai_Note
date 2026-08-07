@@ -18,6 +18,45 @@ function safeName(value) {
   return value.replace(/[\\/:*?"<>|#^[\]]/g, '-').replace(/\s+/g, ' ').trim().slice(0, 110) || '未命名文章';
 }
 
+function walkFiles(directory) {
+  if (!fs.existsSync(directory)) return [];
+  const files = [];
+  for (const entry of fs.readdirSync(directory, { withFileTypes: true })) {
+    if (entry.name.startsWith('.') || entry.name.startsWith('~')) continue;
+    const entryPath = path.join(directory, entry.name);
+    if (entry.isDirectory()) files.push(...walkFiles(entryPath));
+    else if (entry.isFile() && /\.md$/i.test(entry.name)) files.push(entryPath);
+  }
+  return files;
+}
+
+function yamlScalar(raw = '') {
+  const value = raw.trim();
+  if (value.startsWith('"') && value.endsWith('"')) {
+    try { return JSON.parse(value); } catch { return value.slice(1, -1); }
+  }
+  if (value.startsWith("'") && value.endsWith("'")) return value.slice(1, -1).replace(/''/g, "'");
+  return value;
+}
+
+function indexExistingOutputs(outputRootPath) {
+  const index = new Map();
+  for (const file of walkFiles(outputRootPath)) {
+    const markdown = fs.readFileSync(file, 'utf8');
+    const block = markdown.match(/^---\s*\r?\n([\s\S]*?)\r?\n---(?:\r?\n|$)/)?.[1];
+    if (!block) continue;
+    const fields = {};
+    for (const line of block.split(/\r?\n/)) {
+      const match = line.match(/^([A-Za-z_][A-Za-z0-9_-]*):\s*(.*)$/);
+      if (match) fields[match[1]] = yamlScalar(match[2]);
+    }
+    if (fields.original_file && fields.source_fragment) {
+      index.set(`${fields.original_file}|${fields.source_fragment}`, fields.source_sha256 || '');
+    }
+  }
+  return index;
+}
+
 function yaml(value) {
   return `"${String(value || '').replace(/\\/g, '\\\\').replace(/"/g, '\\"').replace(/\n/g, ' ')}"`;
 }
@@ -84,6 +123,7 @@ function tags(body, category) {
 }
 
 fs.mkdirSync(outputRoot, { recursive: true });
+const existingOutputs = indexExistingOutputs(outputRoot);
 const stats = { source_files: 0, articles_found: 0, added: 0, updated: 0, skipped: 0, failed_validation: 0 };
 
 for (const name of fs.readdirSync(sourceRoot)) {
@@ -100,6 +140,11 @@ for (const name of fs.readdirSync(sourceRoot)) {
   stats.articles_found += articles.length;
 
   for (const article of articles) {
+    const prior = existingOutputs.get(`${rel}|${article.title}`);
+    if (prior === sha) {
+      stats.skipped++;
+      continue;
+    }
     const suffix = meta.published ? ` (${meta.published})` : '';
     const outPath = path.join(outputRoot, `${safeName(article.title)}${suffix}.md`);
     const existed = fs.existsSync(outPath);
@@ -118,6 +163,7 @@ for (const name of fs.readdirSync(sourceRoot)) {
       continue;
     }
     fs.writeFileSync(outPath, output, 'utf8');
+    existingOutputs.set(`${rel}|${article.title}`, sha);
     existed ? stats.updated++ : stats.added++;
   }
 }

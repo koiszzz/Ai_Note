@@ -1,5 +1,4 @@
 ---
-published: 2026-08-06
 title: "OpenAI要求法院驳回苹果窃密诉讼，称其指控“毫无根据”"
 source: "华尔街见闻"
 original_file: "信息源/华尔街见闻/OpenAI要求法院驳回苹果窃密诉讼，称其指控“毫无根据”.md"

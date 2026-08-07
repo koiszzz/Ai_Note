@@ -1,5 +1,4 @@
 ---
-published: 2026-08-06
 title: "Steam喜加一：《夜勤人》免费领"
 source: "机核"
 original_file: "信息源/机核/Steam喜加一：《夜勤人》免费领.md"

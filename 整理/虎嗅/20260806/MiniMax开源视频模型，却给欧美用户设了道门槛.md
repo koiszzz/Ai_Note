@@ -1,5 +1,4 @@
 ---
-published: 2026-08-06
 title: "MiniMax开源视频模型，却给欧美用户设了道门槛"
 source: "虎嗅"
 original_file: "信息源/虎嗅/MiniMax开源视频模型，却给欧美用户设了道门槛.md"

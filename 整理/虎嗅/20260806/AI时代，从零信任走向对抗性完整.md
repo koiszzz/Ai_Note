@@ -1,5 +1,4 @@
 ---
-published: 2026-08-06
 title: "AI时代，从零信任走向对抗性完整"
 source: "虎嗅"
 original_file: "信息源/虎嗅/AI时代，从零信任走向对抗性完整.md"
@@ -14,16 +13,12 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：虎嗅
-> - 作者：HavenlonLabs
-> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://www.huxiu.com/article/4881026.html?f=rss)
 > - Vault 原文件：[[信息源/虎嗅/AI时代，从零信任走向对抗性完整|查看原始文件]]
 
 ## 摘要
 
-- 本文为中文 RSS 条目，正文已从原格式转换为 Markdown 并统一排版。
-- 开篇要点：本文来自微信公众号：[HavenlonLabs](https://mp.weixin.qq.com/s/QbV2-tqfzwsw0JAZGPZj_w)，作者：Havenlon Labs 一、零信任回答了一个问题，但不是全部问题
-- 完整内容请阅读下方正文及原文链接。
+- 原始来源为中文 RSS/网页条目，以下正文保留原文信息并统一排版。
 
 ## 正文
 

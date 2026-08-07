@@ -1,5 +1,4 @@
 ---
-published: 2026-08-06
 title: "报道：苹果紧急抢购DRAM内存，距iPhone 18发布仅剩几周"
 source: "华尔街见闻"
 original_file: "信息源/华尔街见闻/报道：苹果紧急抢购DRAM内存，距iPhone 18发布仅剩几周.md"

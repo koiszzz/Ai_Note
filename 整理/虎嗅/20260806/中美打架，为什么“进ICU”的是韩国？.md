@@ -1,5 +1,4 @@
 ---
-published: 2026-08-06
 title: "中美打架，为什么“进ICU”的是韩国？"
 source: "虎嗅"
 original_file: "信息源/虎嗅/中美打架，为什么“进ICU”的是韩国？.md"

@@ -1,5 +1,4 @@
 ---
-published: 2026-08-06
 title: "Artificial Analysis榜单：阿里Qwen3.8Agentic能力得分全球第一"
 source: "量子位"
 original_file: "信息源/量子位/Artificial Analysis榜单：阿里Qwen3.8Agentic能力得分全球第一.md"

@@ -1,5 +1,4 @@
 ---
-published: 2026-08-06
 title: "物理AI重塑智驾"
 source: "虎嗅"
 original_file: "信息源/虎嗅/物理AI重塑智驾.md"

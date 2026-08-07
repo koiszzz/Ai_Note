@@ -1,5 +1,4 @@
 ---
-published: 2026-08-06
 title: "一秒两块钱，AI视频贵到普通人用不起？"
 source: "虎嗅"
 original_file: "信息源/虎嗅/一秒两块钱，AI视频贵到普通人用不起？.md"

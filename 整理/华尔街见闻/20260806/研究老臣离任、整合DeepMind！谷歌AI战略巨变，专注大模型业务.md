@@ -1,5 +1,4 @@
 ---
-published: 2026-08-06
 title: "研究老臣离任、整合DeepMind！谷歌AI战略巨变，专注大模型业务"
 source: "华尔街见闻"
 original_file: "信息源/华尔街见闻/研究老臣离任、整合DeepMind！谷歌AI战略巨变，专注大模型业务.md"

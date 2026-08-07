@@ -1,5 +1,4 @@
 ---
-published: 2026-08-06
 title: "在AI科技公司，运营=客服？"
 source: "虎嗅"
 original_file: "信息源/虎嗅/在AI科技公司，运营=客服？.md"

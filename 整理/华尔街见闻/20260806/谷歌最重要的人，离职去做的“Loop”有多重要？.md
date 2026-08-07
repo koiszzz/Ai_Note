@@ -1,5 +1,4 @@
 ---
-published: 2026-08-06
 title: "谷歌最重要的人，离职去做的“Loop”有多重要？"
 source: "华尔街见闻"
 original_file: "信息源/华尔街见闻/谷歌最重要的人，离职去做的“Loop”有多重要？.md"

@@ -110,6 +110,45 @@ function hash(buffer) {
   return crypto.createHash('sha256').update(buffer).digest('hex');
 }
 
+function walkFiles(directory) {
+  if (!fs.existsSync(directory)) return [];
+  const files = [];
+  for (const entry of fs.readdirSync(directory, { withFileTypes: true })) {
+    if (entry.name.startsWith('.') || entry.name.startsWith('~')) continue;
+    const entryPath = path.join(directory, entry.name);
+    if (entry.isDirectory()) files.push(...walkFiles(entryPath));
+    else if (entry.isFile() && /\.md$/i.test(entry.name)) files.push(entryPath);
+  }
+  return files;
+}
+
+function yamlScalar(raw = '') {
+  const value = raw.trim();
+  if (value.startsWith('"') && value.endsWith('"')) {
+    try { return JSON.parse(value); } catch { return value.slice(1, -1); }
+  }
+  if (value.startsWith("'") && value.endsWith("'")) return value.slice(1, -1).replace(/''/g, "'");
+  return value;
+}
+
+function indexExistingOutputs(outputRootPath) {
+  const index = new Map();
+  for (const file of walkFiles(outputRootPath)) {
+    const markdown = fs.readFileSync(file, 'utf8');
+    const block = markdown.match(/^---\s*\r?\n([\s\S]*?)\r?\n---(?:\r?\n|$)/)?.[1];
+    if (!block) continue;
+    const fields = {};
+    for (const line of block.split(/\r?\n/)) {
+      const match = line.match(/^([A-Za-z_][A-Za-z0-9_-]*):\s*(.*)$/);
+      if (match) fields[match[1]] = yamlScalar(match[2]);
+    }
+    if (fields.original_file && fields.source_fragment) {
+      index.set(`${fields.original_file}|${fields.source_fragment}`, fields.source_sha256 || '');
+    }
+  }
+  return index;
+}
+
 function outputPathFor(article, published, sourceRootPath, outputRootPath) {
   const suffix = published ? ` (${published})` : '';
   const base = `${safeName(article.title)}${suffix}`;
@@ -132,6 +171,7 @@ if (!fs.existsSync(sourceRoot)) {
 }
 
 fs.mkdirSync(outputRoot, { recursive: true });
+const existingOutputs = indexExistingOutputs(outputRoot);
 const stats = {
   source_files: 0,
   articles_found: 0,
@@ -156,6 +196,11 @@ for (const entry of fs.readdirSync(sourceRoot, { withFileTypes: true })) {
   stats.articles_found += articles.length;
 
   for (const article of articles) {
+    const prior = existingOutputs.get(`${relative}|${article.title}`);
+    if (prior === sourceSha) {
+      stats.skipped++;
+      continue;
+    }
     const outputPath = outputPathFor(article, meta.published, sourcePath, outputRoot);
     const existed = fs.existsSync(outputPath);
     if (existed && fs.readFileSync(outputPath, 'utf8').includes(`source_sha256: ${sourceSha}`)) {
@@ -210,6 +255,7 @@ ${tags(article.category)}
     }
 
     fs.writeFileSync(outputPath, output, 'utf8');
+    existingOutputs.set(`${relative}|${article.title}`, sourceSha);
     if (existed) stats.updated++;
     else stats.added++;
   }

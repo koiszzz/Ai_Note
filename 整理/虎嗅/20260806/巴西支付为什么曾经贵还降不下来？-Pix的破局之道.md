@@ -1,5 +1,4 @@
 ---
-published: 2026-08-06
 title: "巴西支付为什么曾经贵还降不下来？-Pix的破局之道"
 source: "虎嗅"
 original_file: "信息源/虎嗅/巴西支付为什么曾经贵还降不下来？-Pix的破局之道.md"

@@ -1,5 +1,4 @@
 ---
-published: 2026-08-06
 title: "对话头部AI猎头：普通人，未来怎么拿到高薪？"
 source: "虎嗅"
 original_file: "信息源/虎嗅/对话头部AI猎头：普通人，未来怎么拿到高薪？.md"

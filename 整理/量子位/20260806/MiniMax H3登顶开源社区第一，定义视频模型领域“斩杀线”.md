@@ -1,5 +1,4 @@
 ---
-published: 2026-08-06
 title: "MiniMax H3登顶开源社区第一，定义视频模型领域“斩杀线”"
 source: "量子位"
 original_file: "信息源/量子位/MiniMax H3登顶开源社区第一，定义视频模型领域“斩杀线”.md"
