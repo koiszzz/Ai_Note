@@ -1,0 +1,12 @@
+# Clinician input steers AI toward accurate and harmful recommendations
+
+> 数据源：arXiv cs.LG RSS
+> RSS：[打开源文件](https://export.arxiv.org/rss/cs.LG)
+
+> 作者：Ivan Lopez, Selin S. Everett, Bryan J. Bunning, April S. Liang, Dong Han Yao, Shivam C. Vedak, Kameron C. Black, Sophie Ostmeier, Stephen P. Ma, Emily Alsentzer, Jonathan H. Chen, Akshay S. Chaudhari, Eric Horvitz　|　发布时间：Fri, 07 Aug 2026 00:00:00 -0400　|　分类：cs.HC　|　原文：[打开链接](https://arxiv.org/abs/2603.14158)
+
+------
+
+arXiv:2603.14158v2 Announce Type: replace-cross
+
+Abstract: Large language models (LLMs) are entering clinical workflows, yet evaluations rarely assess how clinician reasoning shapes model behavior during clinical interactions. Using 61 curated NEJM Case Records, we tested how expert or misleading clinician reasoning influenced AI-generated differential diagnoses and next step recommendations across 21 reasoning variants from 8 proprietary and open-source models. After clinician exposure, LLM-clinician concordance increased: simulations with >=3 overlapping differential diagnoses rose from 65.8% to 93.5%, and those with >=3 overlapping next step recommendations from 20.3% to 53.8%. Expert context significantly improved correct final-diagnosis inclusion in all 21 models (mean +20.4 pp), reflecting both improved reasoning and passive content echoing, while adversarial context significantly degraded performance in 14 models (mean -5.4 pp). Expert context also significantly increased leading-diagnosis accuracy in all 21 models, whereas adversarial context significantly reduced it in 13. Multi-turn disagreement challenges revealed distinct model phenotypes, from highly conformist to dogmatic, with adversarial arguments remaining a vulnerability even in otherwise resilient models. Inference-time scaling reduced harmful echoing of clinician-introduced recommendations across WHO harm-severity tiers by 62.7% for mild, 57.9% for moderate, 76.3% for severe, and 83.5% for death-tier recommendations. Inference-time prompting recovered diagnostic accuracy lost to adversarial context while preserving expert-context benefits across GPT-5, Claude Sonnet 4.5, and Gemini 3 Flash, and sharply reduced highly consistent harmful echoing across severity tiers. These findings provide a foundation for evaluating clinician-AI collaboration and introduce interactive metrics and mitigation strategies essential to safety and robustness.

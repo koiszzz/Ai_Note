@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "真正的AI原生组织,正在告别\"科层制\"与\"人效迷信\""
 source: "虎嗅"
 original_file: "信息源/虎嗅/真正的AI原生组织,正在告别-科层制-与-人效迷信-.md"
 source_note: "[[信息源/虎嗅/真正的AI原生组织,正在告别-科层制-与-人效迷信-]]"
 source_sha256: c68c660cbaa161a9bf2801e0bba032e0aeaadff44d0cb453dcd7ff81b312fa12
 original_url: "https://www.huxiu.com/article/4880666.html?f=rss"
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：虎嗅
+> - 作者：复盘笔记簿©
+> - 发布时间：2026-08-05
 > - 原文链接：[打开原文](https://www.huxiu.com/article/4880666.html?f=rss)
 > - Vault 原文件：[[信息源/虎嗅/真正的AI原生组织,正在告别-科层制-与-人效迷信-|查看原始文件]]
 

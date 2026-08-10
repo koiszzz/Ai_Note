@@ -5,7 +5,8 @@ original_file: "信息源/华尔街见闻/谷歌最重要的人，离职去做�
 source_note: "[[信息源/华尔街见闻/谷歌最重要的人，离职去做的“Loop”有多重要？]]"
 source_sha256: 0bc6568976c20b8616a0cd689a60c5bc451b533d613fb99235a59a99e37bae89
 original_url: "https://wallstreetcn.com/articles/3778819"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：华尔街见闻
+> - 作者：腾讯科技
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://wallstreetcn.com/articles/3778819)
 > - Vault 原文件：[[信息源/华尔街见闻/谷歌最重要的人，离职去做的“Loop”有多重要？|查看原始文件]]
 

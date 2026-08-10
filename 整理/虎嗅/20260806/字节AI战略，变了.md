@@ -5,7 +5,8 @@ original_file: "信息源/虎嗅/字节AI战略，变了.md"
 source_note: "[[信息源/虎嗅/字节AI战略，变了]]"
 source_sha256: 8c04ecb4f5bb7611b1a50cf3b9b703dce1aa0d1429e9d12703684970296fc779
 original_url: "https://www.huxiu.com/article/4881141.html?f=rss"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：虎嗅
+> - 作者：黄青春
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://www.huxiu.com/article/4881141.html?f=rss)
 > - Vault 原文件：[[信息源/虎嗅/字节AI战略，变了|查看原始文件]]
 

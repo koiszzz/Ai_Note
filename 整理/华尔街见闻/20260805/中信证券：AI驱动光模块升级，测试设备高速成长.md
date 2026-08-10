@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "中信证券：AI驱动光模块升级，测试设备高速成长"
 source: "华尔街见闻"
 original_file: "信息源/华尔街见闻/中信证券：AI驱动光模块升级，测试设备高速成长.md"
 source_note: "[[信息源/华尔街见闻/中信证券：AI驱动光模块升级，测试设备高速成长]]"
 source_sha256: a2dd4967e019e8072155755f7eed55194e48ebf39d9ef81c742d5495a8323223
 original_url: "https://wallstreetcn.com/articles/3778730"
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -15,49 +15,53 @@ language: zh-CN
 > [!info] 来源信息
 > - 数据源：华尔街见闻
 > - 作者：中信证券研究
-- 发布时间：2026-08-05
-- 原文链接：[打开原文](https://wallstreetcn.com/articles/3778730)
+> - 发布时间：2026-08-05
+> - 原文链接：[打开原文](https://wallstreetcn.com/articles/3778730)
 > - Vault 原文件：[[信息源/华尔街见闻/中信证券：AI驱动光模块升级，测试设备高速成长|查看原始文件]]
 
 ## 摘要
 
-- 原始来源为中文 RSS/网页条目，正文已统一排版并转换为 Markdown。
+- 原始来源为中文 RSS/网页条目，以下正文保留原文信息并统一排版。
 
 ## 正文
 
-2023年以来AI人工智能高速发展驱动光模块技术更新迭代，光芯片速率升级、硅光集成与CPO架构等新技术共同驱动光模块测试设备迭代升级，叠加AI算力基础设施快速扩张，驱动光模块测试设备“量价齐升”。目前国际厂商仍然在1.6T高端市场相对领先，但国内企业正加速追赶，差距不断缩小。我们看好国产光模块行业长期发展以及高端光模块测试设备国产替代趋势。
+<p>2023年以来AI人工智能高速发展驱动光模块技术更新迭代，光芯片速率升级、硅光集成与CPO架构等新技术共同驱动光模块测试设备迭代升级，叠加AI算力基础设施快速扩张，驱动光模块测试设备“量价齐升”。目前国际厂商仍然在1.6T高端市场相对领先，但国内企业正加速追赶，差距不断缩小。我们看好国产光模块行业长期发展以及高端光模块测试设备国产替代趋势。</p>
 
-## 全球高速数通光模块需求受AI驱动快速增长
+<h2>全球高速数通光模块需求受AI驱动快速增长</h2>
 
-AI人工智能高速发展驱动光模块技术更新迭代，数据中心对光模块大带宽、低延时等性能提出了更高要求，2023年以来在AI影响下光模块更新迭代周期由过去的3-4年缩短至1~2年左右。Light Counting测算，目前数据中心已成为光模块主要应用场景，占整个光模块市场比例超60%，2023年全球数通光模块市场规模达62.5亿美元，预计2029年有望达258亿美元，对应2024~29年CAGR达27%。
+<p>AI人工智能高速发展驱动光模块技术更新迭代，数据中心对光模块大带宽、低延时等性能提出了更高要求，2023年以来在AI影响下光模块更新迭代周期由过去的3-4年缩短至1~2年左右。Light Counting测算，目前数据中心已成为光模块主要应用场景，占整个光模块市场比例超60%，2023年全球数通光模块市场规模达62.5亿美元，预计2029年有望达258亿美元，对应2024~29年CAGR达27%。</p>
 
-*
+<p><img class="wscnph" src="https://bang.xuangubao.cn/LTE5MDAxNDIzODc=" data-wscntype="image" data-wscnh="513" data-wscnw="1080" referrerpolicy="no-referrer"></p>
 
-## 光芯片速率升级、硅光集成与CPO架构等新技术共同驱动光模块测试设备迭代升级
+<h2>光芯片速率升级、硅光集成与CPO架构等新技术共同驱动光模块测试设备迭代升级</h2>
 
-从400G到3.2T，光模块每一次速率翻倍，调制方式、信号带宽、通道密度和测试复杂度均呈非线性增长，直接推升测试设备的速率门槛、通道数和单机价值量。另外，随着硅光方案、CPO架构等新技术迭代，测试界面从“封装后”前移到“晶圆级”，催生全新的硅光晶圆测试、CoC（芯片上载板）测试、KGD（已知良品芯片）分选等需求。
+<p>从400G到3.2T，光模块每一次速率翻倍，调制方式、信号带宽、通道密度和测试复杂度均呈非线性增长，直接推升测试设备的速率门槛、通道数和单机价值量。另外，随着硅光方案、CPO架构等新技术迭代，测试界面从“封装后”前移到“晶圆级”，催生全新的硅光晶圆测试、CoC（芯片上载板）测试、KGD（已知良品芯片）分选等需求。</p>
 
-**
+<p><img class="wscnph" src="https://bang.xuangubao.cn/LTUzNzI1NzcxNQ==" data-wscntype="image" data-wscnh="825" data-wscnw="1080" referrerpolicy="no-referrer"><img class="wscnph" src="https://bang.xuangubao.cn/MzgyNDc2OTkw" data-wscntype="image" data-wscnh="852" data-wscnw="1080" referrerpolicy="no-referrer"></p>
 
-## AI算力基础设施快速扩张叠加光模块测试设备迭代升级共同推动光模块测试设备“量价齐升”
+<h2>AI算力基础设施快速扩张叠加光模块测试设备迭代升级共同推动光模块测试设备“量价齐升”</h2>
 
-我们预测2027~28年，全球数通光模块出货量分别达1.3亿/1.68亿只，其中1.6T光模块有望接力800G成为主流，2027~28年速率在800G及以上的光模块需求占比分别达96.2%/98.2%。受益于数据中心加速建设以及光通信技术快速迭代，光模块测试设备“量价齐升”，我们预测2026~28年全球数通光模块测试设备市场空间分别达98.9亿、185.8亿、229.0亿元，分别同比增长196.1%、87.9%、23.3%。
+<p>我们预测2027~28年，全球数通光模块出货量分别达1.3亿/1.68亿只，其中1.6T光模块有望接力800G成为主流，2027~28年速率在800G及以上的光模块需求占比分别达96.2%/98.2%。受益于数据中心加速建设以及光通信技术快速迭代，光模块测试设备“量价齐升”，我们预测2026~28年全球数通光模块测试设备市场空间分别达98.9亿、185.8亿、229.0亿元，分别同比增长196.1%、87.9%、23.3%。</p>
 
-***
+<p><img class="wscnph" src="https://bang.xuangubao.cn/Mzc3MTQ1NzU2" data-wscntype="image" data-wscnh="300" data-wscnw="791" referrerpolicy="no-referrer"><img class="wscnph" src="https://bang.xuangubao.cn/NjY2Mjk5Njkz" data-wscntype="image" data-wscnh="603" data-wscnw="790" referrerpolicy="no-referrer"><img class="wscnph" src="https://bang.xuangubao.cn/LTIxNDA5NDc4MzA=" data-wscntype="image" data-wscnh="379" data-wscnw="980" referrerpolicy="no-referrer"></p>
 
-## 光模块测试设备领域呈现出国际厂商高端市场相对领先，国内企业加速突破的竞争格局
+<h2>光模块测试设备领域呈现出国际厂商高端市场相对领先，国内企业加速突破的竞争格局</h2>
 
-海外厂商方面，Keysight、Tektronix、Anritsu、EXFO、VIAVI等企业凭借长期技术积累，在高速示波器、误码率分析仪、网络测试仪、光通信协议测试等领域保持领先。同时，Advantest、Teradyne、FormFactor等半导体测试设备厂商正在向硅光晶圆和CPO测试领域延伸。
+<p>海外厂商方面，Keysight、Tektronix、Anritsu、EXFO、VIAVI等企业凭借长期技术积累，在高速示波器、误码率分析仪、网络测试仪、光通信协议测试等领域保持领先。同时，Advantest、Teradyne、FormFactor等半导体测试设备厂商正在向硅光晶圆和CPO测试领域延伸。</p>
 
-国内企业方面，近年来国产光通信测试设备产业链持续完善，联讯仪器、菲莱科技（日联科技收购）、普赛斯（华兴源创收购）、伽蓝特、广立微等企业围绕高速通信测试、光模块测试系统、晶圆级测试和可靠性测试展开布局，加速实现国产替代。
+<p>国内企业方面，近年来国产光通信测试设备产业链持续完善，联讯仪器、菲莱科技（日联科技收购）、普赛斯（华兴源创收购）、伽蓝特、广立微等企业围绕高速通信测试、光模块测试系统、晶圆级测试和可靠性测试展开布局，加速实现国产替代。</p>
 
-**
+<p><img class="wscnph" src="https://bang.xuangubao.cn/MjA3NTkwMzU4Nw==" data-wscntype="image" data-wscnh="552" data-wscnw="1080" referrerpolicy="no-referrer"><img class="wscnph" src="https://bang.xuangubao.cn/MTEyNTc4ODQyOA==" data-wscntype="image" data-wscnh="565" data-wscnw="1080" referrerpolicy="no-referrer"></p>
 
-2023年以来AI人工智能高速发展驱动光模块技术更新迭代，光芯片速率升级、硅光集成与CPO架构等新技术共同驱动光模块测试设备迭代升级，叠加AI算力基础设施快速扩张，驱动光模块测试设备“量价齐升”，高端领域国产替代加速。我们看好国产光模块行业长期发展以及高端光模块测试设备国产替代趋势。
+<p>2023年以来AI人工智能高速发展驱动光模块技术更新迭代，光芯片速率升级、硅光集成与CPO架构等新技术共同驱动光模块测试设备迭代升级，叠加AI算力基础设施快速扩张，驱动光模块测试设备“量价齐升”，高端领域国产替代加速。我们看好国产光模块行业长期发展以及高端光模块测试设备国产替代趋势。</p>
 
-来源：[中信证券研究](https://mp.weixin.qq.com/s/PcL3yr7tWdTPDxy8-YnwMg)风险提示及免责条款
+<p><span style="color: #808080;">来源：<a href="https://mp.weixin.qq.com/s/PcL3yr7tWdTPDxy8-YnwMg" target="_blank" rel="noopener">中信证券研究</a></span></p><div style="color: #666; margin-bottom: 15px;">风险提示及免责条款</div>
+
+<div style="font-size: 12px;font-family: 黑体;color: #666;line-height: 20px;">
 
 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。
+
+</div>
 
 ## 关键词
 

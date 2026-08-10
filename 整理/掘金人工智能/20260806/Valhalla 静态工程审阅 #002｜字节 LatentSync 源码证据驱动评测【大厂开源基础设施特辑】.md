@@ -1,12 +1,12 @@
 ---
-published: 2026-08-06
 title: "Valhalla 静态工程审阅 #002｜字节 LatentSync 源码证据驱动评测【大厂开源基础设施特辑】"
 source: "掘金人工智能"
 original_file: "信息源/掘金人工智能/Valhalla 静态工程审阅 #002｜字节 LatentSync 源码证据驱动评测【大厂开源基础设施特辑】.md"
 source_note: "[[信息源/掘金人工智能/Valhalla 静态工程审阅 #002｜字节 LatentSync 源码证据驱动评测【大厂开源基础设施特辑】]]"
 source_sha256: 84d9aa9c7093d6eceb2f59653abf49a8244479c4dc4f62b91cadb0c80ea8afd2
 original_url: https://juejin.cn/post/7670475896516182067
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 

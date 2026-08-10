@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "我用两个开源框架，搓出一个让 AI 写代码不再失控的插件"
 source: "掘金人工智能"
 original_file: "信息源/掘金人工智能/我用两个开源框架，搓出一个让 AI 写代码不再失控的插件.md"
 source_note: "[[信息源/掘金人工智能/我用两个开源框架，搓出一个让 AI 写代码不再失控的插件]]"
 source_sha256: b38d231b8bdf16cc19d38ba802abcb45878c2d6a62b9ce446cc138b10ac481e0
 original_url: https://juejin.cn/post/7670078712907595826
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 

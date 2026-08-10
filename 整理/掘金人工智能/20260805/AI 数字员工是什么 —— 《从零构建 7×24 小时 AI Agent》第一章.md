@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "AI 数字员工是什么 —— 《从零构建 7×24 小时 AI Agent》第一章"
 source: "掘金人工智能"
 original_file: "信息源/掘金人工智能/AI 数字员工是什么 —— 《从零构建 7×24 小时 AI Agent》第一章.md"
 source_note: "[[信息源/掘金人工智能/AI 数字员工是什么 —— 《从零构建 7×24 小时 AI Agent》第一章]]"
 source_sha256: 9647bca295fa5550b60fd4c616962dae53c7b0adfaecd5162751700bbcca1d30
 original_url: https://juejin.cn/post/7670151932174975022
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 

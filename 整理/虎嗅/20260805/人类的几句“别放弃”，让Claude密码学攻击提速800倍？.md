@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "人类的几句“别放弃”，让Claude密码学攻击提速800倍？"
 source: "虎嗅"
 original_file: "信息源/虎嗅/人类的几句“别放弃”，让Claude密码学攻击提速800倍？.md"
 source_note: "[[信息源/虎嗅/人类的几句“别放弃”，让Claude密码学攻击提速800倍？]]"
 source_sha256: daa549003bd43c951e8255fffdb5c2f5ab7db5018676e0ed7b587ef4bdcef014
 original_url: "https://www.huxiu.com/article/4880792.html?f=rss"
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：虎嗅
+> - 作者：智讯智库
+> - 发布时间：2026-08-05
 > - 原文链接：[打开原文](https://www.huxiu.com/article/4880792.html?f=rss)
 > - Vault 原文件：[[信息源/虎嗅/人类的几句“别放弃”，让Claude密码学攻击提速800倍？|查看原始文件]]
 

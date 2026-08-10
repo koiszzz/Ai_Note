@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "AI时代的“权力游戏”：谁得罪内存厂商，谁就可能出局"
 source: "华尔街见闻"
 original_file: "信息源/华尔街见闻/AI时代的“权力游戏”：谁得罪内存厂商，谁就可能出局.md"
 source_note: "[[信息源/华尔街见闻/AI时代的“权力游戏”：谁得罪内存厂商，谁就可能出局]]"
 source_sha256: c51c0750706420d10ff5343dba969fc8461e54b8c26f809d055f041090b0de4b
 original_url: "https://wallstreetcn.com/charts/41959521"
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：华尔街见闻
+> - 作者：张硕
+> - 发布时间：2026-08-05
 > - 原文链接：[打开原文](https://wallstreetcn.com/charts/41959521)
 > - Vault 原文件：[[信息源/华尔街见闻/AI时代的“权力游戏”：谁得罪内存厂商，谁就可能出局|查看原始文件]]
 

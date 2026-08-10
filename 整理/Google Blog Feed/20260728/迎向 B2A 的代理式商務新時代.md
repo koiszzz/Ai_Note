@@ -1,12 +1,12 @@
 ---
-published: 2026-07-28
 title: "迎向 B2A 的代理式商務新時代"
 source: "Google Blog Feed"
 original_file: "信息源/Google Blog Feed/迎向 B2A 的代理式商務新時代.md"
 source_note: "[[信息源/Google Blog Feed/迎向 B2A 的代理式商務新時代]]"
 source_sha256: c02795ad39a490da9d8f16c7ff2b0a92b3336857e47749cd086eb5cd87643e7b
 original_url: "https://blog.google/intl/zh-tw/company-news/technology/2026-google-marketing-live/"
-processed: 2026-08-05
+published: 2026-07-28
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：Google Blog Feed
+> - 作者：林雅芳 Google 台灣總經理　|　组织：Google
+> - 发布时间：2026-07-28
 > - 原文链接：[打开原文](https://blog.google/intl/zh-tw/company-news/technology/2026-google-marketing-live/)
 > - Vault 原文件：[[信息源/Google Blog Feed/迎向 B2A 的代理式商務新時代|查看原始文件]]
 

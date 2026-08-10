@@ -1,12 +1,12 @@
 ---
-published: 2026-08-01
 title: "开源清理工具 FluentCleaner 刚火，就出现了假官网投放木马"
 source: "小众软件"
 original_file: "信息源/小众软件/开源清理工具 FluentCleaner 刚火，就出现了假官网投放木马.md"
 source_note: "[[信息源/小众软件/开源清理工具 FluentCleaner 刚火，就出现了假官网投放木马]]"
 source_sha256: 4165bbc173d8f417e5553464ef02d8cacb17fb307adc8bc959f76da51f33d8c3
 original_url: "https://www.appinn.com/fluentcleaner-fake-website-malware/"
-processed: 2026-08-05
+published: 2026-08-01
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：小众软件
+> - 作者：青小蛙
+> - 发布时间：2026-08-01
 > - 原文链接：[打开原文](https://www.appinn.com/fluentcleaner-fake-website-malware/)
 > - Vault 原文件：[[信息源/小众软件/开源清理工具 FluentCleaner 刚火，就出现了假官网投放木马|查看原始文件]]
 

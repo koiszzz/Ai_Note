@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "从 PHP 到 AI + Golang，程序员自救转型手记（五十二）：管理员权限检查中间件，AI 随意放行预闯大祸"
 source: "掘金人工智能"
 original_file: "信息源/掘金人工智能/从 PHP 到 AI + Golang，程序员自救转型手记（五十二）：管理员权限检查中间件，AI 随意放行预闯大祸.md"
 source_note: "[[信息源/掘金人工智能/从 PHP 到 AI + Golang，程序员自救转型手记（五十二）：管理员权限检查中间件，AI 随意放行预闯大祸]]"
 source_sha256: 26e6f906628e67499db9100f1744afc89d9daad812a78b2ae65164ba9a81e1e5
 original_url: https://juejin.cn/post/7670194675606126638
-processed: 2026-08-06
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 

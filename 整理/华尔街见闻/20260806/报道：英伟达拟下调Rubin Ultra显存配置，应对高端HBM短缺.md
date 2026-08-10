@@ -1,12 +1,12 @@
 ---
-published: 2026-08-06
 title: "报道：英伟达拟下调Rubin Ultra显存配置，应对高端HBM短缺"
 source: "华尔街见闻"
 original_file: "信息源/华尔街见闻/报道：英伟达拟下调Rubin Ultra显存配置，应对高端HBM短缺.md"
 source_note: "[[信息源/华尔街见闻/报道：英伟达拟下调Rubin Ultra显存配置，应对高端HBM短缺]]"
 source_sha256: fa96e54390ae29debcb77c974039570237da8e9e8856113cd5d01c05a2f9e61a
 original_url: "https://wallstreetcn.com/articles/3778895"
-processed: 2026-08-07
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -20,10 +20,7 @@ language: zh-CN
 
 ## 摘要
 
-- 据The Information报道，英伟达正评估为下一代AI GPU Rubin Ultra推出低于原计划显存配置的版本，以缓解高端高带宽内存（HBM）供应不足带来的量产压力。
-- 知情人士透露，过去数周英伟达已测试至少三个不同版本的Rubin Ultra GPU，其中部分版本采用低于最初规划的显存容量；HBM已成为AI产业链最关键的瓶颈之一。
-- 若最终采用较低显存配置，客户运行大模型等负载时可能需要部署更多GPU，系统部署成本和集群复杂度或提高，AI服务器成本或进一步攀升。
-- 周四英伟达股价收跌0.1%，SK海力士股价收跌4.97%。
+- 原始来源为中文 RSS/网页条目，以下正文保留原文信息并统一排版。
 
 ## 正文
 
@@ -36,6 +33,10 @@ language: zh-CN
 <p>这一变化不仅反映出HBM供应已成为AI产业链最关键的瓶颈之一，也意味着AI服务器成本或进一步攀升，数据中心建设压力仍将持续向下游传导。</p>
 
 <p>周四英伟达股价收跌0.1%，SK海力士股价收跌4.97%。</p>
+
+<p><img class="wscnph" src="https://wpimg-wscn.awtmt.com/ec70e09e-f4d9-4787-8646-482b391aac6d.png" data-wscntype="image" data-wscnh="858" data-wscnw="1334" data-wscnsize="91682" referrerpolicy="no-referrer"></p>
+
+<p><img class="wscnph" src="https://wpimg-wscn.awtmt.com/a7a5023b-76ba-48be-a8df-20fab03169e9.png" data-wscntype="image" data-wscnh="860" data-wscnw="1338" data-wscnsize="90948" referrerpolicy="no-referrer"></p>
 
 <h2>HBM供应紧张，英伟达测试多个"降显存"版本</h2>
 
@@ -75,8 +76,14 @@ language: zh-CN
 
 <p>与此同时，上游芯片成本上涨也开始向消费电子领域传导。包括苹果在内的部分硬件厂商，已经通过提高终端产品售价等方式消化供应链成本压力。</p>
 
-<p>市场人士认为，只要AI算力需求继续高速增长，而HBM新增产能释放速度有限，围绕高端存储资源的竞争仍将持续，HBM供应能力也将继续成为决定AI产业扩张速度的关键因素。</p>
+<p>市场人士认为，只要AI算力需求继续高速增长，而HBM新增产能释放速度有限，围绕高端存储资源的竞争仍将持续，HBM供应能力也将继续成为决定AI产业扩张速度的关键因素。</p><div style="color: #666; margin-bottom: 15px;">风险提示及免责条款</div>
+
+<div style="font-size: 12px;font-family: 黑体;color: #666;line-height: 20px;">
+
+市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。
+
+</div>
 
 ## 关键词
 
-#英伟达 #RubinUltra #HBM #AI芯片 #SK海力士 #供应链
+#华尔街见闻

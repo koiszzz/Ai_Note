@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "抢先注册 Cloudflare 钱包：让 AI Agent 完成自动交易"
 source: "小众软件"
 original_file: "信息源/小众软件/抢先注册 Cloudflare 钱包：让 AI Agent 完成自动交易.md"
 source_note: "[[信息源/小众软件/抢先注册 Cloudflare 钱包：让 AI Agent 完成自动交易]]"
 source_sha256: a7d77f671052379330e7428290f157ba4a35f439d016f228f4f8c8dd8af456f4
 original_url: "https://www.appinn.com/cloudflare-wallet/"
-processed: 2026-08-06
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：小众软件
+> - 作者：青小蛙
+> - 发布时间：2026-08-05
 > - 原文链接：[打开原文](https://www.appinn.com/cloudflare-wallet/)
 > - Vault 原文件：[[信息源/小众软件/抢先注册 Cloudflare 钱包：让 AI Agent 完成自动交易|查看原始文件]]
 

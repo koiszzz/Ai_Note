@@ -5,7 +5,8 @@ original_file: "信息源/iDaily 每日环球视野/日本运输舰支援地震�
 source_note: "[[信息源/iDaily 每日环球视野/日本运输舰支援地震灾区 - August 6, 2026]]"
 source_sha256: 5970941e1dc218b4c3e25ab457342e02d9c479594ab6f4802a31d53fdd18a70e
 original_url: "https://m.idai.ly/se/6c1m54"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：iDaily 每日环球视野
+> - 作者：日本 · 熊本县
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://m.idai.ly/se/6c1m54)
 > - Vault 原文件：[[信息源/iDaily 每日环球视野/日本运输舰支援地震灾区 - August 6, 2026|查看原始文件]]
 

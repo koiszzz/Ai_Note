@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "堆了 20 套主题、10+ 组件，用户还是用不出来？我给设计 Skill 加了「自动驾驶」"
 source: "掘金人工智能"
 original_file: "信息源/掘金人工智能/堆了 20 套主题、10+ 组件，用户还是用不出来？我给设计 Skill 加了「自动驾驶」.md"
 source_note: "[[信息源/掘金人工智能/堆了 20 套主题、10+ 组件，用户还是用不出来？我给设计 Skill 加了「自动驾驶」]]"
 source_sha256: 92b0888023ed4a44c08c3baa6bb292f320a259846aebb31500bd14356f380756
 original_url: https://juejin.cn/post/7670092136000716843
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 

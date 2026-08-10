@@ -5,7 +5,8 @@ original_file: "信息源/虎嗅/AI招聘最隐蔽的偏见：连续招聘40轮�
 source_note: "[[信息源/虎嗅/AI招聘最隐蔽的偏见：连续招聘40轮后，AI会把员工招得千篇一律]]"
 source_sha256: df79832a92e47c0e54636e7360ea454e57801fbf268e894ed574d534ef47e80d
 original_url: "https://www.huxiu.com/article/4880996.html?f=rss"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：虎嗅
+> - 作者：快刀青衣
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://www.huxiu.com/article/4880996.html?f=rss)
 > - Vault 原文件：[[信息源/虎嗅/AI招聘最隐蔽的偏见：连续招聘40轮后，AI会把员工招得千篇一律|查看原始文件]]
 

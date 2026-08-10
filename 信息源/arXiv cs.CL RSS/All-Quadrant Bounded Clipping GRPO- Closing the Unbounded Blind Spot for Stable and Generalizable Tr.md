@@ -1,0 +1,12 @@
+# All-Quadrant Bounded Clipping GRPO: Closing the Unbounded Blind Spot for Stable and Generalizable Training
+
+> 数据源：arXiv cs.CL RSS
+> RSS：[打开源文件](https://export.arxiv.org/rss/cs.CL)
+
+> 作者：Chi Liu, Xin Chen　|　发布时间：Fri, 07 Aug 2026 00:00:00 -0400　|　分类：cs.LG　|　原文：[打开链接](https://arxiv.org/abs/2601.03895)
+
+------
+
+arXiv:2601.03895v2 Announce Type: replace-cross
+
+Abstract: Group Relative Policy Optimization (GRPO) has emerged as a popular algorithm for reinforcement learning with large language models (LLMs). However, GRPO inherits PPO's token-level clipping while replacing token-level advantages with a single sequence-level advantage. Through a four-quadrant analysis of the (likelihood-ratio, advantage) space, we show that this combination leaves one quadrant -- negative advantage combined with an increased likelihood ratio (Q4) -- structurally unbounded, so that a few high-ratio tokens can receive very large suppressive updates that collapse entropy and narrow the reasoning boundary. To address this, we propose All-Quadrant Bounded Clipping GRPO (ABC-GRPO), which applies unconditional clipping in all four quadrants through sign-dependent boundaries. ABC-GRPO clips the likelihood ratio before multiplying by the advantage, adding a trust-region floor in Q2 and a cap in Q4 -- its negative-advantage branch coinciding with dual-clip PPO -- to yield bounded per-step policy displacement in every quadrant. On mathematical reasoning with Qwen3 base models, ABC-GRPO attains the highest Avg@64 and Pass@64: it is statistically superior to GRPO, SAPO, and dual-clip PPO and competitive with the strongest baseline (DAPO), while maintaining substantially higher entropy; the gains transfer to MATH-500 and to out-of-domain code (HumanEval). Ablations isolate Q4 as the dominant blind spot.

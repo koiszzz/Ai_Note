@@ -5,7 +5,8 @@ original_file: "信息源/虎嗅/追了几个月的短剧女鹅，居然是个AI
 source_note: "[[信息源/虎嗅/追了几个月的短剧女鹅，居然是个AI？？]]"
 source_sha256: 59e9564fec0c161fdd37dd06f3a0ccb07b471bc83e4ecda3dc912eaa9ccacb9c
 original_url: "https://www.huxiu.com/article/4881206.html?f=rss"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：虎嗅
+> - 作者：四味毒叔
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://www.huxiu.com/article/4881206.html?f=rss)
 > - Vault 原文件：[[信息源/虎嗅/追了几个月的短剧女鹅，居然是个AI？？|查看原始文件]]
 

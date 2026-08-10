@@ -5,7 +5,8 @@ original_file: "信息源/华尔街见闻/报道：苹果紧急抢购DRAM内存�
 source_note: "[[信息源/华尔街见闻/报道：苹果紧急抢购DRAM内存，距iPhone 18发布仅剩几周]]"
 source_sha256: f7b880ea8868e7478f554de8676be34ab00b02669da340fb80bec5a66d948701
 original_url: "https://wallstreetcn.com/articles/3778845"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,7 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：华尔街见闻
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://wallstreetcn.com/articles/3778845)
 > - Vault 原文件：[[信息源/华尔街见闻/报道：苹果紧急抢购DRAM内存，距iPhone 18发布仅剩几周|查看原始文件]]
 

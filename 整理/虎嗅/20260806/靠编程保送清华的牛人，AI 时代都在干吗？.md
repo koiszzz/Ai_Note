@@ -5,7 +5,8 @@ original_file: "信息源/虎嗅/靠编程保送清华的牛人，AI 时代都�
 source_note: "[[信息源/虎嗅/靠编程保送清华的牛人，AI 时代都在干吗？]]"
 source_sha256: dd97b91d2ebefee2a70e5dd602a7ac234daa092094724a5173f65e0b3e96b8df
 original_url: "https://www.huxiu.com/article/4880560.html?f=rss"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：虎嗅
+> - 作者：知危
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://www.huxiu.com/article/4880560.html?f=rss)
 > - Vault 原文件：[[信息源/虎嗅/靠编程保送清华的牛人，AI 时代都在干吗？|查看原始文件]]
 

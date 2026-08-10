@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "《生化危机》中“舔食者”造型的爆米花桶即将在USJ发售"
 source: "机核"
 original_file: "信息源/机核/《生化危机》中“舔食者”造型的爆米花桶即将在USJ发售.md"
 source_note: "[[信息源/机核/《生化危机》中“舔食者”造型的爆米花桶即将在USJ发售]]"
 source_sha256: 140498718b6b7b41d888bdcc03bf1ad9e28f6ebaf4ebabe615f320c49871a517
 original_url: "https://www.gcores.com/articles/217968"
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：机核
+> - 作者：Darlin'菈妮
+> - 发布时间：2026-08-05
 > - 原文链接：[打开原文](https://www.gcores.com/articles/217968)
 > - Vault 原文件：[[信息源/机核/《生化危机》中“舔食者”造型的爆米花桶即将在USJ发售|查看原始文件]]
 

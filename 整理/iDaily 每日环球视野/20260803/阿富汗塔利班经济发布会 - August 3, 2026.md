@@ -1,12 +1,12 @@
 ---
-published: 2026-08-03
 title: "阿富汗塔利班经济发布会 - August 3, 2026"
 source: "iDaily 每日环球视野"
 original_file: "信息源/iDaily 每日环球视野/阿富汗塔利班经济发布会 - August 3, 2026.md"
 source_note: "[[信息源/iDaily 每日环球视野/阿富汗塔利班经济发布会 - August 3, 2026]]"
 source_sha256: 5ee58b8e8431d582282a87d1653d5a1a5c3e4770ef8ed138bb2c8be6961a1059
 original_url: "https://m.idai.ly/se/592VVL"
-processed: 2026-08-05
+published: 2026-08-03
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：iDaily 每日环球视野
+> - 作者：阿富汗 · 喀布尔
+> - 发布时间：2026-08-03
 > - 原文链接：[打开原文](https://m.idai.ly/se/592VVL)
 > - Vault 原文件：[[信息源/iDaily 每日环球视野/阿富汗塔利班经济发布会 - August 3, 2026|查看原始文件]]
 

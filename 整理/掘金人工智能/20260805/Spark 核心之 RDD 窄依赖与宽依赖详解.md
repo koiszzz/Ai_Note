@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "Spark 核心之 RDD 窄依赖与宽依赖详解"
 source: "掘金人工智能"
 original_file: "信息源/掘金人工智能/Spark 核心之 RDD 窄依赖与宽依赖详解.md"
 source_note: "[[信息源/掘金人工智能/Spark 核心之 RDD 窄依赖与宽依赖详解]]"
 source_sha256: 3cc06af77c769c1f003ad9dba42749669754dcd16005761989f3d73e025be8cf
 original_url: https://juejin.cn/post/7670376983395467327
-processed: 2026-08-06
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 

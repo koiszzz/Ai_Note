@@ -5,7 +5,8 @@ original_file: "信息源/华尔街见闻/三星、SK海力士现金储备超美
 source_note: "[[信息源/华尔街见闻/三星、SK海力士现金储备超美股七巨头，股东要求分享AI红利]]"
 source_sha256: 3f2fdee7592ffaf081c602a61928abcdd22ac61521ad8e1ddbb18c3aca176d4e
 original_url: "https://wallstreetcn.com/articles/3778833"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,7 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：华尔街见闻
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://wallstreetcn.com/articles/3778833)
 > - Vault 原文件：[[信息源/华尔街见闻/三星、SK海力士现金储备超美股七巨头，股东要求分享AI红利|查看原始文件]]
 

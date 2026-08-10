@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "Ep.54 这届ChinaJoy，AI游戏终于不只是在聊天了"
 source: "机核"
 original_file: "信息源/机核/Ep.54 这届ChinaJoy，AI游戏终于不只是在聊天了.md"
 source_note: "[[信息源/机核/Ep.54 这届ChinaJoy，AI游戏终于不只是在聊天了]]"
 source_sha256: ce100d0fbd28fc51e207ecc32eed02650852f4dd18439dee8ad67f1d10fd236a
 original_url: "https://www.gcores.com/radios/218029"
-processed: 2026-08-06
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：机核
+> - 作者：筱宁Lori
+> - 发布时间：2026-08-05
 > - 原文链接：[打开原文](https://www.gcores.com/radios/218029)
 > - Vault 原文件：[[信息源/机核/Ep.54 这届ChinaJoy，AI游戏终于不只是在聊天了|查看原始文件]]
 

@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "弄潮先溺，“加密xAI”先驱ai16z 的落幕"
 source: "虎嗅"
 original_file: "信息源/虎嗅/弄潮先溺，“加密xAI”先驱ai16z 的落幕.md"
 source_note: "[[信息源/虎嗅/弄潮先溺，“加密xAI”先驱ai16z 的落幕]]"
 source_sha256: 05ff9f606e1b8564d0fa6e18e0d525eedb3a0793ccd834a5cdcd8af976be9c3e
 original_url: "https://www.huxiu.com/article/4880842.html?f=rss"
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：虎嗅
+> - 作者：深潮TechFlow
+> - 发布时间：2026-08-05
 > - 原文链接：[打开原文](https://www.huxiu.com/article/4880842.html?f=rss)
 > - Vault 原文件：[[信息源/虎嗅/弄潮先溺，“加密xAI”先驱ai16z 的落幕|查看原始文件]]
 

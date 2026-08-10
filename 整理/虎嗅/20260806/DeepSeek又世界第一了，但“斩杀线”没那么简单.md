@@ -5,7 +5,8 @@ original_file: "信息源/虎嗅/DeepSeek又世界第一了，但“斩杀线”
 source_note: "[[信息源/虎嗅/DeepSeek又世界第一了，但“斩杀线”没那么简单]]"
 source_sha256: f214ab63311279ab4dbe40cc3adfc89624e19ebb83f1549cd7da5350da0da3a6
 original_url: "https://www.huxiu.com/article/4880945.html?f=rss"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：虎嗅
+> - 作者：杜雨说AI
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://www.huxiu.com/article/4880945.html?f=rss)
 > - Vault 原文件：[[信息源/虎嗅/DeepSeek又世界第一了，但“斩杀线”没那么简单|查看原始文件]]
 

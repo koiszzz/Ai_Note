@@ -10,6 +10,71 @@
 
 LLM 收到这句话后，应直接完成下方全部流程，不需要再次询问确认。
 
+## 处理策略：中文源脚本化，外文源逐篇（先读本节再读契约）
+
+先按“是否中文源”分流，可大幅减少逐篇手工工作：
+
+### A. 中文源（原样重排，无翻译）→ 一律用脚本，禁止手工逐篇
+
+以下数据源的内容本身就是简体中文，整理只是“拆条 + 统一模板 + 写 frontmatter + 校验”，全部可由脚本确定性完成：
+
+- 通用中文 RSS 源（脚本 `organize-chinese-rss.mjs`）：虎嗅、华尔街见闻、机核、量子位、美团技术团队、阮一峰的网络日志、小众软件、游戏研究社
+- 合集日报（`organize-ai-daily.mjs`）：AI资讯日报
+- 合集日报（`organize-chinese-feeds.mjs`）：Horizon Daily（中文摘要）
+- 仅标题源（`organize-metadata-only-chinese.mjs <源名>`）：掘金人工智能
+
+中文源的处理方式：
+
+1. 抓取后直接运行中文源脚本（幂等：源文件未变时自动跳过；源文件更新或输出缺字段时自动重写）：
+   ```powershell
+   node scripts/organize-chinese-rss.mjs --vault="."
+   node scripts/organize-ai-daily.mjs "."
+   node scripts/organize-chinese-feeds.mjs "."
+   ```
+2. 脚本已内置逐篇检测（`validate-translated-note.mjs`），检测失败的文章不会写入；脚本产出的笔记无需再逐篇手动校验。
+3. 脚本产物写入 `整理/<源>/` 平铺目录后，必须运行迁移脚本归入日期目录（见 5.1），再跑全量审计。
+4. 一键串联（整理 → 对账 → 迁移 → 审计）：
+   ```powershell
+   node scripts/pipeline.mjs --vault="."
+   ```
+   可用 `--steps=chinese,daily,horizon,reconcile,migrate,audit` 裁剪，`--no-audit` 跳过约 5 分钟的最终审计。
+
+### B. 非中文源（需完整中文翻译）→ 由 LLM 逐篇翻译，脚本只做机械辅助
+
+arXiv 等外文源没有“原样搬运”的捷径，翻译必须由 LLM 完成。以下脚本只减少机械劳动，不代替翻译，也不允许因此跳过任何可读的外文文件：
+
+- `scripts/translate-batch.mjs`：批次预处理。对一批原文自动完成“跨源复用已有翻译 → 生成带完整 frontmatter/哈希/摘要的骨架 → 校验”，LLM 只需填充/审核翻译正文：
+  ```powershell
+  node scripts/translate-batch.mjs --vault="." --src="信息源/arXiv cs.CV RSS" --limit=10
+  ```
+  支持 `--reuse-from=源A,源B` 复用其他源已翻译的同标题论文（`--src` 也可传 list 文件）；`--llm=claude` 可批量调用 Claude Code CLI 直接翻译。
+- `scripts/reuse-cross-notes.mjs`：跨源复用专用（同一论文出现在多个类别 RSS 时，如 cs.AI/cs.LG/cs.CV/cs.CL）。`--report` 查看哪些条目可复用及内容是否一致，`--apply` 一键复制翻译并改写 `source/original_file/source_note/source_sha256` 四个字段：
+  ```powershell
+  node scripts/reuse-cross-notes.mjs --vault="." --target="arXiv cs.CV RSS" --report
+  node scripts/reuse-cross-notes.mjs --vault="." --target="arXiv cs.CV RSS" --apply
+  ```
+- `scripts/reconcile-sha.mjs`：全库哈希对账（防回归）。输出中 `source_sha256` 与当前源文件不一致时列出；`--fix` 自动更新哈希：
+  ```powershell
+  node scripts/reconcile-sha.mjs --vault="." --fix
+  ```
+
+#### B.1 防重复搬运（强制，禁止同一翻译反复生成）
+
+以下规则防止“换日期目录、换数据源或重跑脚本就再次生成/再次搬运已有翻译”：
+
+- **全树查重**：处理任何外文条目之前，必须先在整个 `整理/<源>/` 输出树（含全部日期子目录）中按 `source_sha256` 查找是否已存在对应笔记；存在即视为已整理，禁止重新翻译或重新生成。脚本（`translate-batch.mjs`、`reuse-cross-notes.mjs --apply`）已内置跨日期目录查重；LLM 手工处理时也必须全树检索，不得只查单个日期目录或数据源根目录后误判“未整理”。
+- **输出落位**：`translate-batch.mjs` 与 `reuse-cross-notes.mjs --apply` 的产物一律写入 `整理/<源>/<YYYYMMDD>/` 日期目录，禁止写入 `整理/<源>/` 根目录；运行后必须执行迁移脚本（见 5.1）规范化并核对数量，根目录不得残留平铺文件。
+- **一份翻译原则**：同一篇论文（按 `original_file` 文件名去掉扩展名后小写归一化判定）在整个 `整理/` 中只允许存在一份翻译内容。同一论文出现在多个数据源（如 arXiv 类别交叉）时，通过复制现有翻译并改写 `source`、`original_file`、`source_note`、`source_sha256` 四个字段完成，不得重新翻译。
+- **复用后对账**：跨源复用写入的 `source_sha256` 必须是目标源原文件的当前哈希；每次复用或手工整理后运行 `reconcile-sha.mjs --fix`，确保无哈希漂移。
+- **重复副本处置**：发现同一 `source_sha256` 出现在多个文件时，保留日期目录内的文件，删除其余副本，再重新审计；禁止保留根目录副本“备用”。
+- **历史遗留说明**：早期手工复用产生的同一论文翻译可能存在模板或措辞差异（内容不完全一致），这不影响审计通过，属允许状态；今后统一用脚本复用保证一致，不要再手工复制粘贴。
+
+### C. 分流边界（必须遵守）
+
+- 中文源即使量再大也必须用脚本跑完，禁止“只挑几篇手工做”。
+- 外文源即使有脚本辅助，翻译正文仍必须由 LLM 完成；不得因为“已有骨架/已复用”就跳过翻译，也不得把 `待翻译` 占位当作完成（见最终完成闸门）。
+- 无论用哪种方式处理，最终都必须满足：迁移脚本“数量核对”全部通过 + 全量审计 `ok: true` 且 `pending/changed/failed` 均为 0。
+
 ## 最高优先级：完整执行契约（禁止提前结束）
 
 本节是整个任务的最高优先级执行约束。模型必须先完整读取本 README，再开始工作；不得只执行其中一部分，也不得用后续章节的任何表述降低本节要求。
@@ -310,7 +375,7 @@ language: zh-CN
 
 ### 5.1 存量整理稿迁移与数量核对（强制）
 
-整理脚本（`organize-ai-daily.mjs`、`organize-chinese-feeds.mjs` 等）会把结果先写入 `整理/<数据源>/` 平铺结构，因此每次运行整理脚本后都必须执行迁移脚本，把平铺文件规范化到日期目录（不限于历史遗留文件，脚本产物同样适用）；不允许 LLM 手工搬移或凭记忆估算数量。执行：
+整理脚本（`organize-chinese-rss.mjs`、`organize-ai-daily.mjs`、`organize-chinese-feeds.mjs`、`organize-metadata-only-chinese.mjs` 等）会把结果先写入 `整理/<数据源>/` 平铺结构，因此每次运行整理脚本后都必须执行迁移脚本，把平铺文件规范化到日期目录（不限于历史遗留文件，脚本产物同样适用）；不允许 LLM 手工搬移或凭记忆估算数量。执行：
 
 ```powershell
 node scripts/migrate-organized-notes.mjs --vault="."
@@ -383,7 +448,7 @@ node scripts/organize-ai-daily.mjs "."
 ### 6. 增量处理与校验
 
 - 通过 YAML 中的 `original_file` 判断文件是否已经整理，并用 `source_sha256` 判断原文件是否发生变化。
-- 已整理且原文件 SHA-256 未变化时跳过，避免重复翻译和重复生成。
+- 已整理且原文件 SHA-256 未变化时跳过，避免重复翻译和重复生成；判断须覆盖 `整理/<源>/` 整棵输出树（含全部日期子目录），禁止只查单个日期目录后误判未整理（见 B.1 防重复搬运）。
 - 原文件有更新时，重新生成对应结果；不要改动其他已整理笔记。
 - 写入后检查 YAML、标题、正文、链接和 Markdown 语法是否完整。
 - 对所有新建或更新的译文执行“译后质量检查”；检测到编码文本、乱码、外文残留或语义错误时必须修正并重新检查。

@@ -5,7 +5,8 @@ original_file: "信息源/虎嗅/和四位一线创业者聊聊：ToC Agent 那�
 source_note: "[[信息源/虎嗅/和四位一线创业者聊聊：ToC Agent 那么卷，ToB 的机会在哪、落地卡点在哪？]]"
 source_sha256: f92ff11e011bfa18a7094a45d5a4d73e46e84cf340734d6d14a3b740d2da22a9
 original_url: "https://www.huxiu.com/article/4881228.html?f=rss"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：虎嗅
+> - 作者：Founder Park©
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://www.huxiu.com/article/4881228.html?f=rss)
 > - Vault 原文件：[[信息源/虎嗅/和四位一线创业者聊聊：ToC Agent 那么卷，ToB 的机会在哪、落地卡点在哪？|查看原始文件]]
 

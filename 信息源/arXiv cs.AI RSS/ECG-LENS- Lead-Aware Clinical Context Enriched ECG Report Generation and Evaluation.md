@@ -1,0 +1,12 @@
+# ECG-LENS: Lead-Aware Clinical Context Enriched ECG Report Generation and Evaluation
+
+> 数据源：arXiv cs.AI RSS
+> RSS：[打开源文件](https://export.arxiv.org/rss/cs.AI)
+
+> 作者：Akanta Das, Tasinul Islam Ahon, Ahmed Mahir Sultan Rumi, Md Mahbubur Rahman, Tausif Amim Shadly, Tanzima Hashem　|　发布时间：Fri, 07 Aug 2026 00:00:00 -0400　|　分类：cs.AI　|　原文：[打开链接](https://arxiv.org/abs/2608.05893)
+
+------
+
+arXiv:2608.05893v1 Announce Type: new
+
+Abstract: Electrocardiography (ECG) is one of the most widely used non-invasive tools for diagnosing cardiovascular disease, but transforming multi-lead ECG recordings into reliable clinical reports remains challenging. Automating ECG report generation could reduce clinicians' interpretive workload, improve diagnostic efficiency, and expand access to cardiac assessment in underserved communities. Unlike image-based report-generation tasks, ECG interpretation requires the analysis of subtle temporal morphologies, followed by coherent diagnostic reasoning expressed in dense clinical terminology. Existing systems predominantly focus on classification, while current report-generation methods often produce outputs that remain inadequate for practical clinical use. To address these challenges, we propose ECG-LENS, an end-to-end ECG report-generation framework that jointly integrates multi-lead signal modeling, diagnosis-aware representations, and clinically grounded text generation. ECG-LENS combines lead-wise encoders that preserve localized waveform morphology with a global encoder that captures inter-lead dependencies. To guide report generation, we fuse signal representations with clinically enriched textual prompts that condition a GPT-2 decoder. We further introduce an ECG-specific report-preprocessing strategy that helps the model focus on clinically meaningful findings. Finally, because lexical metrics may under- or overestimate report quality, we propose F1-ECGBERT, a BERT-based, ECG-specific metric that measures agreement between diagnostic labels extracted from generated and reference reports. In-domain experiments on PTB-XL and cross-domain evaluation on MIMIC-IV-ECG show that ECG-LENS consistently outperforms state-of-the-art methods, with absolute gains of 4.0%, 6.3%, and 11.5% in METEOR, ROUGE-L, and F1-ECGBERT, respectively, over the strongest baselines.

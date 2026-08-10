@@ -1,12 +1,12 @@
 ---
-published: 2026-08-04
 title: "代码库知识库系列（06）：把调用图编码进 Embedding——结构增强有效，但不够"
 source: "掘金人工智能"
 original_file: "信息源/掘金人工智能/代码库知识库系列（06）：把调用图编码进 Embedding——结构增强有效，但不够.md"
 source_note: "[[信息源/掘金人工智能/代码库知识库系列（06）：把调用图编码进 Embedding——结构增强有效，但不够]]"
 source_sha256: 1e85f84057272c66574996ae992b57a51d08e96b287f37b9df36d261e3f02859
 original_url: https://juejin.cn/post/7669999915607490614
-processed: 2026-08-06
+published: 2026-08-04
+processed: 2026-08-10
 language: zh-CN
 ---
 

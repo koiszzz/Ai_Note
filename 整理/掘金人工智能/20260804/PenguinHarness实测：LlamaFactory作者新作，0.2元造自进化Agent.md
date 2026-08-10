@@ -1,12 +1,12 @@
 ---
-published: 2026-08-04
 title: "PenguinHarness实测：LlamaFactory作者新作，0.2元造自进化Agent"
 source: "掘金人工智能"
 original_file: "信息源/掘金人工智能/PenguinHarness实测：LlamaFactory作者新作，0.2元造自进化Agent.md"
 source_note: "[[信息源/掘金人工智能/PenguinHarness实测：LlamaFactory作者新作，0.2元造自进化Agent]]"
 source_sha256: a4d20d3fd9cf4ab3f0c6b63228066eae607a886b4ab533ab965c34887067f75e
 original_url: https://juejin.cn/post/7670096798276059146
-processed: 2026-08-06
+published: 2026-08-04
+processed: 2026-08-10
 language: zh-CN
 ---
 

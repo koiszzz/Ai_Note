@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "AI Agent 开发实战（十一）：Multi-Agent 协作编排"
 source: "掘金人工智能"
 original_file: "信息源/掘金人工智能/AI Agent 开发实战（十一）：Multi-Agent 协作编排.md"
 source_note: "[[信息源/掘金人工智能/AI Agent 开发实战（十一）：Multi-Agent 协作编排]]"
 source_sha256: f5ef6f2b7294fdf1c860146a129b130fefaf3d5d32b12178371f2a90740cbf6f
 original_url: https://juejin.cn/post/7670092136000569387
-processed: 2026-08-06
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 

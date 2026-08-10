@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "天天 AI Coding 的你，如果出去面试，你的竞争力是什么？"
 source: "掘金人工智能"
 original_file: "信息源/掘金人工智能/天天 AI Coding 的你，如果出去面试，你的竞争力是什么？.md"
 source_note: "[[信息源/掘金人工智能/天天 AI Coding 的你，如果出去面试，你的竞争力是什么？]]"
 source_sha256: 82015a4c88f548de49cc8442c204d7b72235fff6b299e4b130d6f0410778abaa
 original_url: https://juejin.cn/post/7670094721701445672
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 

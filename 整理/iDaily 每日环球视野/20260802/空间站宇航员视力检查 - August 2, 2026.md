@@ -1,12 +1,12 @@
 ---
-published: 2026-08-02
 title: "空间站宇航员视力检查 - August 2, 2026"
 source: "iDaily 每日环球视野"
 original_file: "信息源/iDaily 每日环球视野/空间站宇航员视力检查 - August 2, 2026.md"
 source_note: "[[信息源/iDaily 每日环球视野/空间站宇航员视力检查 - August 2, 2026]]"
 source_sha256: b9776b6cbbf60146fa47d29480a2b9fd19098c2c390b011489296eee960f4cb1
 original_url: "https://m.idai.ly/se/9fadwc"
-processed: 2026-08-05
+published: 2026-08-02
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：iDaily 每日环球视野
+> - 作者：国际空间站
+> - 发布时间：2026-08-02
 > - 原文链接：[打开原文](https://m.idai.ly/se/9fadwc)
 > - Vault 原文件：[[信息源/iDaily 每日环球视野/空间站宇航员视力检查 - August 2, 2026|查看原始文件]]
 

@@ -5,7 +5,8 @@ original_file: "信息源/虎嗅/首席科学家离职，谷歌AI的派系之争
 source_note: "[[信息源/虎嗅/首席科学家离职，谷歌AI的派系之争终于结束]]"
 source_sha256: ffe48405e5fbee1544fa999849bb4ded8010e0721ecef22afef36ef8c55a7788
 original_url: "https://www.huxiu.com/article/4881177.html?f=rss"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：虎嗅
+> - 作者：寻空
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://www.huxiu.com/article/4881177.html?f=rss)
 > - Vault 原文件：[[信息源/虎嗅/首席科学家离职，谷歌AI的派系之争终于结束|查看原始文件]]
 

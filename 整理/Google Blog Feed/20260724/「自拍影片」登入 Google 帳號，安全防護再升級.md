@@ -1,12 +1,12 @@
 ---
-published: 2026-07-24
 title: "「自拍影片」登入 Google 帳號，安全防護再升級"
 source: "Google Blog Feed"
 original_file: "信息源/Google Blog Feed/「自拍影片」登入 Google 帳號，安全防護再升級.md"
 source_note: "[[信息源/Google Blog Feed/「自拍影片」登入 Google 帳號，安全防護再升級]]"
 source_sha256: 40ff280a8dd3f3fe592a4abd2cc568177bf918fd08ae200b6aae24a7a7fde9e1
 original_url: "https://blog.google/intl/zh-tw/products/devices-services/selfie-for-signin/"
-processed: 2026-08-05
+published: 2026-07-24
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：Google Blog Feed
+> - 作者：John Gronberg Google 身分與用戶互動產品管理總經理　|　组织：Google
+> - 发布时间：2026-07-24
 > - 原文链接：[打开原文](https://blog.google/intl/zh-tw/products/devices-services/selfie-for-signin/)
 > - Vault 原文件：[[信息源/Google Blog Feed/「自拍影片」登入 Google 帳號，安全防護再升級|查看原始文件]]
 

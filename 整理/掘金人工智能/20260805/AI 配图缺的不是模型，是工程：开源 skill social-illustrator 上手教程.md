@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "AI 配图缺的不是模型，是工程：开源 skill social-illustrator 上手教程"
 source: "掘金人工智能"
 original_file: "信息源/掘金人工智能/AI 配图缺的不是模型，是工程：开源 skill social-illustrator 上手教程.md"
 source_note: "[[信息源/掘金人工智能/AI 配图缺的不是模型，是工程：开源 skill social-illustrator 上手教程]]"
 source_sha256: 0a8d141132b7c0b28b3e3201fcfa8076514382b1f4ece2dbb53995767dae4519
 original_url: https://juejin.cn/post/7670162213919948800
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 

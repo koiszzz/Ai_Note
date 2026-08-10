@@ -5,7 +5,8 @@ original_file: "信息源/虎嗅/物理AI重塑智驾.md"
 source_note: "[[信息源/虎嗅/物理AI重塑智驾]]"
 source_sha256: 62e4e372856560869d758deac87395db61293917e3e9b4c8eb1223a30b6cbd08
 original_url: "https://www.huxiu.com/article/4881079.html?f=rss"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：虎嗅
+> - 作者：巨潮WAVE
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://www.huxiu.com/article/4881079.html?f=rss)
 > - Vault 原文件：[[信息源/虎嗅/物理AI重塑智驾|查看原始文件]]
 

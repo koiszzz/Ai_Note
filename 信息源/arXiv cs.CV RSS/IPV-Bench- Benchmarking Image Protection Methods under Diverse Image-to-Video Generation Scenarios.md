@@ -1,0 +1,12 @@
+# IPV-Bench: Benchmarking Image Protection Methods under Diverse Image-to-Video Generation Scenarios
+
+> 数据源：arXiv cs.CV RSS
+> RSS：[打开源文件](https://export.arxiv.org/rss/cs.CV)
+
+> 作者：Xiaofeng Li, Leyi Sheng, Yifan Zhao, Zhen Sun, Zongmin Zhang, Jiaheng Wei, Xinlei He　|　发布时间：Fri, 07 Aug 2026 00:00:00 -0400　|　分类：cs.CV　|　原文：[打开链接](https://arxiv.org/abs/2603.26154)
+
+------
+
+arXiv:2603.26154v2 Announce Type: replace
+
+Abstract: Image-to-video (I2V) generation models can be misused to animate a single image into a convincing fake video, motivating perturbation-based image protection methods that aim to disrupt such generation. Yet these methods remain difficult to compare: they are reported under inconsistent metrics and generation settings, are often validated only on the single generator they were optimized against, and are evaluated on narrow, single-domain image sets that do not reflect real misuse. To address these challenges, we introduce IPV-Bench (Image Protection against Video generation), the first systematic benchmark for image protection in I2V generation scenarios. IPV-Bench couples a unified protocol that jointly scores protection effectiveness, visual fidelity, and robustness to preprocessing attacks together with IPV-500, a prompt-paired dataset spanning five misuse-relevant domains. Based on this benchmark, we evaluate five representative protection methods across four I2V models covering distinct architectures and both open-source and commercial systems. Extensive experiments show a consistently sobering picture: image protection and video disruption trade off against each other, most methods fail to disrupt generation beyond noise, protection rarely transfers across generators, and the few effective cases are broken by simple preprocessing. We further find that image content governs the perceptual cost of protection but not its benefit: no image domain offers an easier target. Overall, IPV-Bench provides a rigorous, reproducible, and extensible foundation for developing protection methods that work in practice.

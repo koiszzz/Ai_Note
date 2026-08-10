@@ -1,12 +1,12 @@
 ---
-published: 2026-08-02
 title: "美国首次直播戴维营内阁会议 - August 2, 2026"
 source: "iDaily 每日环球视野"
 original_file: "信息源/iDaily 每日环球视野/美国首次直播戴维营内阁会议 - August 2, 2026.md"
 source_note: "[[信息源/iDaily 每日环球视野/美国首次直播戴维营内阁会议 - August 2, 2026]]"
 source_sha256: 91ae5ff008f32769f41515d337a0ae2ae7d584c686a96fa74982219e5b2637a0
 original_url: "https://m.idai.ly/se/b10Llk"
-processed: 2026-08-05
+published: 2026-08-02
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：iDaily 每日环球视野
+> - 作者：美国 · 马里兰州
+> - 发布时间：2026-08-02
 > - 原文链接：[打开原文](https://m.idai.ly/se/b10Llk)
 > - Vault 原文件：[[信息源/iDaily 每日环球视野/美国首次直播戴维营内阁会议 - August 2, 2026|查看原始文件]]
 

@@ -1,12 +1,12 @@
 ---
-published: 2026-08-04
 title: "Hugging Face模型转为GGUF格式"
 source: "掘金人工智能"
 original_file: "信息源/掘金人工智能/Hugging Face模型转为GGUF格式.md"
 source_note: "[[信息源/掘金人工智能/Hugging Face模型转为GGUF格式]]"
 source_sha256: 001c4e7ce9c851550d086e5a3dbc7063b87981aabf386c78b678570a9848ab9f
 original_url: https://juejin.cn/post/7669998887132315667
-processed: 2026-08-05
+published: 2026-08-04
+processed: 2026-08-10
 language: zh-CN
 ---
 

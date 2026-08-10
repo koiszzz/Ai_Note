@@ -1,12 +1,12 @@
 ---
-published: 2026-07-30
 title: "复旦「学术版 Codex」：从找 Idea 到跑实验，一句话全自动"
 source: "小众软件"
 original_file: "信息源/小众软件/复旦「学术版 Codex」：从找 Idea 到跑实验，一句话全自动.md"
 source_note: "[[信息源/小众软件/复旦「学术版 Codex」：从找 Idea 到跑实验，一句话全自动]]"
 source_sha256: 15a06c951340c03986e7c65cad3b022cfa70fd6dc456c10c1907f7f880953ac0
 original_url: "https://www.appinn.com/qiewenpaper-codex/"
-processed: 2026-08-05
+published: 2026-07-30
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：小众软件
+> - 作者：青小蛙
+> - 发布时间：2026-07-30
 > - 原文链接：[打开原文](https://www.appinn.com/qiewenpaper-codex/)
 > - Vault 原文件：[[信息源/小众软件/复旦「学术版 Codex」：从找 Idea 到跑实验，一句话全自动|查看原始文件]]
 

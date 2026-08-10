@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "Graph Engineering 火了：Agent 的难题变成了“协作”"
 source: "虎嗅"
 original_file: "信息源/虎嗅/Graph Engineering 火了：Agent 的难题变成了“协作”.md"
 source_note: "[[信息源/虎嗅/Graph Engineering 火了：Agent 的难题变成了“协作”]]"
 source_sha256: b934ec97c25a37f499358943e726cff9038c94cc13c79890953c41605746d292
 original_url: "https://www.huxiu.com/article/4880674.html?f=rss"
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：虎嗅
+> - 作者：许良©
+> - 发布时间：2026-08-05
 > - 原文链接：[打开原文](https://www.huxiu.com/article/4880674.html?f=rss)
 > - Vault 原文件：[[信息源/虎嗅/Graph Engineering 火了：Agent 的难题变成了“协作”|查看原始文件]]
 

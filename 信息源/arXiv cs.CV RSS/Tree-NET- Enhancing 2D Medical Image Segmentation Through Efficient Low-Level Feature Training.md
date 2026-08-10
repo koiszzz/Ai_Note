@@ -1,0 +1,12 @@
+# Tree-NET: Enhancing 2D Medical Image Segmentation Through Efficient Low-Level Feature Training
+
+> 数据源：arXiv cs.CV RSS
+> RSS：[打开源文件](https://export.arxiv.org/rss/cs.CV)
+
+> 作者：Orhan Demirci, Bulent Yilmaz　|　发布时间：Fri, 07 Aug 2026 00:00:00 -0400　|　分类：eess.IV　|　原文：[打开链接](https://arxiv.org/abs/2501.02140)
+
+------
+
+arXiv:2501.02140v2 Announce Type: replace-cross
+
+Abstract: This paper introduces Tree-NET, a novel framework for medical image segmentation that leverages bottleneck supervision to enhance both segmentation accuracy and computational efficiency. While previous studies have applied bottleneck feature supervision to segmentation tasks, it has typically been limited to the training phase, offering no computational benefits during inference. To the best of our knowledge, this is the first framework to employ dual bottleneck supervision for segmentation, leveraging latent space features at both the input and output stages. This approach reduces input and label dimensions with minimal parameter overhead while preserving accuracy. Tree-NET features a three-component architecture: Encoder-Net and Decoder-Net, which compress input and label data via autoencoding, and Bridge-Net, a segmentation model trained on these compressed representations. By operating entirely on dense, low-dimensional features, Tree-NET improves runtime efficiency and can be integrated into existing segmentation models without modifying their internal structures or increasing model size. We evaluate Tree-NET on two key segmentation tasks: skin lesion and polyp segmentation using various backbone models, including U-NET, U-NET++, and Polyp-PVT. Experimental results show that Tree-NET reduces FLOPs by a factor of 4 to 13 and decreases memory usage while maintaining segmentation accuracy comparable to baseline models. For example, with an untrained U-NET++ backbone, Tree-NET improves the Dice score on ISIC 2018 from 0.829 to 0.862 and the IoU from 0.736 to 0.787. On CVC-ClinicDB, it achieves a Dice score of 0.946 and an IoU of 0.901 using a Polyp-PVT backbone, matching or surpassing baseline performance. These findings underscore Tree-NET's potential as a robust and efficient solution for medical image segmentation.

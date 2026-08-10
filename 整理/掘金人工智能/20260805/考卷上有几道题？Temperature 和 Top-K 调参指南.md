@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "考卷上有几道题？Temperature 和 Top-K 调参指南"
 source: "掘金人工智能"
 original_file: "信息源/掘金人工智能/考卷上有几道题？Temperature 和 Top-K 调参指南.md"
 source_note: "[[信息源/掘金人工智能/考卷上有几道题？Temperature 和 Top-K 调参指南]]"
 source_sha256: fb5eca6bcefb22b61d067fb609fb3e75d2524cee3cbf7cf99d61bd5b6746e6e1
 original_url: https://juejin.cn/post/7670384913347690559
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 

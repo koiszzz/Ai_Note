@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "华尔街见闻早餐FM-Radio | 2026年8月6日"
 source: "华尔街见闻"
 original_file: "信息源/华尔街见闻/华尔街见闻早餐FM-Radio - 2026年8月6日.md"
 source_note: "[[信息源/华尔街见闻/华尔街见闻早餐FM-Radio - 2026年8月6日]]"
 source_sha256: 576b7a470c034e051156eea00f9c3ac7c266e3432b99c602ba452b5534f5e402
 original_url: "https://wallstreetcn.com/articles/3778791"
-processed: 2026-08-06
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,7 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：华尔街见闻
+> - 发布时间：2026-08-05
 > - 原文链接：[打开原文](https://wallstreetcn.com/articles/3778791)
 > - Vault 原文件：[[信息源/华尔街见闻/华尔街见闻早餐FM-Radio - 2026年8月6日|查看原始文件]]
 

@@ -1,12 +1,12 @@
 ---
-published: 2026-08-02
 title: "中国庆祝八一建军节 - August 2, 2026"
 source: "iDaily 每日环球视野"
 original_file: "信息源/iDaily 每日环球视野/中国庆祝八一建军节 - August 2, 2026.md"
 source_note: "[[信息源/iDaily 每日环球视野/中国庆祝八一建军节 - August 2, 2026]]"
 source_sha256: 6befdc268e366f432b4b380974865ebc9d3fba0833c0b0637689f8314c3bf8ef
 original_url: "https://m.idai.ly/se/1dcv9y"
-processed: 2026-08-05
+published: 2026-08-02
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：iDaily 每日环球视野
+> - 作者：中国 · 南昌
+> - 发布时间：2026-08-02
 > - 原文链接：[打开原文](https://m.idai.ly/se/1dcv9y)
 > - Vault 原文件：[[信息源/iDaily 每日环球视野/中国庆祝八一建军节 - August 2, 2026|查看原始文件]]
 

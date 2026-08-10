@@ -1,12 +1,12 @@
 ---
-published: 2026-08-02
 title: "反战组织悼念加沙儿童 - August 2, 2026"
 source: "iDaily 每日环球视野"
 original_file: "信息源/iDaily 每日环球视野/反战组织悼念加沙儿童 - August 2, 2026.md"
 source_note: "[[信息源/iDaily 每日环球视野/反战组织悼念加沙儿童 - August 2, 2026]]"
 source_sha256: 561dd02bd9d48f62f5f9ec5425b4fa8bd5231116072f922cb05739637567bc6a
 original_url: "https://m.idai.ly/se/ed0Jbq"
-processed: 2026-08-05
+published: 2026-08-02
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：iDaily 每日环球视野
+> - 作者：荷兰 · 海牙
+> - 发布时间：2026-08-02
 > - 原文链接：[打开原文](https://m.idai.ly/se/ed0Jbq)
 > - Vault 原文件：[[信息源/iDaily 每日环球视野/反战组织悼念加沙儿童 - August 2, 2026|查看原始文件]]
 

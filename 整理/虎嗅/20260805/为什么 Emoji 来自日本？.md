@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "为什么 Emoji 来自日本？"
 source: "虎嗅"
 original_file: "信息源/虎嗅/为什么 Emoji 来自日本？.md"
 source_note: "[[信息源/虎嗅/为什么 Emoji 来自日本？]]"
 source_sha256: 99558d43b4ecc7db84ee7bb29c8f7c7658c7910994ae7a4513ae3c9856009961
 original_url: "https://www.huxiu.com/article/4880685.html?f=rss"
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：虎嗅
+> - 作者：宇众不同的露萱
+> - 发布时间：2026-08-05
 > - 原文链接：[打开原文](https://www.huxiu.com/article/4880685.html?f=rss)
 > - Vault 原文件：[[信息源/虎嗅/为什么 Emoji 来自日本？|查看原始文件]]
 

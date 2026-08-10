@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "台积电扩大AI芯片CoW封装外包，产能瓶颈有望缓解"
 source: "华尔街见闻"
 original_file: "信息源/华尔街见闻/台积电扩大AI芯片CoW封装外包，产能瓶颈有望缓解.md"
 source_note: "[[信息源/华尔街见闻/台积电扩大AI芯片CoW封装外包，产能瓶颈有望缓解]]"
 source_sha256: 00e8f8427512145ab191a7148ba638e5a85478228d681cf65074920e9514d3f4
 original_url: "https://wallstreetcn.com/articles/3778729"
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,7 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：华尔街见闻
+> - 发布时间：2026-08-05
 > - 原文链接：[打开原文](https://wallstreetcn.com/articles/3778729)
 > - Vault 原文件：[[信息源/华尔街见闻/台积电扩大AI芯片CoW封装外包，产能瓶颈有望缓解|查看原始文件]]
 

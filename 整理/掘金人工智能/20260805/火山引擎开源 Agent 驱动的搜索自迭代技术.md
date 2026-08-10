@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "火山引擎开源 Agent 驱动的搜索自迭代技术"
 source: "掘金人工智能"
 original_file: "信息源/掘金人工智能/火山引擎开源 Agent 驱动的搜索自迭代技术.md"
 source_note: "[[信息源/掘金人工智能/火山引擎开源 Agent 驱动的搜索自迭代技术]]"
 source_sha256: 7a0fd9c993ee820e769ea5f47a1f0a9deb7d72b3f8120e3b127eeb5a0f9d034c
 original_url: https://juejin.cn/post/7670194675604750382
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 

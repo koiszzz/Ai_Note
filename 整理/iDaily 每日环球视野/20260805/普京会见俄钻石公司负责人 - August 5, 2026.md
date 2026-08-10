@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "普京会见俄钻石公司负责人 - August 5, 2026"
 source: "iDaily 每日环球视野"
 original_file: "信息源/iDaily 每日环球视野/普京会见俄钻石公司负责人 - August 5, 2026.md"
 source_note: "[[信息源/iDaily 每日环球视野/普京会见俄钻石公司负责人 - August 5, 2026]]"
 source_sha256: c4fb1359e87701f1e35a5b18150cb19be5a9e2a794f60b94b24a2811574940a8
 original_url: "https://m.idai.ly/se/1f55mS"
-processed: 2026-08-06
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：iDaily 每日环球视野
+> - 作者：俄罗斯 · 莫斯科
+> - 发布时间：2026-08-05
 > - 原文链接：[打开原文](https://m.idai.ly/se/1f55mS)
 > - Vault 原文件：[[信息源/iDaily 每日环球视野/普京会见俄钻石公司负责人 - August 5, 2026|查看原始文件]]
 

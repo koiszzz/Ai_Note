@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "用 AI 搭一条自动化热点监控流水线：RSS 聚合、智能筛选、定时推送一次跑通"
 source: "掘金人工智能"
 original_file: "信息源/掘金人工智能/用 AI 搭一条自动化热点监控流水线：RSS 聚合、智能筛选、定时推送一次跑通.md"
 source_note: "[[信息源/掘金人工智能/用 AI 搭一条自动化热点监控流水线：RSS 聚合、智能筛选、定时推送一次跑通]]"
 source_sha256: 02990a0b0b1b5253d9af47b9c44c75c65e4d3abdf14e590e168d1aa7bf5e0315
 original_url: https://juejin.cn/post/7670344663845847076
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 

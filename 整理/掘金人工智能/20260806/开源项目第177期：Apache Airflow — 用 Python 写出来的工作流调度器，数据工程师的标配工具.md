@@ -1,12 +1,12 @@
 ---
-published: 2026-08-06
 title: "开源项目第177期：Apache Airflow — 用 Python 写出来的工作流调度器，数据工程师的标配工具"
 source: "掘金人工智能"
 original_file: "信息源/掘金人工智能/开源项目第177期：Apache Airflow — 用 Python 写出来的工作流调度器，数据工程师的标配工具.md"
 source_note: "[[信息源/掘金人工智能/开源项目第177期：Apache Airflow — 用 Python 写出来的工作流调度器，数据工程师的标配工具]]"
 source_sha256: 7574754b5a1bedcd0f22cef1f990eb3c496ba640b533e0d1653345f35c9895e4
-original_url: "https://juejin.cn/post/7670755990330015778"
-processed: 2026-08-07
+original_url: https://juejin.cn/post/7670755990330015778
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,22 +14,21 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：掘金人工智能
+> - 作者：冬奇Lab
 > - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://juejin.cn/post/7670755990330015778)
 > - Vault 原文件：[[信息源/掘金人工智能/开源项目第177期：Apache Airflow — 用 Python 写出来的工作流调度器，数据工程师的标配工具|查看原始文件]]
 
 ## 摘要
 
-- 该 RSS 条目仅提供标题，源文件未提供正文或摘要内容。
-- 文章为开源项目介绍第 177 期：Apache Airflow，用 Python 写出来的工作流调度器，是数据工程师的标配工具。
-- 原文链接指向掘金社区文章，如需了解完整内容请打开原文。
+- 原始 RSS 条目仅提供文章标题及来源元数据，没有提供可供整理的正文或摘要。
+- 条目标题为“开源项目第177期：Apache Airflow — 用 Python 写出来的工作流调度器，数据工程师的标配工具”，除此之外无法从原始文件可靠提取更多内容。
+- 如需阅读全文，请通过来源信息中的原文链接访问原页面。
 
 ## 正文
 
-开源项目第177期：Apache Airflow — 用 Python 写出来的工作流调度器，数据工程师的标配工具
-
-> 注：原始来源（掘金人工智能 RSS）未提供正文，以上仅为该条目的标题信息。
+原始来源仅提供标题，没有提供正文或摘要。为避免编造内容，此处不根据标题推测文章论点。
 
 ## 关键词
 
-#ApacheAirflow #工作流调度 #Python #数据工程 #掘金人工智能
+#人工智能 #掘金 #仅标题

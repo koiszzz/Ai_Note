@@ -1,0 +1,12 @@
+# Perturbation Sensitivity at Convergence: A Simple Signal for Identifying Spuriously Correlated Samples
+
+> 数据源：arXiv cs.LG RSS
+> RSS：[打开源文件](https://export.arxiv.org/rss/cs.LG)
+
+> 作者：Nilesh Kumar　|　发布时间：Fri, 07 Aug 2026 00:00:00 -0400　|　分类：cs.LG　|　原文：[打开链接](https://arxiv.org/abs/2608.05419)
+
+------
+
+arXiv:2608.05419v1 Announce Type: new
+
+Abstract: Models trained by empirical risk minimization on data containing spurious correlations achieve high average accuracy while failing on subpopulations where the correlation does not hold. Existing methods for identifying the affected samples without group annotations rely on signals from early training, which requires locating the epoch at which to intervene, a hyperparameter typically selected using group-labeled validation data. We show that a usable signal is available after convergence, when loss no longer distinguishes the two populations. Samples consistent with the spurious correlation are classified by a shared rule, while the remaining samples are fit through configurations specific to individual inputs and are correspondingly more fragile. Applying a fixed perturbation to a converged model's inputs flips the predictions of the latter far more often than the former. The resulting procedure requires two forward passes per training sample, no group annotations at any stage, and no early-stopping epoch. Using the detected samples to rebalance training raises worst-group accuracy on Waterbirds from 57.3% to 80.8%, against 85.8% with ground-truth group labels.

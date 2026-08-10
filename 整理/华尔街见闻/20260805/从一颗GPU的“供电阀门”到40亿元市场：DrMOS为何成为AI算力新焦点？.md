@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "从一颗GPU的“供电阀门”到40亿元市场：DrMOS为何成为AI算力新焦点？"
 source: "华尔街见闻"
 original_file: "信息源/华尔街见闻/从一颗GPU的“供电阀门”到40亿元市场：DrMOS为何成为AI算力新焦点？.md"
 source_note: "[[信息源/华尔街见闻/从一颗GPU的“供电阀门”到40亿元市场：DrMOS为何成为AI算力新焦点？]]"
 source_sha256: 0db148fef4dd54a16847ef26c0ba5d41a3a9dc10780dd1eca51997e4ed49fd3a
 original_url: "https://wallstreetcn.com/member/articles/3778562"
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：华尔街见闻
+> - 作者：万周
+> - 发布时间：2026-08-05
 > - 原文链接：[打开原文](https://wallstreetcn.com/member/articles/3778562)
 > - Vault 原文件：[[信息源/华尔街见闻/从一颗GPU的“供电阀门”到40亿元市场：DrMOS为何成为AI算力新焦点？|查看原始文件]]
 

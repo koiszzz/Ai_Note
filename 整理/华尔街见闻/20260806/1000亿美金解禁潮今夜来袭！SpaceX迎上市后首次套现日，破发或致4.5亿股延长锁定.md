@@ -5,7 +5,8 @@ original_file: "信息源/华尔街见闻/1000亿美金解禁潮今夜来袭！S
 source_note: "[[信息源/华尔街见闻/1000亿美金解禁潮今夜来袭！SpaceX迎上市后首次套现日，破发或致4.5亿股延长锁定]]"
 source_sha256: d0a17d59eab6aead6d856306a0545e6048ea8a941d23e701ac77e9dae9af7a2f
 original_url: "https://wallstreetcn.com/articles/3778860"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,7 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：华尔街见闻
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://wallstreetcn.com/articles/3778860)
 > - Vault 原文件：[[信息源/华尔街见闻/1000亿美金解禁潮今夜来袭！SpaceX迎上市后首次套现日，破发或致4.5亿股延长锁定|查看原始文件]]
 

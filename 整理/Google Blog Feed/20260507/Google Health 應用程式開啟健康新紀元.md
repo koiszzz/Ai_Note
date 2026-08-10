@@ -1,12 +1,12 @@
 ---
-published: 2026-05-07
 title: "Google Health 應用程式開啟健康新紀元"
 source: "Google Blog Feed"
 original_file: "信息源/Google Blog Feed/Google Health 應用程式開啟健康新紀元.md"
 source_note: "[[信息源/Google Blog Feed/Google Health 應用程式開啟健康新紀元]]"
 source_sha256: f15dc7775676637fc48719a910ea9881e48e4d9cfdd009c44ea8c4245075cc91
 original_url: "https://blog.google/intl/zh-tw/products/devices-services/google-health/"
-processed: 2026-08-05
+published: 2026-05-07
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：Google Blog Feed
+> - 作者：Taylor Helgren 產品總監　|　组织：Google
+> - 发布时间：2026-05-07
 > - 原文链接：[打开原文](https://blog.google/intl/zh-tw/products/devices-services/google-health/)
 > - Vault 原文件：[[信息源/Google Blog Feed/Google Health 應用程式開啟健康新紀元|查看原始文件]]
 

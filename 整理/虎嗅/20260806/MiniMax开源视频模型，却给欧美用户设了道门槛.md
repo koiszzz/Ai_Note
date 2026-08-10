@@ -5,7 +5,8 @@ original_file: "信息源/虎嗅/MiniMax开源视频模型，却给欧美用户�
 source_note: "[[信息源/虎嗅/MiniMax开源视频模型，却给欧美用户设了道门槛]]"
 source_sha256: 7801ec190db0200f3f2dae4d8e200a1ed1af80adc8e4e8100e56e3f43637b0e0
 original_url: "https://www.huxiu.com/article/4881118.html?f=rss"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：虎嗅
+> - 作者：蓝字计划
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://www.huxiu.com/article/4881118.html?f=rss)
 > - Vault 原文件：[[信息源/虎嗅/MiniMax开源视频模型，却给欧美用户设了道门槛|查看原始文件]]
 

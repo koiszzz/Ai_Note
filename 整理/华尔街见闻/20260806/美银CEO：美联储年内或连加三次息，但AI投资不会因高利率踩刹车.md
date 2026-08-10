@@ -5,7 +5,8 @@ original_file: "信息源/华尔街见闻/美银CEO：美联储年内或连加�
 source_note: "[[信息源/华尔街见闻/美银CEO：美联储年内或连加三次息，但AI投资不会因高利率踩刹车]]"
 source_sha256: 26ded0ca2cb9540a85e502bd551053bdf7f8e38afa6b4dfd203a33927a201e93
 original_url: "https://wallstreetcn.com/articles/3778828"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,7 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：华尔街见闻
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://wallstreetcn.com/articles/3778828)
 > - Vault 原文件：[[信息源/华尔街见闻/美银CEO：美联储年内或连加三次息，但AI投资不会因高利率踩刹车|查看原始文件]]
 

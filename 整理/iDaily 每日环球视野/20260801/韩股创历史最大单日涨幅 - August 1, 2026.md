@@ -1,12 +1,12 @@
 ---
-published: 2026-08-01
 title: "韩股创历史最大单日涨幅 - August 1, 2026"
 source: "iDaily 每日环球视野"
 original_file: "信息源/iDaily 每日环球视野/韩股创历史最大单日涨幅 - August 1, 2026.md"
 source_note: "[[信息源/iDaily 每日环球视野/韩股创历史最大单日涨幅 - August 1, 2026]]"
 source_sha256: 4aff467d6e2545b929825dc4eb20f7a35d2eae62a01287e9985aaee1a4d78a65
 original_url: "https://m.idai.ly/se/52dz6t"
-processed: 2026-08-05
+published: 2026-08-01
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：iDaily 每日环球视野
+> - 作者：韩国 · 首尔
+> - 发布时间：2026-08-01
 > - 原文链接：[打开原文](https://m.idai.ly/se/52dz6t)
 > - Vault 原文件：[[信息源/iDaily 每日环球视野/韩股创历史最大单日涨幅 - August 1, 2026|查看原始文件]]
 

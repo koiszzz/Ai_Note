@@ -1,12 +1,12 @@
 ---
-published: 2026-08-04
 title: "英国国家美术馆新展品 - August 4, 2026"
 source: "iDaily 每日环球视野"
 original_file: "信息源/iDaily 每日环球视野/英国国家美术馆新展品 - August 4, 2026.md"
 source_note: "[[信息源/iDaily 每日环球视野/英国国家美术馆新展品 - August 4, 2026]]"
 source_sha256: fb07ffd2a375c538dfd276983405a421b6c5deb60f4ad03cb2c0951cb3afc314
 original_url: "https://m.idai.ly/se/313cVN"
-processed: 2026-08-05
+published: 2026-08-04
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：iDaily 每日环球视野
+> - 作者：英国 · 伦敦
+> - 发布时间：2026-08-04
 > - 原文链接：[打开原文](https://m.idai.ly/se/313cVN)
 > - Vault 原文件：[[信息源/iDaily 每日环球视野/英国国家美术馆新展品 - August 4, 2026|查看原始文件]]
 

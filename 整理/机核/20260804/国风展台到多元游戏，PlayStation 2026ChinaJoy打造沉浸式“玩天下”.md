@@ -1,12 +1,12 @@
 ---
-published: 2026-08-04
 title: "国风展台到多元游戏，PlayStation 2026ChinaJoy打造沉浸式“玩天下”"
 source: "机核"
 original_file: "信息源/机核/国风展台到多元游戏，PlayStation 2026ChinaJoy打造沉浸式“玩天下”.md"
 source_note: "[[信息源/机核/国风展台到多元游戏，PlayStation 2026ChinaJoy打造沉浸式“玩天下”]]"
 source_sha256: 27305e88830e490bf74f45428f88222fc93d601d2d162628ae2c58c750754c78
 original_url: "https://www.gcores.com/articles/217943"
-processed: 2026-08-05
+published: 2026-08-04
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：机核
+> - 作者：YT17
+> - 发布时间：2026-08-04
 > - 原文链接：[打开原文](https://www.gcores.com/articles/217943)
 > - Vault 原文件：[[信息源/机核/国风展台到多元游戏，PlayStation 2026ChinaJoy打造沉浸式“玩天下”|查看原始文件]]
 

@@ -5,7 +5,8 @@ original_file: "信息源/华尔街见闻/AI数据中心用电新难题：电力
 source_note: "[[信息源/华尔街见闻/AI数据中心用电新难题：电力波动“吞噬-设备寿命，万亿美元投资迎来考验]]"
 source_sha256: 50e037f06a6226d8f543c5e449b3eca9def3c2a0ecc538fef44a084ad3dad2d5
 original_url: "https://wallstreetcn.com/articles/3778835"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,7 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：华尔街见闻
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://wallstreetcn.com/articles/3778835)
 > - Vault 原文件：[[信息源/华尔街见闻/AI数据中心用电新难题：电力波动“吞噬-设备寿命，万亿美元投资迎来考验|查看原始文件]]
 

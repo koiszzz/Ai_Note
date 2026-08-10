@@ -1,0 +1,12 @@
+# Clinical Communication Processing with Models Trained on LLM-Generated Synthetic Data: A Structured Survey and Novel Application Case Studies
+
+> 数据源：arXiv cs.CL RSS
+> RSS：[打开源文件](https://export.arxiv.org/rss/cs.CL)
+
+> 作者：Alexander Apartsin, Yehudit Aperstein　|　发布时间：Fri, 07 Aug 2026 00:00:00 -0400　|　分类：cs.CL　|　原文：[打开链接](https://arxiv.org/abs/2608.05993)
+
+------
+
+arXiv:2608.05993v1 Announce Type: new
+
+Abstract: Much clinical value is conveyed not through structured records but through communication: exchanges in which patients describe symptoms, clinicians reason and give instructions, ambulances hand over to emergency departments, and nurses pass on a shift. Such language differs from tabular data because meaning depends on speaker role, intent, causality, uncertainty, omission, and channel noise. Healthcare natural language processing must therefore interpret information as conveyed rather than coded. This requires well-annotated corpora, which are scarce because authentic exchanges are private, fragmented, and costly to annotate. Large language models offer a way forward by transforming clinical sources, such as records, diagnostic labels, symptom lists, or care plans, into written and transcribed communication for downstream models. We present a structured narrative survey organized by source representation, communication form and participants, generation method, and downstream task, complemented by thirteen novel case studies. These build clinical NLP systems for communication channels and languages without labeled real-world data, including EMS pre-arrival reports, field-radio casualty documentation, nurse handoffs, patient-portal triage, and low-resource discharge communication. They show that synthetic communication can bootstrap such systems. Findings include the competitiveness of fine-tuned encoder models over evaluated zero-shot baselines and the value of deliberately degraded communication for robustness. The main limitation is that most studies evaluate on held-out synthetic communication, while train-on-synthetic, test-on-authentic evidence remains limited. We conclude that syn-thetic clinical communication is becoming a practical research resource; establishing it as reusable clinical infrastructure will require authentic-data transfer, safety and external validation.

@@ -5,23 +5,23 @@ original_file: "信息源/虎嗅/科学家的AI纯真年代结束了.md"
 source_note: "[[信息源/虎嗅/科学家的AI纯真年代结束了]]"
 source_sha256: 968790759447c1c7084c32df3ea63bbfaddd1565b56f1e6ceca9dccac35869d7
 original_url: "https://www.huxiu.com/article/4881245.html?f=rss"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
-validation_attempt: 2
-validation_manual_approved: true
-validation_manual_approval_reason: "已逐段对照原文；正文均为中文，剩余外文段落为文末参考文献列表条目。"
 ---
 
 # 科学家的AI纯真年代结束了
 
 > [!info] 来源信息
 > - 数据源：虎嗅
+> - 作者：万有逻辑
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://www.huxiu.com/article/4881245.html?f=rss)
 > - Vault 原文件：[[信息源/虎嗅/科学家的AI纯真年代结束了|查看原始文件]]
 
 ## 摘要
 
-- 原始来源为中文文章，以下正文保留原文信息并统一排版。
+- 原始来源为中文 RSS/网页条目，以下正文保留原文信息并统一排版。
 
 ## 正文
 

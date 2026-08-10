@@ -5,7 +5,8 @@ original_file: "信息源/iDaily 每日环球视野/韩国遭遇破纪录高温 
 source_note: "[[信息源/iDaily 每日环球视野/韩国遭遇破纪录高温 - August 6, 2026]]"
 source_sha256: 4bd533c5ff2fd70d011f1e00532729c7b890fda16b45a7213edbc6cd1fe96ab2
 original_url: "https://m.idai.ly/se/00aWJz"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：iDaily 每日环球视野
+> - 作者：韩国 · 首尔
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://m.idai.ly/se/00aWJz)
 > - Vault 原文件：[[信息源/iDaily 每日环球视野/韩国遭遇破纪录高温 - August 6, 2026|查看原始文件]]
 

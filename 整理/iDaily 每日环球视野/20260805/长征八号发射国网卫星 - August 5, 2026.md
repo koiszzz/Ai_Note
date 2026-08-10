@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "长征八号发射国网卫星 - August 5, 2026"
 source: "iDaily 每日环球视野"
 original_file: "信息源/iDaily 每日环球视野/长征八号发射国网卫星 - August 5, 2026.md"
 source_note: "[[信息源/iDaily 每日环球视野/长征八号发射国网卫星 - August 5, 2026]]"
 source_sha256: 7ed1a39005a6546495a74330b4315ef6936638c2b95b5bcfca65357b0a443036
 original_url: "https://m.idai.ly/se/cc1xZe"
-processed: 2026-08-06
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：iDaily 每日环球视野
+> - 作者：中国 · 文昌
+> - 发布时间：2026-08-05
 > - 原文链接：[打开原文](https://m.idai.ly/se/cc1xZe)
 > - Vault 原文件：[[信息源/iDaily 每日环球视野/长征八号发射国网卫星 - August 5, 2026|查看原始文件]]
 

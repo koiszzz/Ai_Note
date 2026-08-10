@@ -1,12 +1,12 @@
 ---
-published: 2026-06-15
 title: "第三屆 Google 孵創計畫　加速台灣新創 AI 應用落地、拓展國際市場"
 source: "Google Blog Feed"
 original_file: "信息源/Google Blog Feed/第三屆 Google 孵創計畫　加速台灣新創 AI 應用落地、拓展國際市場.md"
 source_note: "[[信息源/Google Blog Feed/第三屆 Google 孵創計畫　加速台灣新創 AI 應用落地、拓展國際市場]]"
 source_sha256: 7cc9bd95ee051c7d46f822ca156c8f6cf5df542e6cd686ab6d4e78815f8ce6e3
 original_url: "https://blog.google/intl/zh-tw/company-news/technology/2026-06-google-project-hatcher/"
-processed: 2026-08-05
+published: 2026-06-15
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：Google Blog Feed
+> - 作者：余忠寧 Google Cloud 大中華區新創業務負責人　|　组织：Google
+> - 发布时间：2026-06-15
 > - 原文链接：[打开原文](https://blog.google/intl/zh-tw/company-news/technology/2026-06-google-project-hatcher/)
 > - Vault 原文件：[[信息源/Google Blog Feed/第三屆 Google 孵創計畫　加速台灣新創 AI 應用落地、拓展國際市場|查看原始文件]]
 

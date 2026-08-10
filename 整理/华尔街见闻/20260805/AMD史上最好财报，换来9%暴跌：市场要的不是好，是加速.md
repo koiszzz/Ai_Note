@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "AMD史上最好财报，换来9%暴跌：市场要的不是好，是加速"
 source: "华尔街见闻"
 original_file: "信息源/华尔街见闻/AMD史上最好财报，换来9%暴跌：市场要的不是好，是加速.md"
 source_note: "[[信息源/华尔街见闻/AMD史上最好财报，换来9%暴跌：市场要的不是好，是加速]]"
 source_sha256: db6b9a2f4a707f1b4a44c402a4055028969a4fcbcc7ab4202423fe8cd09c58a2
 original_url: "https://wallstreetcn.com/articles/3778726"
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：华尔街见闻
+> - 作者：研外之意
+> - 发布时间：2026-08-05
 > - 原文链接：[打开原文](https://wallstreetcn.com/articles/3778726)
 > - Vault 原文件：[[信息源/华尔街见闻/AMD史上最好财报，换来9%暴跌：市场要的不是好，是加速|查看原始文件]]
 

@@ -5,7 +5,8 @@ original_file: "信息源/机核/双人联机肉鸽爽游《我不是魔王》St
 source_note: "[[信息源/机核/双人联机肉鸽爽游《我不是魔王》Steam版现已发售]]"
 source_sha256: 074fa269e8d7d81e03efbc8c87b3cac6cb8df95dacd5d96b3b7c840f605f8e17
 original_url: "https://www.gcores.com/articles/218037"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：机核
+> - 作者：YT17
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://www.gcores.com/articles/218037)
 > - Vault 原文件：[[信息源/机核/双人联机肉鸽爽游《我不是魔王》Steam版现已发售|查看原始文件]]
 

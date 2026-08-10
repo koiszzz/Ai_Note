@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "寻血猎犬崛起:《Apex 英雄》现已实装“诸神烙印”赛季"
 source: "机核"
 original_file: "信息源/机核/寻血猎犬崛起-《Apex 英雄》现已实装“诸神烙印”赛季.md"
 source_note: "[[信息源/机核/寻血猎犬崛起-《Apex 英雄》现已实装“诸神烙印”赛季]]"
 source_sha256: f046b694b26cb96d5ae0aa5e23c572cbd7865443b10a83840b3e4f6697622136
 original_url: "https://www.gcores.com/articles/217964"
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：机核
+> - 作者：YT17
+> - 发布时间：2026-08-05
 > - 原文链接：[打开原文](https://www.gcores.com/articles/217964)
 > - Vault 原文件：[[信息源/机核/寻血猎犬崛起-《Apex 英雄》现已实装“诸神烙印”赛季|查看原始文件]]
 

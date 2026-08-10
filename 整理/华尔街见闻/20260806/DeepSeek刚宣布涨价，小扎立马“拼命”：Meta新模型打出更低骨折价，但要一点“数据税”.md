@@ -5,7 +5,8 @@ original_file: "信息源/华尔街见闻/DeepSeek刚宣布涨价，小扎立马
 source_note: "[[信息源/华尔街见闻/DeepSeek刚宣布涨价，小扎立马“拼命”：Meta新模型打出更低骨折价，但要一点“数据税”]]"
 source_sha256: 65ec0f112fec43341d4b4dfd5b4586aaa3c826d3227b73c05aa1af180d2ca074
 original_url: "https://wallstreetcn.com/articles/3778856"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：华尔街见闻
+> - 作者：AI前线
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://wallstreetcn.com/articles/3778856)
 > - Vault 原文件：[[信息源/华尔街见闻/DeepSeek刚宣布涨价，小扎立马“拼命”：Meta新模型打出更低骨折价，但要一点“数据税”|查看原始文件]]
 

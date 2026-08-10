@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "AI到底是在降本增效还是「降本增笑」？员工成本降下去了，AI反而成为最大的成本来源了！"
 source: "掘金人工智能"
 original_file: "信息源/掘金人工智能/AI到底是在降本增效还是「降本增笑」？员工成本降下去了，AI反而成为最大的成本来源了！.md"
 source_note: "[[信息源/掘金人工智能/AI到底是在降本增效还是「降本增笑」？员工成本降下去了，AI反而成为最大的成本来源了！]]"
 source_sha256: 4dc67e441f6fb6f895fdd94e08b0d8c51bfd9f80b7786d80036b2ce1e7c65098
 original_url: https://juejin.cn/post/7670078525328261156
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 

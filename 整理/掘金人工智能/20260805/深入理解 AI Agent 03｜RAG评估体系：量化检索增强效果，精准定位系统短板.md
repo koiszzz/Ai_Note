@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "深入理解 AI Agent 03｜RAG评估体系：量化检索增强效果，精准定位系统短板"
 source: "掘金人工智能"
 original_file: "信息源/掘金人工智能/深入理解 AI Agent 03｜RAG评估体系：量化检索增强效果，精准定位系统短板.md"
 source_note: "[[信息源/掘金人工智能/深入理解 AI Agent 03｜RAG评估体系：量化检索增强效果，精准定位系统短板]]"
 source_sha256: 9e98d551df2580007f2f8e041345591f8910686298ff395c740325325f66c5b3
-original_url: "https://juejin.cn/post/7670404221931028522"
-processed: 2026-08-06
+original_url: https://juejin.cn/post/7670404221931028522
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -31,4 +31,4 @@ language: zh-CN
 
 ## 关键词
 
-#人工智能 #掘金人工智能 #仅标题
+#人工智能 #掘金 #仅标题

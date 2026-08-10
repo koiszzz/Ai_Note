@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "从 MCP 原理到真实 Server：我把 Tool、Resource、Prompt 和错误边界跑通了"
 source: "掘金人工智能"
 original_file: "信息源/掘金人工智能/从 MCP 原理到真实 Server：我把 Tool、Resource、Prompt 和错误边界跑通了.md"
 source_note: "[[信息源/掘金人工智能/从 MCP 原理到真实 Server：我把 Tool、Resource、Prompt 和错误边界跑通了]]"
 source_sha256: 6920f5acd82722e6dc0184b57dd87d8e7258645eecd009b8ee66859485475f8a
 original_url: https://juejin.cn/post/7670080969732423690
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 

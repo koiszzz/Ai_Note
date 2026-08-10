@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "用 TraeWork 给小孩做一个家庭工作台"
 source: "掘金人工智能"
 original_file: "信息源/掘金人工智能/用 TraeWork 给小孩做一个家庭工作台.md"
 source_note: "[[信息源/掘金人工智能/用 TraeWork 给小孩做一个家庭工作台]]"
 source_sha256: 28008c4b9947a5619b3e4de0fe69f6b66118607c6ffb7a293a183ee06923c9ad
 original_url: https://juejin.cn/post/7670384913347854399
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 

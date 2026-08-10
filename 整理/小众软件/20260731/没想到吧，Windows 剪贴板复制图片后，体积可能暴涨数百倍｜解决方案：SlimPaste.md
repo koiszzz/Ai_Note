@@ -1,12 +1,12 @@
 ---
-published: 2026-07-31
 title: "没想到吧，Windows 剪贴板复制图片后，体积可能暴涨数百倍｜解决方案：SlimPaste"
 source: "小众软件"
 original_file: "信息源/小众软件/没想到吧，Windows 剪贴板复制图片后，体积可能暴涨数百倍｜解决方案：SlimPaste.md"
 source_note: "[[信息源/小众软件/没想到吧，Windows 剪贴板复制图片后，体积可能暴涨数百倍｜解决方案：SlimPaste]]"
 source_sha256: bd9ca72117bb341c2f528c72e297368ef00d5c2ed6142462be2e713057c1f573
 original_url: "https://www.appinn.com/slimpaste/"
-processed: 2026-08-05
+published: 2026-07-31
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：小众软件
+> - 作者：青小蛙
+> - 发布时间：2026-07-31
 > - 原文链接：[打开原文](https://www.appinn.com/slimpaste/)
 > - Vault 原文件：[[信息源/小众软件/没想到吧，Windows 剪贴板复制图片后，体积可能暴涨数百倍｜解决方案：SlimPaste|查看原始文件]]
 

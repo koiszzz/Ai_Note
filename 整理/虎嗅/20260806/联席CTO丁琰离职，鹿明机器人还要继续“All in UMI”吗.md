@@ -5,7 +5,8 @@ original_file: "信息源/虎嗅/联席CTO丁琰离职，鹿明机器人还要�
 source_note: "[[信息源/虎嗅/联席CTO丁琰离职，鹿明机器人还要继续“All in UMI”吗]]"
 source_sha256: aa99edbabf9a3e2c1fe1a19915018707d9beb6124dffa150af8cd8fff01e2559
 original_url: "https://www.huxiu.com/article/4881241.html?f=rss"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：虎嗅
+> - 作者：经观感知©
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://www.huxiu.com/article/4881241.html?f=rss)
 > - Vault 原文件：[[信息源/虎嗅/联席CTO丁琰离职，鹿明机器人还要继续“All in UMI”吗|查看原始文件]]
 

@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "为什么ASML垄断得最彻底，毛利率却最低？"
 source: "虎嗅"
 original_file: "信息源/虎嗅/为什么ASML垄断得最彻底，毛利率却最低？.md"
 source_note: "[[信息源/虎嗅/为什么ASML垄断得最彻底，毛利率却最低？]]"
 source_sha256: 3cc100ade61899c592fd07d76a62b7c158e246b8f80f6672942f94750a6e51e7
 original_url: "https://www.huxiu.com/article/4880675.html?f=rss"
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：虎嗅
+> - 作者：TOP创新区研究院©
+> - 发布时间：2026-08-05
 > - 原文链接：[打开原文](https://www.huxiu.com/article/4880675.html?f=rss)
 > - Vault 原文件：[[信息源/虎嗅/为什么ASML垄断得最彻底，毛利率却最低？|查看原始文件]]
 

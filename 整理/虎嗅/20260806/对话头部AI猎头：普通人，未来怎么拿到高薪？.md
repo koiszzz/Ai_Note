@@ -5,7 +5,8 @@ original_file: "信息源/虎嗅/对话头部AI猎头：普通人，未来怎么
 source_note: "[[信息源/虎嗅/对话头部AI猎头：普通人，未来怎么拿到高薪？]]"
 source_sha256: 9bf22c7ea7a0e5bf37f4c410c9417927a97af0c02771b2899708dada41aa9b49
 original_url: "https://www.huxiu.com/article/4881157.html?f=rss"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：虎嗅
+> - 作者：中信书院©
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://www.huxiu.com/article/4881157.html?f=rss)
 > - Vault 原文件：[[信息源/虎嗅/对话头部AI猎头：普通人，未来怎么拿到高薪？|查看原始文件]]
 

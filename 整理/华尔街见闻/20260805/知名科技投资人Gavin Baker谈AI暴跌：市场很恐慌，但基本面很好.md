@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "知名科技投资人Gavin Baker谈AI暴跌：市场很恐慌，但基本面很好"
 source: "华尔街见闻"
 original_file: "信息源/华尔街见闻/知名科技投资人Gavin Baker谈AI暴跌：市场很恐慌，但基本面很好.md"
 source_note: "[[信息源/华尔街见闻/知名科技投资人Gavin Baker谈AI暴跌：市场很恐慌，但基本面很好]]"
 source_sha256: 5dbcdcd74b0b0d0fb6ec60318716e976198de5ee39f2b7978e698e7b9b04f923
 original_url: "https://wallstreetcn.com/articles/3778719"
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,7 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：华尔街见闻
+> - 发布时间：2026-08-05
 > - 原文链接：[打开原文](https://wallstreetcn.com/articles/3778719)
 > - Vault 原文件：[[信息源/华尔街见闻/知名科技投资人Gavin Baker谈AI暴跌：市场很恐慌，但基本面很好|查看原始文件]]
 

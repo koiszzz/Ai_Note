@@ -1,12 +1,12 @@
 ---
-published: 2026-08-02
 title: "雅典西北部爆发山火 - August 2, 2026"
 source: "iDaily 每日环球视野"
 original_file: "信息源/iDaily 每日环球视野/雅典西北部爆发山火 - August 2, 2026.md"
 source_note: "[[信息源/iDaily 每日环球视野/雅典西北部爆发山火 - August 2, 2026]]"
 source_sha256: 37b4ee104b04bab2391d0ae964b03f8a0f333ae3948d0e888edfaae45bb45a0b
 original_url: "https://m.idai.ly/se/41dfF5"
-processed: 2026-08-05
+published: 2026-08-02
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：iDaily 每日环球视野
+> - 作者：希腊 · 维奥蒂亚
+> - 发布时间：2026-08-02
 > - 原文链接：[打开原文](https://m.idai.ly/se/41dfF5)
 > - Vault 原文件：[[信息源/iDaily 每日环球视野/雅典西北部爆发山火 - August 2, 2026|查看原始文件]]
 

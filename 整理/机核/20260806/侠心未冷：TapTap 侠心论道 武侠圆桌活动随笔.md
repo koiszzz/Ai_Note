@@ -5,7 +5,8 @@ original_file: "信息源/机核/侠心未冷：TapTap-侠心论道-武侠圆桌
 source_note: "[[信息源/机核/侠心未冷：TapTap-侠心论道-武侠圆桌活动随笔]]"
 source_sha256: a7f63283040dbe8345cbecda9a63074528ad96f3660b95b641284f056935761c
 original_url: "https://www.gcores.com/articles/218013"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：机核
+> - 作者：雪豆
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://www.gcores.com/articles/218013)
 > - Vault 原文件：[[信息源/机核/侠心未冷：TapTap-侠心论道-武侠圆桌活动随笔|查看原始文件]]
 

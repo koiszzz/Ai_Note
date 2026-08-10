@@ -1,0 +1,12 @@
+# Beyond Sequence Order: Syntax-Informed Positional Embeddings for Transformers
+
+> 数据源：arXiv cs.AI RSS
+> RSS：[打开源文件](https://export.arxiv.org/rss/cs.AI)
+
+> 作者：Haris Riaz, Hyungji Kim, Mihai Surdeanu　|　发布时间：Fri, 07 Aug 2026 00:00:00 -0400　|　分类：cs.CL　|　原文：[打开链接](https://arxiv.org/abs/2608.06111)
+
+------
+
+arXiv:2608.06111v1 Announce Type: cross
+
+Abstract: Positional embeddings (PE) in Transformers encode token distance and order but are largely agnostic to \textit{syntactic structure}. We introduce \textbf{S}yntax-\textbf{i}nformed \textbf{P}ositional \textbf{E}mbeddings (\textbf{SiPE}), which learns a lightweight syntactic prior from dependency parses during pretraining and injects it across all three dominant PE families (absolute, relative, rotary), for both encoders and decoders, leaving self-attention and the rest of the architecture untouched. We isolate \emph{where} and \emph{how} the prior should enter the model, and find it depends on the architecture: for autoregressive decoders that use relative PE, the prior is strongest when coupled multiplicatively with the relative-position term of the attention score, outperforming injection into the input embeddings, into self-attention, or into the positional and attention terms jointly---while for encoders it is best added directly to the input embeddings, composing with each encoder's native positional mechanism. We find that models pre-trained with SiPE improve on the SyntaxGym benchmark by up to $10.3\%$ while simultaneously reducing perplexity by $9.0\%$ over a base model with no syntactic supervision---a metric nearly every existing syntax-injection method instead degrades. Crucially, these gains extend beyond syntactic generalization: SiPE also improves real-world language understanding, raising scores on the GLUE benchmark by up to $8.2\%$ over a model trained without it. Unlike existing syntactic language models that marginalize over many parses at inference or discard syntax at runtime, SiPE conditions on a single parse, establishing a new Pareto frontier between syntactic supervision and inference cost.

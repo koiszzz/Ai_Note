@@ -1,12 +1,12 @@
 ---
-published: 2026-05-07
 title: "全新 Google Health Coach 即將在台推出"
 source: "Google Blog Feed"
 original_file: "信息源/Google Blog Feed/全新 Google Health Coach 即將在台推出.md"
 source_note: "[[信息源/Google Blog Feed/全新 Google Health Coach 即將在台推出]]"
 source_sha256: a21774ef4da2b5581ca89f332675d901d4ebcc985bf90f946a318e5c676b3552
 original_url: "https://blog.google/intl/zh-tw/products/devices-services/google-health-coach/"
-processed: 2026-08-05
+published: 2026-05-07
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：Google Blog Feed
+> - 作者：Andy Abramson Google Health 產品負責人　|　组织：Google
+> - 发布时间：2026-05-07
 > - 原文链接：[打开原文](https://blog.google/intl/zh-tw/products/devices-services/google-health-coach/)
 > - Vault 原文件：[[信息源/Google Blog Feed/全新 Google Health Coach 即將在台推出|查看原始文件]]
 

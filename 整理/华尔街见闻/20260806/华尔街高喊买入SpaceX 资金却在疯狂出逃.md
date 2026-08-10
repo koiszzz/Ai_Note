@@ -5,7 +5,8 @@ original_file: "信息源/华尔街见闻/华尔街高喊买入SpaceX 资金却�
 source_note: "[[信息源/华尔街见闻/华尔街高喊买入SpaceX 资金却在疯狂出逃]]"
 source_sha256: abfc641a874e61ef9bdd3ba7a6cf1b3faa70605a3a77ec4474696af28ffadd84
 original_url: "https://wallstreetcn.com/member/articles/3778797"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,7 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：华尔街见闻
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://wallstreetcn.com/member/articles/3778797)
 > - Vault 原文件：[[信息源/华尔街见闻/华尔街高喊买入SpaceX 资金却在疯狂出逃|查看原始文件]]
 

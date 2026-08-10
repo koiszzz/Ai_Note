@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "“AI股神”爆仓真相，空头：没有什么围猎，我们只是推了一把"
 source: "华尔街见闻"
 original_file: "信息源/华尔街见闻/“AI股神”爆仓真相，空头：没有什么围猎，我们只是推了一把.md"
 source_note: "[[信息源/华尔街见闻/“AI股神”爆仓真相，空头：没有什么围猎，我们只是推了一把]]"
 source_sha256: 7c60bc2ae84d5fc9c7ba513067bcbf3cbe5e7083c242ae96d1ba3ecf463154bd
 original_url: "https://wallstreetcn.com/charts/41959516"
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：华尔街见闻
+> - 作者：张硕
+> - 发布时间：2026-08-05
 > - 原文链接：[打开原文](https://wallstreetcn.com/charts/41959516)
 > - Vault 原文件：[[信息源/华尔街见闻/“AI股神”爆仓真相，空头：没有什么围猎，我们只是推了一把|查看原始文件]]
 

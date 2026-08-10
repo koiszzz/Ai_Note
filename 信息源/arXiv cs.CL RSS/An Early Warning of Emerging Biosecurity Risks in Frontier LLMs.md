@@ -1,0 +1,12 @@
+# An Early Warning of Emerging Biosecurity Risks in Frontier LLMs
+
+> 数据源：arXiv cs.CL RSS
+> RSS：[打开源文件](https://export.arxiv.org/rss/cs.CL)
+
+> 作者：Zhida He, Xia Hu, Baichen Le, Chunxiao Li, Jiajia Li, Lijun Li, Chaochao Lu, Jing Shao, Youbang Sun, Hua Tang, Xiang Wang, Xiao Wang, Xiaoyu Wen, Tong Wu, Jia Xu, Peng Yu, Shu Yu, Jie Zhang, Qiaosheng Zhang, Yi Zhang, Xing-Ming Zhao, Tianhang Zheng, Ziyuan Zhou　|　发布时间：Fri, 07 Aug 2026 00:00:00 -0400　|　分类：cs.CL　|　原文：[打开链接](https://arxiv.org/abs/2607.18056)
+
+------
+
+arXiv:2607.18056v2 Announce Type: replace
+
+Abstract: Frontier large language models (LLMs) are increasingly integrated into scientific workflows, yet their growing biological capabilities may outpace current safeguards. To assess the biological risks of frontier models, we develop Intern-BioBreaker, a specialized bio-red-teaming model, together with an integrated computational-to-physical framework that couples model-level stress testing with wet-lab validation. Within this framework, Intern-BioBreaker generates targeted jailbreak prompts to test whether aligned models can be induced to provide operational guidance for safety-sensitive biological tasks or produce sequence-level outputs with potentially harmful properties. Selected sequence outputs are then carried forward for DNA synthesis, host expression, and orthogonal protein verification to assess whether model-generated designs can yield the intended biological products. Our evaluation reveals a concerning gap between text-level safeguards and the risks posed by capable scientific models: (i) Intern-BioBreaker outperforms baseline attack models and reveals widespread bio-risk jailbreak vulnerabilities across both open-weight and proprietary frontier LLMs, with several targets reaching near-saturated or 100% task-level attack success rate (ASR); (ii) in sequence-level case studies, GPT-5.5 can be induced to generate modified viral candidate sequences with pathogenic potential; the corresponding translated proteins may exhibit even stronger receptor-binding affinity and thus enhanced infection potential; and (iii) end-to-end verification shows that selected model-generated biological designs are not merely textual artifacts, but can be physically realized under controlled experimental settings. These findings underscore the need for stronger biological red-teaming, nucleic acid synthesis screening, and safety mechanisms that keep pace with model capabilities.

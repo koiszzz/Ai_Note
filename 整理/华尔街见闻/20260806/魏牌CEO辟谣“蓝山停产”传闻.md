@@ -5,7 +5,8 @@ original_file: "信息源/华尔街见闻/魏牌CEO辟谣“蓝山停产”传�
 source_note: "[[信息源/华尔街见闻/魏牌CEO辟谣“蓝山停产”传闻]]"
 source_sha256: bfb513214f929f119134c143b3e8b22aaaaae9bf41eff4b4710b7fe48e730189
 original_url: "https://wallstreetcn.com/articles/3778852"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,7 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：华尔街见闻
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://wallstreetcn.com/articles/3778852)
 > - Vault 原文件：[[信息源/华尔街见闻/魏牌CEO辟谣“蓝山停产”传闻|查看原始文件]]
 

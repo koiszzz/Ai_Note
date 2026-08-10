@@ -1,0 +1,12 @@
+# Vorch-Omni: Multi-Task Orchestration of Sight and Sound
+
+> 数据源：arXiv cs.CV RSS
+> RSS：[打开源文件](https://export.arxiv.org/rss/cs.CV)
+
+> 作者：Vorch Team, Xiaoyu Chen, Yang Ding, Cong Han, Menglin Han, Yuxin Hong, Jiebo Hou, Zequn Jie, Xiang Li, Jing Liu, Qi Liu, Yulei Lu, Siyuan Luo, Lin Ma, Xin Ma, Yinlong Qian, Peng Shi, Fang Wan, Siqi Wang, Yaohui Wang, Yaole Wang, Yidi Wu, Siqian Yang, Mingyu Yin, Haoran Yu, Gang Yue, Lisai Zhang, Yuting Zhang　|　发布时间：Fri, 07 Aug 2026 00:00:00 -0400　|　分类：cs.CV　|　原文：[打开链接](https://arxiv.org/abs/2608.05803)
+
+------
+
+arXiv:2608.05803v1 Announce Type: new
+
+Abstract: Recent advances in generative video modeling have enabled diverse generation, reference-based synthesis, extension, and editing, but existing approaches often rely on fragmented task-specific models. A general model must distinguish heterogeneous target, source, and reference signals to determine what to generate, preserve, or use as guidance, while reducing interference among tasks. Joint audio-visual generation further increases this challenge by introducing diverse conditioning and output configurations across modalities. We present Vorch-Omni, a unified multi-task framework for audio-visual synthesis based on an arbitrary-condition-to-arbitrary-output formulation. It flexibly treats video and audio signals as either conditioning inputs or generation targets. Token-level conditioning masks and task identifiers distinguish targets, source content, and references, while position types separate temporal context from independent conditions. To capture semantic and structural information, Vorch-Omni employs complementary visual conditioning pathways: a vision-language model interprets sampled frames with text instructions, and a video VAE encodes conditions into latent tokens for direct guidance. We further build a distributed data pipeline to curate diverse temporally aligned audio-visual clips, generate structured captions and metadata, and balance heterogeneous task distributions. Built on a single flow-matching diffusion transformer without task-specific architectural changes, Vorch-Omni supports over 10 tasks, including text-to-video, text-to-audio-video, image- and reference-conditioned generation, temporal extension, audio-driven generation, video transformation, and audio-visual editing. This unified framework provides a scalable foundation for general-purpose audio-visual generation and manipulation.

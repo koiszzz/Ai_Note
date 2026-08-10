@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "报道：三星、SK海力士在华工厂测试中国芯片制造设备，防范美国管制升级"
 source: "华尔街见闻"
 original_file: "信息源/华尔街见闻/报道：三星、SK海力士在华工厂测试中国芯片制造设备，防范美国管制升级.md"
 source_note: "[[信息源/华尔街见闻/报道：三星、SK海力士在华工厂测试中国芯片制造设备，防范美国管制升级]]"
 source_sha256: afd5918f6fc93e4824896e7b93fad6d01d4bbb708c3a88c2f303e5aadb2918f3
 original_url: "https://wallstreetcn.com/articles/3778731"
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,7 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：华尔街见闻
+> - 发布时间：2026-08-05
 > - 原文链接：[打开原文](https://wallstreetcn.com/articles/3778731)
 > - Vault 原文件：[[信息源/华尔街见闻/报道：三星、SK海力士在华工厂测试中国芯片制造设备，防范美国管制升级|查看原始文件]]
 

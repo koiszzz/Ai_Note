@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "MacBook Air 快断货了，等等党不能再等了"
 source: "虎嗅"
 original_file: "信息源/虎嗅/MacBook Air 快断货了，等等党不能再等了.md"
 source_note: "[[信息源/虎嗅/MacBook Air 快断货了，等等党不能再等了]]"
 source_sha256: 464cf2d5689d6a4a1869a3a943ea103955fc8d327f8826359cd4178920d3b075
 original_url: "https://www.huxiu.com/article/4880726.html?f=rss"
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：虎嗅
+> - 作者：爱范儿
+> - 发布时间：2026-08-05
 > - 原文链接：[打开原文](https://www.huxiu.com/article/4880726.html?f=rss)
 > - Vault 原文件：[[信息源/虎嗅/MacBook Air 快断货了，等等党不能再等了|查看原始文件]]
 

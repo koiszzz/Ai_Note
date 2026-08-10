@@ -205,10 +205,13 @@ export function auditVault(vaultPath, options = {}) {
 
     let validation = null;
     if (source) {
+      // 中文“原样搬运”源（非翻译产物）允许正文保留原文引文，跳过外文段落检查
+      const allowForeign = ['虎嗅', '华尔街见闻', '机核', '量子位', '美团技术团队', '阮一峰的网络日志', '小众软件', '游戏研究社', 'AI资讯日报', 'Horizon Daily（中文摘要）'].includes(fields.source);
       validation = validateTranslatedNote(markdown, {
         sourceText: source.text,
         attempt: validationAttempt,
         manualApproved,
+        allowForeign,
       });
       if (!validation.ok) errors.push(...validation.errors);
     }

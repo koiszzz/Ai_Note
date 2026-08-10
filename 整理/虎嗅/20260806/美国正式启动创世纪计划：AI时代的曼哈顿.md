@@ -5,7 +5,8 @@ original_file: "信息源/虎嗅/美国正式启动创世纪计划：AI时代的
 source_note: "[[信息源/虎嗅/美国正式启动创世纪计划：AI时代的曼哈顿]]"
 source_sha256: 3b1c4ce1745a526ba63fc235d5277d69db61d69e9ff914a00df5ef60ddb09164
 original_url: "https://www.huxiu.com/article/4881042.html?f=rss"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：虎嗅
+> - 作者：心智观察所©
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://www.huxiu.com/article/4881042.html?f=rss)
 > - Vault 原文件：[[信息源/虎嗅/美国正式启动创世纪计划：AI时代的曼哈顿|查看原始文件]]
 

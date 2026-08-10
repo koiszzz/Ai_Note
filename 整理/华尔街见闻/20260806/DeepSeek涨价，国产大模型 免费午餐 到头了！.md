@@ -5,7 +5,8 @@ original_file: "信息源/华尔街见闻/DeepSeek涨价，国产大模型-免�
 source_note: "[[信息源/华尔街见闻/DeepSeek涨价，国产大模型-免费午餐-到头了！]]"
 source_sha256: 8d5634aedeaeca1cb733539f703c10493f5ac21bf0ed8ce238072bc1e3d0f7e5
 original_url: "https://wallstreetcn.com/articles/3778849"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,7 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：华尔街见闻
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://wallstreetcn.com/articles/3778849)
 > - Vault 原文件：[[信息源/华尔街见闻/DeepSeek涨价，国产大模型-免费午餐-到头了！|查看原始文件]]
 

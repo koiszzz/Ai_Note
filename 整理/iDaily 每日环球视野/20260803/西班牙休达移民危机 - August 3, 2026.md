@@ -1,12 +1,12 @@
 ---
-published: 2026-08-03
 title: "西班牙休达移民危机 - August 3, 2026"
 source: "iDaily 每日环球视野"
 original_file: "信息源/iDaily 每日环球视野/西班牙休达移民危机 - August 3, 2026.md"
 source_note: "[[信息源/iDaily 每日环球视野/西班牙休达移民危机 - August 3, 2026]]"
 source_sha256: 94605afe9643a229c07b0bfacbba38d9c23e469753343a2ac6a34ab522648343
 original_url: "https://m.idai.ly/se/d4e59C"
-processed: 2026-08-05
+published: 2026-08-03
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,7 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：iDaily 每日环球视野
+> - 发布时间：2026-08-03
 > - 原文链接：[打开原文](https://m.idai.ly/se/d4e59C)
 > - Vault 原文件：[[信息源/iDaily 每日环球视野/西班牙休达移民危机 - August 3, 2026|查看原始文件]]
 

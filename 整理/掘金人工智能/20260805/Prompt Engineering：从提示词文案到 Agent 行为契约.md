@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "Prompt Engineering：从提示词文案到 Agent 行为契约"
 source: "掘金人工智能"
 original_file: "信息源/掘金人工智能/Prompt Engineering：从提示词文案到 Agent 行为契约.md"
 source_note: "[[信息源/掘金人工智能/Prompt Engineering：从提示词文案到 Agent 行为契约]]"
 source_sha256: b4f3ef5ee4bf6216d6cb140d71a791610b2ad7db01cce9481905cba7783a6b05
 original_url: https://juejin.cn/post/7670094721701855272
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 

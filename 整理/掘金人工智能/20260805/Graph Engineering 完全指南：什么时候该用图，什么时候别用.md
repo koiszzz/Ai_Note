@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "Graph Engineering 完全指南：什么时候该用图，什么时候别用"
 source: "掘金人工智能"
 original_file: "信息源/掘金人工智能/Graph Engineering 完全指南：什么时候该用图，什么时候别用.md"
 source_note: "[[信息源/掘金人工智能/Graph Engineering 完全指南：什么时候该用图，什么时候别用]]"
 source_sha256: 7ef8392cfff2f203a51f7b329d60f873494a4db33f599a35d9fe7c398b38ccc0
 original_url: https://juejin.cn/post/7670058614411231232
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 

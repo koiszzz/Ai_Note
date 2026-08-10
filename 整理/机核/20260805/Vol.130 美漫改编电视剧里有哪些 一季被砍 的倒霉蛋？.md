@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "Vol.130 美漫改编电视剧里有哪些\"一季被砍\"的倒霉蛋？"
 source: "机核"
 original_file: "信息源/机核/Vol.130 美漫改编电视剧里有哪些-一季被砍-的倒霉蛋？.md"
 source_note: "[[信息源/机核/Vol.130 美漫改编电视剧里有哪些-一季被砍-的倒霉蛋？]]"
 source_sha256: 0d10ccbb48e06b5dc931cf6fa7589295c17a167132cd70d32bd11ee425a4d886
 original_url: "https://www.gcores.com/radios/217973"
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：机核
+> - 作者：喵臣
+> - 发布时间：2026-08-05
 > - 原文链接：[打开原文](https://www.gcores.com/radios/217973)
 > - Vault 原文件：[[信息源/机核/Vol.130 美漫改编电视剧里有哪些-一季被砍-的倒霉蛋？|查看原始文件]]
 

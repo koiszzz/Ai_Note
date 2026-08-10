@@ -5,7 +5,8 @@ original_file: "信息源/虎嗅/FDA批准首款mRNA流感疫苗：相对疫苗�
 source_note: "[[信息源/虎嗅/FDA批准首款mRNA流感疫苗：相对疫苗效力提升26.6%，Moderna走出新冠之后关键一步]]"
 source_sha256: 6f62229606b0c3ca22bb89b70346f8ce24dc452a1f0380fe642eea14d4bd1566
 original_url: "https://www.huxiu.com/article/4881161.html?f=rss"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：虎嗅
+> - 作者：RNAScript©
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://www.huxiu.com/article/4881161.html?f=rss)
 > - Vault 原文件：[[信息源/虎嗅/FDA批准首款mRNA流感疫苗：相对疫苗效力提升26.6%，Moderna走出新冠之后关键一步|查看原始文件]]
 

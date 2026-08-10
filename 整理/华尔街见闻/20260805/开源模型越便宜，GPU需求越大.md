@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "开源模型越便宜，GPU需求越大"
 source: "华尔街见闻"
 original_file: "信息源/华尔街见闻/开源模型越便宜，GPU需求越大.md"
 source_note: "[[信息源/华尔街见闻/开源模型越便宜，GPU需求越大]]"
 source_sha256: a031dcc1b4338168a9fd757544b195a2fd6bb3a82ed106eb540134e71aa5f5d4
 original_url: "https://wallstreetcn.com/charts/41959519"
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：华尔街见闻
+> - 作者：施建柳
+> - 发布时间：2026-08-05
 > - 原文链接：[打开原文](https://wallstreetcn.com/charts/41959519)
 > - Vault 原文件：[[信息源/华尔街见闻/开源模型越便宜，GPU需求越大|查看原始文件]]
 

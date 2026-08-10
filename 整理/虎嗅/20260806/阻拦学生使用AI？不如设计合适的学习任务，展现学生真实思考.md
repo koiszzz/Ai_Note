@@ -5,7 +5,8 @@ original_file: "信息源/虎嗅/阻拦学生使用AI？不如设计合适的学
 source_note: "[[信息源/虎嗅/阻拦学生使用AI？不如设计合适的学习任务，展现学生真实思考]]"
 source_sha256: 521c7b1470a49f08461a4621c0a4bed3100cfe1d5f4f15a17f321830c417ec8b
 original_url: "https://www.huxiu.com/article/4881199.html?f=rss"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：虎嗅
+> - 作者：EnsightEdu©
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://www.huxiu.com/article/4881199.html?f=rss)
 > - Vault 原文件：[[信息源/虎嗅/阻拦学生使用AI？不如设计合适的学习任务，展现学生真实思考|查看原始文件]]
 

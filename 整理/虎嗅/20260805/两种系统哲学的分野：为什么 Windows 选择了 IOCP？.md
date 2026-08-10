@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "两种系统哲学的分野：为什么 Windows 选择了 IOCP？"
 source: "虎嗅"
 original_file: "信息源/虎嗅/两种系统哲学的分野：为什么 Windows 选择了 IOCP？.md"
 source_note: "[[信息源/虎嗅/两种系统哲学的分野：为什么 Windows 选择了 IOCP？]]"
 source_sha256: bc284b829d7fa653cd99f45b7ab738100765e8da7b923caf0f1a6ab3a78c523b
 original_url: "https://www.huxiu.com/article/4880691.html?f=rss"
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：虎嗅
+> - 作者：宇众不同的露萱
+> - 发布时间：2026-08-05
 > - 原文链接：[打开原文](https://www.huxiu.com/article/4880691.html?f=rss)
 > - Vault 原文件：[[信息源/虎嗅/两种系统哲学的分野：为什么 Windows 选择了 IOCP？|查看原始文件]]
 

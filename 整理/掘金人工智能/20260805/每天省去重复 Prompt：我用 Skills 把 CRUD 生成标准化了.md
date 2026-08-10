@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "每天省去重复 Prompt：我用 Skills 把 CRUD 生成标准化了"
 source: "掘金人工智能"
 original_file: "信息源/掘金人工智能/每天省去重复 Prompt：我用 Skills 把 CRUD 生成标准化了.md"
 source_note: "[[信息源/掘金人工智能/每天省去重复 Prompt：我用 Skills 把 CRUD 生成标准化了]]"
 source_sha256: 1d061ca7c77e726c3a4d7346e3c3bce047319157592ed2b211f613724c57997d
 original_url: https://juejin.cn/post/7670194675605553198
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 

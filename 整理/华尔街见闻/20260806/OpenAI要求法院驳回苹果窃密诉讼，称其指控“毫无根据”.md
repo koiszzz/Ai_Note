@@ -5,7 +5,8 @@ original_file: "信息源/华尔街见闻/OpenAI要求法院驳回苹果窃密�
 source_note: "[[信息源/华尔街见闻/OpenAI要求法院驳回苹果窃密诉讼，称其指控“毫无根据”]]"
 source_sha256: ad23ce3c0dfb4a8df9bde301e768927c8a3a6458f3070e1059d1484a4cb19324
 original_url: "https://wallstreetcn.com/articles/3778837"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,7 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：华尔街见闻
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://wallstreetcn.com/articles/3778837)
 > - Vault 原文件：[[信息源/华尔街见闻/OpenAI要求法院驳回苹果窃密诉讼，称其指控“毫无根据”|查看原始文件]]
 

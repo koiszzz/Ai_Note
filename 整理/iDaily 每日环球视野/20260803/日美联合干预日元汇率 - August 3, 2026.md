@@ -1,12 +1,12 @@
 ---
-published: 2026-08-03
 title: "日美联合干预日元汇率 - August 3, 2026"
 source: "iDaily 每日环球视野"
 original_file: "信息源/iDaily 每日环球视野/日美联合干预日元汇率 - August 3, 2026.md"
 source_note: "[[信息源/iDaily 每日环球视野/日美联合干预日元汇率 - August 3, 2026]]"
 source_sha256: 26789e83e3ba31ac5b14f0cd280417a281485c8800b813671a7fc001270032d3
 original_url: "https://m.idai.ly/se/bca1ku"
-processed: 2026-08-05
+published: 2026-08-03
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：iDaily 每日环球视野
+> - 作者：日本 · 东京
+> - 发布时间：2026-08-03
 > - 原文链接：[打开原文](https://m.idai.ly/se/bca1ku)
 > - Vault 原文件：[[信息源/iDaily 每日环球视野/日美联合干预日元汇率 - August 3, 2026|查看原始文件]]
 

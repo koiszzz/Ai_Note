@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "报道：DeepSeek重启融资，投前估值5000亿元"
 source: "华尔街见闻"
 original_file: "信息源/华尔街见闻/报道：DeepSeek重启融资，投前估值5000亿元.md"
 source_note: "[[信息源/华尔街见闻/报道：DeepSeek重启融资，投前估值5000亿元]]"
 source_sha256: 67f14e8b4fa69abd26594bbbf9fe83105739e72e8962529eb88dcd1f3eecfa67
 original_url: "https://wallstreetcn.com/articles/3778712"
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：华尔街见闻
+> - 作者：《财经》
+> - 发布时间：2026-08-05
 > - 原文链接：[打开原文](https://wallstreetcn.com/articles/3778712)
 > - Vault 原文件：[[信息源/华尔街见闻/报道：DeepSeek重启融资，投前估值5000亿元|查看原始文件]]
 

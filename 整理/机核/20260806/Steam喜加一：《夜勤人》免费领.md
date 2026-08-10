@@ -5,7 +5,8 @@ original_file: "信息源/机核/Steam喜加一：《夜勤人》免费领.md"
 source_note: "[[信息源/机核/Steam喜加一：《夜勤人》免费领]]"
 source_sha256: a8e1463c59c3ecbae622ac6d7ea4b4c7f260fa4fafe96ff309a21a8cfd6fe215
 original_url: "https://www.gcores.com/articles/218025"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：机核
+> - 作者：YT17
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://www.gcores.com/articles/218025)
 > - Vault 原文件：[[信息源/机核/Steam喜加一：《夜勤人》免费领|查看原始文件]]
 

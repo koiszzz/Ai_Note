@@ -5,7 +5,8 @@ original_file: "信息源/华尔街见闻/投资英特尔大赚85亿美元救场
 source_note: "[[信息源/华尔街见闻/投资英特尔大赚85亿美元救场！软银集团净利润大超预期，但OpenAI延迟上市阴霾压顶]]"
 source_sha256: 13089548fcf2cdce2599a94f62c42f26e6595b3e00143ecee5662d400199d85f
 original_url: "https://wallstreetcn.com/articles/3778842"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,7 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：华尔街见闻
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://wallstreetcn.com/articles/3778842)
 > - Vault 原文件：[[信息源/华尔街见闻/投资英特尔大赚85亿美元救场！软银集团净利润大超预期，但OpenAI延迟上市阴霾压顶|查看原始文件]]
 

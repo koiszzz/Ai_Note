@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "基于 TLS 的 Coding Agent 全链路可观测体系：打破执行黑盒，实现全流程透明复盘"
 source: "掘金人工智能"
 original_file: "信息源/掘金人工智能/基于 TLS 的 Coding Agent 全链路可观测体系：打破执行黑盒，实现全流程透明复盘.md"
 source_note: "[[信息源/掘金人工智能/基于 TLS 的 Coding Agent 全链路可观测体系：打破执行黑盒，实现全流程透明复盘]]"
 source_sha256: c1e9471001ffa7e0193ae340e4745113cedbca0b153cf1b675edfd51e6bbc00c
 original_url: https://juejin.cn/post/7670369216240386074
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 

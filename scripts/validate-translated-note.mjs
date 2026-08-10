@@ -86,7 +86,7 @@ export function validateTranslatedNote(markdown, options = {}) {
   if (mojibake) errors.push(`检测到疑似错误解码文本（${mojibake} 处）。`);
   if (zeroWidth) errors.push(`检测到零宽或双向控制字符（${zeroWidth} 个）。`);
 
-  const foreignParagraphs = text.split(/\n\s*\n/).filter((paragraph) => {
+  const foreignParagraphs = options.allowForeign ? [] : text.split(/\n\s*\n/).filter((paragraph) => {
     const words = paragraph.match(/\b[A-Za-z][A-Za-z'-]*\b/g) || [];
     const zh = (paragraph.match(/[\u3400-\u4dbf\u4e00-\u9fff]/g) || []).length;
     return words.length >= 20 && zh < words.length * 0.25;

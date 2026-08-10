@@ -5,7 +5,8 @@ original_file: "信息源/华尔街见闻/“AI股神爆仓”前：华尔街顶
 source_note: "[[信息源/华尔街见闻/“AI股神爆仓”前：华尔街顶级大佬争相站台，机构投资者却集体回避]]"
 source_sha256: 8799bee67af54097411e051f3b980ffb22f75415b98a17ad13cc8cc93ee168dd
 original_url: "https://wallstreetcn.com/articles/3778796"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,7 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：华尔街见闻
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://wallstreetcn.com/articles/3778796)
 > - Vault 原文件：[[信息源/华尔街见闻/“AI股神爆仓”前：华尔街顶级大佬争相站台，机构投资者却集体回避|查看原始文件]]
 

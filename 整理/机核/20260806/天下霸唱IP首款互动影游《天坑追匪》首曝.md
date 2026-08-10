@@ -5,7 +5,8 @@ original_file: "信息源/机核/天下霸唱IP首款互动影游《天坑追匪
 source_note: "[[信息源/机核/天下霸唱IP首款互动影游《天坑追匪》首曝]]"
 source_sha256: c5828512486f6376047d81cb41e7fb536740ce416a1468cb371fa513a6445af6
 original_url: "https://www.gcores.com/articles/218034"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：机核
+> - 作者：YT17
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://www.gcores.com/articles/218034)
 > - Vault 原文件：[[信息源/机核/天下霸唱IP首款互动影游《天坑追匪》首曝|查看原始文件]]
 

@@ -1,12 +1,12 @@
 ---
-published: 2026-08-04
 title: "LangGraph 状态机实战"
 source: "掘金人工智能"
 original_file: "信息源/掘金人工智能/LangGraph 状态机实战.md"
 source_note: "[[信息源/掘金人工智能/LangGraph 状态机实战]]"
 source_sha256: e41ac554019634f7b762108a701a5462756bed3982e72d87db226a852acdb39a
 original_url: https://juejin.cn/post/7669977485648773172
-processed: 2026-08-06
+published: 2026-08-04
+processed: 2026-08-10
 language: zh-CN
 ---
 

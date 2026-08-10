@@ -5,7 +5,8 @@ original_file: "信息源/虎嗅/巴西支付为什么曾经贵还降不下来�
 source_note: "[[信息源/虎嗅/巴西支付为什么曾经贵还降不下来？-Pix的破局之道]]"
 source_sha256: d19acbb666ab61661817129342878acae9fa33c7e3c221f7d406d2799467e0a9
 original_url: "https://www.huxiu.com/article/4880977.html?f=rss"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：虎嗅
+> - 作者：鑫卉正在理解
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://www.huxiu.com/article/4880977.html?f=rss)
 > - Vault 原文件：[[信息源/虎嗅/巴西支付为什么曾经贵还降不下来？-Pix的破局之道|查看原始文件]]
 

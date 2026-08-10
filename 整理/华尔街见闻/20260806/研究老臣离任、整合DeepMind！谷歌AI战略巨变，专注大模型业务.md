@@ -5,7 +5,8 @@ original_file: "信息源/华尔街见闻/研究老臣离任、整合DeepMind！
 source_note: "[[信息源/华尔街见闻/研究老臣离任、整合DeepMind！谷歌AI战略巨变，专注大模型业务]]"
 source_sha256: 01178f3de47b6eb6b3dd62a76f911d2a273a5b2e88339ce3e340b024838dcc70
 original_url: "https://wallstreetcn.com/articles/3778795"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,7 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：华尔街见闻
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://wallstreetcn.com/articles/3778795)
 > - Vault 原文件：[[信息源/华尔街见闻/研究老臣离任、整合DeepMind！谷歌AI战略巨变，专注大模型业务|查看原始文件]]
 

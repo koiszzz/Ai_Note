@@ -5,7 +5,8 @@ original_file: "信息源/虎嗅/算力没有见顶，市场开始审判每一�
 source_note: "[[信息源/虎嗅/算力没有见顶，市场开始审判每一美元CapEx]]"
 source_sha256: b7357becc3bc65b6cbb2a21b292c01d7ceea3107e265f5f2d78bd30e70c24ee1
 original_url: "https://www.huxiu.com/article/4881013.html?f=rss"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：虎嗅
+> - 作者：AI超维度
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://www.huxiu.com/article/4881013.html?f=rss)
 > - Vault 原文件：[[信息源/虎嗅/算力没有见顶，市场开始审判每一美元CapEx|查看原始文件]]
 

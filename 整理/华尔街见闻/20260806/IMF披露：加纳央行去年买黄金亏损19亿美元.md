@@ -5,7 +5,8 @@ original_file: "信息源/华尔街见闻/IMF披露：加纳央行去年买黄�
 source_note: "[[信息源/华尔街见闻/IMF披露：加纳央行去年买黄金亏损19亿美元]]"
 source_sha256: bc3166d09672a6e9dfe9f9340ee185d68c62a7ba36a5b60b73af8a1cb46e411a
 original_url: "https://wallstreetcn.com/articles/3778841"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,7 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：华尔街见闻
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://wallstreetcn.com/articles/3778841)
 > - Vault 原文件：[[信息源/华尔街见闻/IMF披露：加纳央行去年买黄金亏损19亿美元|查看原始文件]]
 

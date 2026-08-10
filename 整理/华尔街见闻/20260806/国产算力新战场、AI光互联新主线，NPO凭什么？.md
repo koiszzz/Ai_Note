@@ -5,7 +5,8 @@ original_file: "信息源/华尔街见闻/国产算力新战场、AI光互联新
 source_note: "[[信息源/华尔街见闻/国产算力新战场、AI光互联新主线，NPO凭什么？]]"
 source_sha256: 594632281804a2616a9b3ddd99a89b89b049cc68d0022c7f55443758d58a6381
 original_url: "https://wallstreetcn.com/articles/3778847"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,7 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：华尔街见闻
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://wallstreetcn.com/articles/3778847)
 > - Vault 原文件：[[信息源/华尔街见闻/国产算力新战场、AI光互联新主线，NPO凭什么？|查看原始文件]]
 

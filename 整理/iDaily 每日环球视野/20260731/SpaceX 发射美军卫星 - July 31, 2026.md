@@ -1,12 +1,12 @@
 ---
-published: 2026-07-31
 title: "SpaceX 发射美军卫星 - July 31, 2026"
 source: "iDaily 每日环球视野"
 original_file: "信息源/iDaily 每日环球视野/SpaceX 发射美军卫星 - July 31, 2026.md"
 source_note: "[[信息源/iDaily 每日环球视野/SpaceX 发射美军卫星 - July 31, 2026]]"
 source_sha256: bd9e368d8bb17444f80d6d4ddd1f1fb8f02eebc5e3a0f54478ce0fc79328e856
 original_url: "https://m.idai.ly/se/68fQ3m"
-processed: 2026-08-05
+published: 2026-07-31
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：iDaily 每日环球视野
+> - 作者：美国 · 佛罗里达州
+> - 发布时间：2026-07-31
 > - 原文链接：[打开原文](https://m.idai.ly/se/68fQ3m)
 > - Vault 原文件：[[信息源/iDaily 每日环球视野/SpaceX 发射美军卫星 - July 31, 2026|查看原始文件]]
 

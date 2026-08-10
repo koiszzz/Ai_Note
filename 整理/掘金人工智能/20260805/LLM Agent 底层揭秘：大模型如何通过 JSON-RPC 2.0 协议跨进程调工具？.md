@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "LLM Agent 底层揭秘：大模型如何通过 JSON-RPC 2.0 协议跨进程调工具？"
 source: "掘金人工智能"
 original_file: "信息源/掘金人工智能/LLM Agent 底层揭秘：大模型如何通过 JSON-RPC 2.0 协议跨进程调工具？.md"
 source_note: "[[信息源/掘金人工智能/LLM Agent 底层揭秘：大模型如何通过 JSON-RPC 2.0 协议跨进程调工具？]]"
 source_sha256: 85d766c3347062314995080497f044b913d30510fa0498a7c7f0429a26dace6f
 original_url: https://juejin.cn/post/7670174583553523712
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 

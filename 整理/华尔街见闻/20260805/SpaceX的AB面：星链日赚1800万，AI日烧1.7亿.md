@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "SpaceX的AB面：星链日赚1800万，AI日烧1.7亿"
 source: "华尔街见闻"
 original_file: "信息源/华尔街见闻/SpaceX的AB面：星链日赚1800万，AI日烧1.7亿.md"
 source_note: "[[信息源/华尔街见闻/SpaceX的AB面：星链日赚1800万，AI日烧1.7亿]]"
 source_sha256: 433c8b9cc82a29b0afa0a74d755950f4643387e9b3280594bcb693c310e2d531
 original_url: "https://wallstreetcn.com/articles/3778720"
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：华尔街见闻
+> - 作者：研外之意
+> - 发布时间：2026-08-05
 > - 原文链接：[打开原文](https://wallstreetcn.com/articles/3778720)
 > - Vault 原文件：[[信息源/华尔街见闻/SpaceX的AB面：星链日赚1800万，AI日烧1.7亿|查看原始文件]]
 

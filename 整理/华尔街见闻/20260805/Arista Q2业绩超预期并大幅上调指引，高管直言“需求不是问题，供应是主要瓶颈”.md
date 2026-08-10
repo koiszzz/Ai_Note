@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "Arista Q2业绩超预期并大幅上调指引，高管直言“需求不是问题，供应是主要瓶颈”"
 source: "华尔街见闻"
 original_file: "信息源/华尔街见闻/Arista Q2业绩超预期并大幅上调指引，高管直言“需求不是问题，供应是主要瓶颈”.md"
 source_note: "[[信息源/华尔街见闻/Arista Q2业绩超预期并大幅上调指引，高管直言“需求不是问题，供应是主要瓶颈”]]"
 source_sha256: 11b19167b4bff45500b7e1a3e2839067615b4d0f687e7b03be6569678640f11b
 original_url: "https://wallstreetcn.com/articles/3778708"
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,7 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：华尔街见闻
+> - 发布时间：2026-08-05
 > - 原文链接：[打开原文](https://wallstreetcn.com/articles/3778708)
 > - Vault 原文件：[[信息源/华尔街见闻/Arista Q2业绩超预期并大幅上调指引，高管直言“需求不是问题，供应是主要瓶颈”|查看原始文件]]
 

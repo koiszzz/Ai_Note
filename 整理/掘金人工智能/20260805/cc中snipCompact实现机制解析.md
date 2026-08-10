@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "cc中snipCompact实现机制解析"
 source: "掘金人工智能"
 original_file: "信息源/掘金人工智能/cc中snipCompact实现机制解析.md"
 source_note: "[[信息源/掘金人工智能/cc中snipCompact实现机制解析]]"
 source_sha256: 596bf96cebc6b6d9f1948bc66a5ddd3b2bee4e4b0d182dcee0d1fe8d1c694a21
-original_url: "https://juejin.cn/post/7670366267686518824"
-processed: 2026-08-06
+original_url: https://juejin.cn/post/7670366267686518824
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -31,4 +31,4 @@ language: zh-CN
 
 ## 关键词
 
-#人工智能 #掘金人工智能 #仅标题
+#人工智能 #掘金 #仅标题

@@ -1,12 +1,12 @@
 ---
-published: 2026-05-20
 title: "AI 搜尋新時代"
 source: "Google Blog Feed"
 original_file: "信息源/Google Blog Feed/AI 搜尋新時代.md"
 source_note: "[[信息源/Google Blog Feed/AI 搜尋新時代]]"
 source_sha256: 231e4e59c60e5a1c3d9d52f45cc672ae8b75b14438b5c72e66825798b988bbe3
 original_url: "https://blog.google/intl/zh-tw/products/search-io-2026/"
-processed: 2026-08-05
+published: 2026-05-20
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：Google Blog Feed
+> - 作者：Elizabeth Reid Google 搜尋副總裁與負責人　|　组织：Google
+> - 发布时间：2026-05-20
 > - 原文链接：[打开原文](https://blog.google/intl/zh-tw/products/search-io-2026/)
 > - Vault 原文件：[[信息源/Google Blog Feed/AI 搜尋新時代|查看原始文件]]
 

@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "AI行情还能走多远？淡水泉最新表态：7月的回调更多是情绪"
 source: "华尔街见闻"
 original_file: "信息源/华尔街见闻/AI行情还能走多远？淡水泉最新表态：7月的回调更多是情绪.md"
 source_note: "[[信息源/华尔街见闻/AI行情还能走多远？淡水泉最新表态：7月的回调更多是情绪]]"
 source_sha256: ad905190474ca6e36ba43e88246852c77b82b0ff3cfca4b2bd774dd4a9eeef32
 original_url: "https://wallstreetcn.com/articles/3778732"
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：华尔街见闻
+> - 作者：券商中国
+> - 发布时间：2026-08-05
 > - 原文链接：[打开原文](https://wallstreetcn.com/articles/3778732)
 > - Vault 原文件：[[信息源/华尔街见闻/AI行情还能走多远？淡水泉最新表态：7月的回调更多是情绪|查看原始文件]]
 

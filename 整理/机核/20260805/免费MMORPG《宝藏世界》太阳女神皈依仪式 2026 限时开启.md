@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "免费MMORPG《宝藏世界》太阳女神皈依仪式 2026 限时开启"
 source: "机核"
 original_file: "信息源/机核/免费MMORPG《宝藏世界》太阳女神皈依仪式 2026 限时开启.md"
 source_note: "[[信息源/机核/免费MMORPG《宝藏世界》太阳女神皈依仪式 2026 限时开启]]"
 source_sha256: 9fe014c5d0b13a326a3d8dd2c0d8df274d6f1956b5236d8e311348c6a9e2cb9b
 original_url: "https://www.gcores.com/articles/217976"
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：机核
+> - 作者：YT17
+> - 发布时间：2026-08-05
 > - 原文链接：[打开原文](https://www.gcores.com/articles/217976)
 > - Vault 原文件：[[信息源/机核/免费MMORPG《宝藏世界》太阳女神皈依仪式 2026 限时开启|查看原始文件]]
 

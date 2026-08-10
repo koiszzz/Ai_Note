@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "OpenAI新模型Astra曝光，2000美元破解10大数学难题"
 source: "虎嗅"
 original_file: "信息源/虎嗅/OpenAI新模型Astra曝光，2000美元破解10大数学难题.md"
 source_note: "[[信息源/虎嗅/OpenAI新模型Astra曝光，2000美元破解10大数学难题]]"
 source_sha256: 1a15fb539805ca152966dc4c360b5202f8d0b1f409b309fbb09debb0f269ebbc
 original_url: "https://www.huxiu.com/article/4880382.html?f=rss"
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：虎嗅
+> - 作者：智讯智库
+> - 发布时间：2026-08-05
 > - 原文链接：[打开原文](https://www.huxiu.com/article/4880382.html?f=rss)
 > - Vault 原文件：[[信息源/虎嗅/OpenAI新模型Astra曝光，2000美元破解10大数学难题|查看原始文件]]
 

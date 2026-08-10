@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "杠杆ETF，你真的懂吗？"
 source: "华尔街见闻"
 original_file: "信息源/华尔街见闻/杠杆ETF，你真的懂吗？.md"
 source_note: "[[信息源/华尔街见闻/杠杆ETF，你真的懂吗？]]"
 source_sha256: 2724359b2d36dc3dbc997c1a8c2502b2af9e31057f52e91312add50836a23a46
 original_url: "https://wallstreetcn.com/charts/41959520"
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：华尔街见闻
+> - 作者：沈曼茹
+> - 发布时间：2026-08-05
 > - 原文链接：[打开原文](https://wallstreetcn.com/charts/41959520)
 > - Vault 原文件：[[信息源/华尔街见闻/杠杆ETF，你真的懂吗？|查看原始文件]]
 

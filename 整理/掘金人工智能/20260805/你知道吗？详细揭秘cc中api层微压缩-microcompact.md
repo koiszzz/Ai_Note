@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "你知道吗？详细揭秘cc中api层微压缩-microcompact"
 source: "掘金人工智能"
 original_file: "信息源/掘金人工智能/你知道吗？详细揭秘cc中api层微压缩-microcompact.md"
 source_note: "[[信息源/掘金人工智能/你知道吗？详细揭秘cc中api层微压缩-microcompact]]"
 source_sha256: d632eb6cdb2ecdda26022672f7fd959d73bded6f46dad4c243a2bbb1bed96508
 original_url: https://juejin.cn/post/7670366267685650472
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 

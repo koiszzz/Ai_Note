@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "轮子还要自己造吗？SRE 团队视角：从“全栈自研”到“拥抱云原生可观测底座”的思考"
 source: "掘金人工智能"
 original_file: "信息源/掘金人工智能/轮子还要自己造吗？SRE 团队视角：从“全栈自研”到“拥抱云原生可观测底座”的思考.md"
 source_note: "[[信息源/掘金人工智能/轮子还要自己造吗？SRE 团队视角：从“全栈自研”到“拥抱云原生可观测底座”的思考]]"
 source_sha256: 2192e48960adcf52b0e55a24c3d5725e2b15f87e8ed05a3b9d6b93a63f725957
 original_url: https://juejin.cn/post/7670174583553409024
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 

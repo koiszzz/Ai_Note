@@ -1,12 +1,12 @@
 ---
-published: 2026-08-04
 title: "机核的汾河湾，录音笔 VOL.756"
 source: "机核"
 original_file: "信息源/机核/机核的汾河湾，录音笔 VOL.756.md"
 source_note: "[[信息源/机核/机核的汾河湾，录音笔 VOL.756]]"
 source_sha256: 18a0526ba1182f617c63c6ee91f2b0c43942bab7d19a3dafcb37c18fbaeb5317
 original_url: "https://www.gcores.com/radios/217953"
-processed: 2026-08-05
+published: 2026-08-04
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：机核
+> - 作者：雪豆,说书人Jerry,白广大
+> - 发布时间：2026-08-04
 > - 原文链接：[打开原文](https://www.gcores.com/radios/217953)
 > - Vault 原文件：[[信息源/机核/机核的汾河湾，录音笔 VOL.756|查看原始文件]]
 

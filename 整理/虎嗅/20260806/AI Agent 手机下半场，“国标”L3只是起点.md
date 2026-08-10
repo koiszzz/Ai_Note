@@ -5,7 +5,8 @@ original_file: "信息源/虎嗅/AI Agent 手机下半场，“国标”L3只是
 source_note: "[[信息源/虎嗅/AI Agent 手机下半场，“国标”L3只是起点]]"
 source_sha256: 0c646bc234e85b43785bd2f50b46d9ad0953ce785629cb1c04a9a42a7648f27c
 original_url: "https://www.huxiu.com/article/4881201.html?f=rss"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：虎嗅
+> - 作者：极客公园
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://www.huxiu.com/article/4881201.html?f=rss)
 > - Vault 原文件：[[信息源/虎嗅/AI Agent 手机下半场，“国标”L3只是起点|查看原始文件]]
 

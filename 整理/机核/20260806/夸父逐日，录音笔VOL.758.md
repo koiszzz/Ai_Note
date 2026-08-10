@@ -5,7 +5,8 @@ original_file: "信息源/机核/夸父逐日，录音笔VOL.758.md"
 source_note: "[[信息源/机核/夸父逐日，录音笔VOL.758]]"
 source_sha256: 9f87055d40af1f97558e6dff3013ad32fc133665d942636dc82c047d47fb78ed
 original_url: "https://www.gcores.com/radios/218047"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：机核
+> - 作者：柏亚舟,Ryoma
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://www.gcores.com/radios/218047)
 > - Vault 原文件：[[信息源/机核/夸父逐日，录音笔VOL.758|查看原始文件]]
 

@@ -1,0 +1,32 @@
+---
+title: "船底座星云新诞生恒星团 - August 7, 2026"
+source: "iDaily 每日环球视野"
+original_file: "信息源/iDaily 每日环球视野/船底座星云新诞生恒星团 - August 7, 2026.md"
+source_note: "[[信息源/iDaily 每日环球视野/船底座星云新诞生恒星团 - August 7, 2026]]"
+source_sha256: 917010a2df8c9fbabc625f333378c034ef861d4d0ff2c8901bee4b4fd1ca277f
+original_url: "https://m.idai.ly/se/505B0Z"
+published: 2026-08-07
+processed: 2026-08-10
+language: zh-CN
+---
+
+# 船底座星云新诞生恒星团 - August 7, 2026
+
+> [!info] 来源信息
+> - 数据源：iDaily 每日环球视野
+> - 作者：船底座
+> - 发布时间：2026-08-07
+> - 原文链接：[打开原文](https://m.idai.ly/se/505B0Z)
+> - Vault 原文件：[[信息源/iDaily 每日环球视野/船底座星云新诞生恒星团 - August 7, 2026|查看原始文件]]
+
+## 摘要
+
+- 原始来源为中文 RSS/网页条目，以下正文保留原文信息并统一排版。
+
+## 正文
+
+<figure><img src="http://pic.yupoo.com/fotomag/28f30caac4/dfe044f1.jpg" alt="船底座星云新诞生恒星团" referrerpolicy="no-referrer"></figure><p>欧空局公布一张 JWST 太空望远镜拍摄的「船底座星云」（Carina Nebula）局部照片。这个星云距离地球约7500光年，跨度达到260光年，是离地球最近的新恒星诞生区之一。照片中的局部特写是「船底座星云」内的一个新诞生恒星星团，共有约70颗年轻恒星，其中最亮的一颗恒星相当于太阳质量的19倍。摄影师：ESA</p>
+
+## 关键词
+
+#iDaily-每日环球视野

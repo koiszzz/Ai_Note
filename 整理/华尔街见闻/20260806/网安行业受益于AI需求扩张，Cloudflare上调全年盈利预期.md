@@ -1,12 +1,12 @@
 ---
-published: 2026-08-06
 title: "网安行业受益于AI需求扩张，Cloudflare上调全年盈利预期"
 source: "华尔街见闻"
 original_file: "信息源/华尔街见闻/网安行业受益于AI需求扩张，Cloudflare上调全年盈利预期.md"
 source_note: "[[信息源/华尔街见闻/网安行业受益于AI需求扩张，Cloudflare上调全年盈利预期]]"
 source_sha256: 3ba3b0ae6386424440e947819d158a97ca7f86becc8d219d8d1f0b8cf295a707
 original_url: "https://wallstreetcn.com/articles/3778902"
-processed: 2026-08-07
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -20,10 +20,7 @@ language: zh-CN
 
 ## 摘要
 
-- Cloudflare周四发布财报，将2026年全年调整后每股盈利预期从此前的1.19至1.20美元上调至1.25至1.26美元，超出华尔街分析师平均预期的1.20美元，二季度业绩同样超预期。
-- 消息公布后公司股价盘后大涨超16%，年初至今累计涨幅达44%，远超罗素1000指数同期12%的表现。
-- 今年5月Cloudflare裁减约五分之一员工、向"以AI代理为核心"的运营模式转型，二季度超预期业绩表明裁员与战略转型未拖累业务扩张。
-- CEO Matthew Prince称正见证互联网针对机器对机器流量的根本性重构；板块内部分化明显：Fortinet上调全年营收预期，Check Point维持预期不变、业绩令市场失望。
+- 原始来源为中文 RSS/网页条目，以下正文保留原文信息并统一排版。
 
 ## 正文
 
@@ -32,6 +29,8 @@ language: zh-CN
 <p style="text-align: left;">美国网络安全公司Cloudflare周四发布财报，将2026年全年调整后每股盈利预期从此前的1.19至1.20美元上调至1.25至1.26美元，超出华尔街分析师平均预期的1.20美元。二季度业绩同样超出市场预期。</p>
 
 <p style="text-align: left;">消息公布后，该公司股价盘后大涨超16%，年初至今累计涨幅已达44%，远超罗素1000指数同期12%的表现。</p>
+
+<p style="text-align: left;"><img src="https://wpimg-wscn.awtmt.com/d1e71734-b37a-47bf-a8d3-03b58f075eac.png" referrerpolicy="no-referrer"></p>
 
 <h2 style="text-align: left;">裁员之后，增长未受影响</h2>
 
@@ -59,8 +58,14 @@ language: zh-CN
 
 <p style="text-align: left;">Check Point Software Technologies Ltd.则维持全年预期不变，业绩表现参差不齐。据彭博报道，TD Cowen指出，Check Point正在处理内部问题，业绩令市场失望。</p>
 
-<p style="text-align: left;">Fortinet与Check Point之间的表现差距，折射出AI浪潮下网络安全行业内部的结构性分化——能够清晰定义并执行AI战略的公司，正在获得更高的市场溢价。</p>
+<p style="text-align: left;">Fortinet与Check Point之间的表现差距，折射出AI浪潮下网络安全行业内部的结构性分化——能够清晰定义并执行AI战略的公司，正在获得更高的市场溢价。</p><div style="color: #666; margin-bottom: 15px;">风险提示及免责条款</div>
+
+<div style="font-size: 12px;font-family: 黑体;color: #666;line-height: 20px;">
+
+市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。
+
+</div>
 
 ## 关键词
 
-#Cloudflare #网络安全 #AI #财报 #Fortinet #CheckPoint
+#华尔街见闻

@@ -1,12 +1,12 @@
 ---
-published: 2026-08-04
 title: "分析师电话会：马斯克说，SpaceX公司将在下一次星舰飞行中把首批V3版星链卫星送入轨道。星链V3卫星的能力比V2高出一个数量级，SpaceX预计发射的V3卫星数量将比V2..."
 source: "华尔街见闻"
 original_file: "信息源/华尔街见闻/分析师电话会：马斯克说，SpaceX公司将在下一次星舰飞行中把首批V3版星链卫星送入轨道。星链V3卫星的能力比V2高出一个数量级，SpaceX预计发射的V3卫星数量将比V2....md"
 source_note: "[[信息源/华尔街见闻/分析师电话会：马斯克说，SpaceX公司将在下一次星舰飞行中把首批V3版星链卫星送入轨道。星链V3卫星的能力比V2高出一个数量级，SpaceX预计发射的V3卫星数量将比V2...]]"
 source_sha256: 70c5e4e48a9164ca9f1a64d611e398274d2ed9a5d5fe4911662f3298d5619cf3
 original_url: "https://wallstreetcn.com/articles/3778694"
-processed: 2026-08-05
+published: 2026-08-04
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,7 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：华尔街见闻
+> - 发布时间：2026-08-04
 > - 原文链接：[打开原文](https://wallstreetcn.com/articles/3778694)
 > - Vault 原文件：[[信息源/华尔街见闻/分析师电话会：马斯克说，SpaceX公司将在下一次星舰飞行中把首批V3版星链卫星送入轨道。星链V3卫星的能力比V2高出一个数量级，SpaceX预计发射的V3卫星数量将比V2...|查看原始文件]]
 

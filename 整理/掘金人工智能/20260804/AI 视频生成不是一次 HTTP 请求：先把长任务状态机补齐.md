@@ -1,12 +1,12 @@
 ---
-published: 2026-08-04
 title: "AI 视频生成不是一次 HTTP 请求：先把长任务状态机补齐"
 source: "掘金人工智能"
 original_file: "信息源/掘金人工智能/AI 视频生成不是一次 HTTP 请求：先把长任务状态机补齐.md"
 source_note: "[[信息源/掘金人工智能/AI 视频生成不是一次 HTTP 请求：先把长任务状态机补齐]]"
 source_sha256: 22ecea7ad79c3d07bb797c0030c6f928497255f3cfadb8f3a206e3bf4f8a7541
 original_url: https://juejin.cn/post/7670060183798153262
-processed: 2026-08-05
+published: 2026-08-04
+processed: 2026-08-10
 language: zh-CN
 ---
 

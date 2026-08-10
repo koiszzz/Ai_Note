@@ -1,12 +1,12 @@
 ---
-published: 2026-07-31
 title: "爆改“刷子游戏”的《斯普拉遁：涂击队》，怎么冲上了MC评分Top10"
 source: "游戏研究社"
 original_file: "信息源/游戏研究社/爆改“刷子游戏”的《斯普拉遁：涂击队》，怎么冲上了MC评分Top10.md"
 source_note: "[[信息源/游戏研究社/爆改“刷子游戏”的《斯普拉遁：涂击队》，怎么冲上了MC评分Top10]]"
 source_sha256: 07bca235b6404ad6ca78ae2db5b37761eac5a82ac1b2df3488e06cd9303260b1
 original_url: "https://www.yystv.cn/p/14220"
-processed: 2026-08-05
+published: 2026-07-31
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,7 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：游戏研究社
+> - 发布时间：2026-07-31
 > - 原文链接：[打开原文](https://www.yystv.cn/p/14220)
 > - Vault 原文件：[[信息源/游戏研究社/爆改“刷子游戏”的《斯普拉遁：涂击队》，怎么冲上了MC评分Top10|查看原始文件]]
 

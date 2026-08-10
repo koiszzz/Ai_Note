@@ -1,12 +1,12 @@
 ---
-published: 2026-08-01
 title: "日本熊本地震灾民避难 - August 1, 2026"
 source: "iDaily 每日环球视野"
 original_file: "信息源/iDaily 每日环球视野/日本熊本地震灾民避难 - August 1, 2026.md"
 source_note: "[[信息源/iDaily 每日环球视野/日本熊本地震灾民避难 - August 1, 2026]]"
 source_sha256: 0dc4c8a9d4e8abd77d473b94e934dabe571414972ed5f57b47b00fed71450736
 original_url: "https://m.idai.ly/se/e59vKm"
-processed: 2026-08-05
+published: 2026-08-01
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：iDaily 每日环球视野
+> - 作者：日本 · 熊本县
+> - 发布时间：2026-08-01
 > - 原文链接：[打开原文](https://m.idai.ly/se/e59vKm)
 > - Vault 原文件：[[信息源/iDaily 每日环球视野/日本熊本地震灾民避难 - August 1, 2026|查看原始文件]]
 

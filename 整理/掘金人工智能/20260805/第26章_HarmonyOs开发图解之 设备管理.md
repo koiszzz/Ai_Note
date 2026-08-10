@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "第26章_HarmonyOs开发图解之 设备管理"
 source: "掘金人工智能"
 original_file: "信息源/掘金人工智能/第26章_HarmonyOs开发图解之 设备管理.md"
 source_note: "[[信息源/掘金人工智能/第26章_HarmonyOs开发图解之 设备管理]]"
 source_sha256: 073095c54c0e6242e1e0efd4b48821b34b852fa82698702d849d7dbaab83b83f
 original_url: https://juejin.cn/post/7670366276665868340
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 

@@ -1,12 +1,12 @@
 ---
-published: 2026-08-04
 title: "《控制: 共振》Chinajoy回顾：Remedy 携本土阵容展现深度中文化成果"
 source: "机核"
 original_file: "信息源/机核/《控制- 共振》Chinajoy回顾：Remedy 携本土阵容展现深度中文化成果.md"
 source_note: "[[信息源/机核/《控制- 共振》Chinajoy回顾：Remedy 携本土阵容展现深度中文化成果]]"
 source_sha256: a7948c58dfbde7ebf9c35a862bf54a7bc58bdee0a10ed6e0642a1cc9caa08a80
 original_url: "https://www.gcores.com/articles/217938"
-processed: 2026-08-05
+published: 2026-08-04
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：机核
+> - 作者：YT17
+> - 发布时间：2026-08-04
 > - 原文链接：[打开原文](https://www.gcores.com/articles/217938)
 > - Vault 原文件：[[信息源/机核/《控制- 共振》Chinajoy回顾：Remedy 携本土阵容展现深度中文化成果|查看原始文件]]
 

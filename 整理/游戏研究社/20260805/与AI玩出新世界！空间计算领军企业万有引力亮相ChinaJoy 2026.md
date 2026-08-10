@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "与AI玩出新世界！空间计算领军企业万有引力亮相ChinaJoy 2026"
 source: "游戏研究社"
 original_file: "信息源/游戏研究社/与AI玩出新世界！空间计算领军企业万有引力亮相ChinaJoy 2026.md"
 source_note: "[[信息源/游戏研究社/与AI玩出新世界！空间计算领军企业万有引力亮相ChinaJoy 2026]]"
 source_sha256: ee9ce292044046a36c64e27d6bf4388a7940b8e24300bc26210c8e0bd27f283d
 original_url: "https://www.yystv.cn/p/14246"
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,7 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：游戏研究社
+> - 发布时间：2026-08-05
 > - 原文链接：[打开原文](https://www.yystv.cn/p/14246)
 > - Vault 原文件：[[信息源/游戏研究社/与AI玩出新世界！空间计算领军企业万有引力亮相ChinaJoy 2026|查看原始文件]]
 

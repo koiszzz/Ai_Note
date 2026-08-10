@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "我把《天龙八部》塞进向量数据库后，终于搞懂了 RAG 到底是个啥"
 source: "掘金人工智能"
 original_file: "信息源/掘金人工智能/我把《天龙八部》塞进向量数据库后，终于搞懂了 RAG 到底是个啥.md"
 source_note: "[[信息源/掘金人工智能/我把《天龙八部》塞进向量数据库后，终于搞懂了 RAG 到底是个啥]]"
 source_sha256: 1ffdb6d2c6225cfcad4e87534624f0df884650a729dbc0c4e458140452f3969c
 original_url: https://juejin.cn/post/7670420251288895531
-processed: 2026-08-06
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 

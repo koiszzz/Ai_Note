@@ -5,7 +5,8 @@ original_file: "信息源/机核/《神之一手》现已登陆Steam与WeGame平
 source_note: "[[信息源/机核/《神之一手》现已登陆Steam与WeGame平台 首发特惠28.8元]]"
 source_sha256: 4bbe8f722f9acfdaec6eb9b721be982fe11fc14ee3769e1746c186c05d25549b
 original_url: "https://www.gcores.com/articles/218042"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：机核
+> - 作者：YT17
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://www.gcores.com/articles/218042)
 > - Vault 原文件：[[信息源/机核/《神之一手》现已登陆Steam与WeGame平台 首发特惠28.8元|查看原始文件]]
 

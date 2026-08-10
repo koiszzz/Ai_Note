@@ -1,12 +1,12 @@
 ---
-published: 2026-08-04
 title: "AI Agent大师之路：从认知架构到自主智能体的完整设计哲学"
 source: "掘金人工智能"
 original_file: "信息源/掘金人工智能/AI Agent大师之路：从认知架构到自主智能体的完整设计哲学.md"
 source_note: "[[信息源/掘金人工智能/AI Agent大师之路：从认知架构到自主智能体的完整设计哲学]]"
 source_sha256: aa395da1be840cc28466e35ffb4d737f57dc8a9567b0c243514e12805d077191
 original_url: https://juejin.cn/post/7670060183796793390
-processed: 2026-08-05
+published: 2026-08-04
+processed: 2026-08-10
 language: zh-CN
 ---
 

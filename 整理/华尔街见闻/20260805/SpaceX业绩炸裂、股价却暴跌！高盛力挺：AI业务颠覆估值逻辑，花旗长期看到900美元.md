@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "SpaceX业绩炸裂、股价却暴跌！高盛力挺：AI业务颠覆估值逻辑，花旗长期看到900美元"
 source: "华尔街见闻"
 original_file: "信息源/华尔街见闻/SpaceX业绩炸裂、股价却暴跌！高盛力挺：AI业务颠覆估值逻辑，花旗长期看到900美元.md"
 source_note: "[[信息源/华尔街见闻/SpaceX业绩炸裂、股价却暴跌！高盛力挺：AI业务颠覆估值逻辑，花旗长期看到900美元]]"
 source_sha256: 4a79afb3e0887d488a80f6311976fcdd51df3845c1f03ddcb4407f7eece5cabc
 original_url: "https://wallstreetcn.com/articles/3778725"
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,7 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：华尔街见闻
+> - 发布时间：2026-08-05
 > - 原文链接：[打开原文](https://wallstreetcn.com/articles/3778725)
 > - Vault 原文件：[[信息源/华尔街见闻/SpaceX业绩炸裂、股价却暴跌！高盛力挺：AI业务颠覆估值逻辑，花旗长期看到900美元|查看原始文件]]
 

@@ -5,7 +5,8 @@ original_file: "信息源/虎嗅/近些年目睹之Google AI 怪现状.md"
 source_note: "[[信息源/虎嗅/近些年目睹之Google AI 怪现状]]"
 source_sha256: bdc1d386457715d61f3c38ea47ea7c0d01a291a474103fd90156457700a19d4b
 original_url: "https://www.huxiu.com/article/4881193.html?f=rss"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：虎嗅
+> - 作者：硅基立场
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://www.huxiu.com/article/4881193.html?f=rss)
 > - Vault 原文件：[[信息源/虎嗅/近些年目睹之Google AI 怪现状|查看原始文件]]
 

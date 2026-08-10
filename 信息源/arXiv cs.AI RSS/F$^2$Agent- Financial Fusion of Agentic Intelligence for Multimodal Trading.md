@@ -1,0 +1,12 @@
+# F$^2$Agent: Financial Fusion of Agentic Intelligence for Multimodal Trading
+
+> 数据源：arXiv cs.AI RSS
+> RSS：[打开源文件](https://export.arxiv.org/rss/cs.AI)
+
+> 作者：Changshuo Liu, Yanzheng Jin, Shangfeng Cai, Peng Fang, Xiaokui Xiao, Beng Chin Ooi　|　发布时间：Fri, 07 Aug 2026 00:00:00 -0400　|　分类：cs.MA　|　原文：[打开链接](https://arxiv.org/abs/2608.05668)
+
+------
+
+arXiv:2608.05668v1 Announce Type: cross
+
+Abstract: With increasingly diverse and heterogeneous information sources, effectively leveraging multimodal data is becoming pivotal for high-quality financial trading. Although recent advancements in Large Language Model (LLM)-based agents have enabled the ingestion of multimodal inputs, existing methods fail to capture nuanced cross-modal dependencies and remain vulnerable to market noise, due to limited multimodal modeling, ineffective fusion mechanisms, and inadequate robustness. To address these challenges, we propose F$^2$Agent, a novel multimodal agentic paradigm driven by the Financial Fusion of Agentic Intelligence. F$^2$Agent first deploys a hierarchy of specialized agents to comprehensively extract modality-specific signals. It further introduces a modality-aware adaptive fusion mechanism coupled with noise-robust consistency regularization to dynamically capture fine-grained inter-modality dependencies and generate noise-resilient trading signals. Extensive experiments on six stocks and cryptocurrency assets demonstrate that F$^2$Agent consistently outperforms 16 competitive baselines across multiple trading metrics, with over 20% relative improvement in annualized return on average. Notably, F$^2$Agent delivers returns of 120.48% on GOOG and 148.41% on TSLA, demonstrating its efficacy and robustness in varying market dynamics.

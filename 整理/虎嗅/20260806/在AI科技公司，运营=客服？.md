@@ -5,7 +5,8 @@ original_file: "信息源/虎嗅/在AI科技公司，运营=客服？.md"
 source_note: "[[信息源/虎嗅/在AI科技公司，运营=客服？]]"
 source_sha256: 8447d3cefc54dfb2563c0835762702b07427651621da2e7a30f17da6312fe129
 original_url: "https://www.huxiu.com/article/4881164.html?f=rss"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：虎嗅
+> - 作者：袁振商业笔记©
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://www.huxiu.com/article/4881164.html?f=rss)
 > - Vault 原文件：[[信息源/虎嗅/在AI科技公司，运营=客服？|查看原始文件]]
 

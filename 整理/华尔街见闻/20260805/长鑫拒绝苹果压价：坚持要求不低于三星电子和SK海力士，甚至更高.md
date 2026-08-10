@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "长鑫拒绝苹果压价：坚持要求不低于三星电子和SK海力士，甚至更高"
 source: "华尔街见闻"
 original_file: "信息源/华尔街见闻/长鑫拒绝苹果压价：坚持要求不低于三星电子和SK海力士，甚至更高.md"
 source_note: "[[信息源/华尔街见闻/长鑫拒绝苹果压价：坚持要求不低于三星电子和SK海力士，甚至更高]]"
 source_sha256: ce7c7240699293481cd0e70dbb60056afaf0361ed05a8fa9955cbbc92a7a438e
 original_url: "https://wallstreetcn.com/articles/3778748"
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：华尔街见闻
+> - 作者：中新经纬
+> - 发布时间：2026-08-05
 > - 原文链接：[打开原文](https://wallstreetcn.com/articles/3778748)
 > - Vault 原文件：[[信息源/华尔街见闻/长鑫拒绝苹果压价：坚持要求不低于三星电子和SK海力士，甚至更高|查看原始文件]]
 

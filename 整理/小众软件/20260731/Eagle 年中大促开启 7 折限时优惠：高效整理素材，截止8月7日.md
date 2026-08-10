@@ -1,12 +1,12 @@
 ---
-published: 2026-07-31
 title: "Eagle 年中大促开启 7 折限时优惠：高效整理素材，截止8月7日"
 source: "小众软件"
 original_file: "信息源/小众软件/Eagle 年中大促开启 7 折限时优惠：高效整理素材，截止8月7日.md"
 source_note: "[[信息源/小众软件/Eagle 年中大促开启 7 折限时优惠：高效整理素材，截止8月7日]]"
 source_sha256: 84d4cd97ddd53c060d4de1e9ee1e83f8323f090911c16173d9acecd7f6d6788a
 original_url: "https://www.appinn.com/eagle-26311/"
-processed: 2026-08-05
+published: 2026-07-31
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：小众软件
+> - 作者：青小蛙
+> - 发布时间：2026-07-31
 > - 原文链接：[打开原文](https://www.appinn.com/eagle-26311/)
 > - Vault 原文件：[[信息源/小众软件/Eagle 年中大促开启 7 折限时优惠：高效整理素材，截止8月7日|查看原始文件]]
 

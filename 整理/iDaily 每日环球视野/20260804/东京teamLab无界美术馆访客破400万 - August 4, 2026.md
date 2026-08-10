@@ -1,12 +1,12 @@
 ---
-published: 2026-08-04
 title: "东京teamLab无界美术馆访客破400万 - August 4, 2026"
 source: "iDaily 每日环球视野"
 original_file: "信息源/iDaily 每日环球视野/东京teamLab无界美术馆访客破400万 - August 4, 2026.md"
 source_note: "[[信息源/iDaily 每日环球视野/东京teamLab无界美术馆访客破400万 - August 4, 2026]]"
 source_sha256: 229d5ebc3f7c82414cad42ea837a3438e44a190b18952fca74f5f63fef5e4338
 original_url: "https://m.idai.ly/se/6f6QQf"
-processed: 2026-08-05
+published: 2026-08-04
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：iDaily 每日环球视野
+> - 作者：日本 · 东京
+> - 发布时间：2026-08-04
 > - 原文链接：[打开原文](https://m.idai.ly/se/6f6QQf)
 > - Vault 原文件：[[信息源/iDaily 每日环球视野/东京teamLab无界美术馆访客破400万 - August 4, 2026|查看原始文件]]
 

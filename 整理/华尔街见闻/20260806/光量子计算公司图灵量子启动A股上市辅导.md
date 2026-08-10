@@ -5,7 +5,8 @@ original_file: "信息源/华尔街见闻/光量子计算公司图灵量子启�
 source_note: "[[信息源/华尔街见闻/光量子计算公司图灵量子启动A股上市辅导]]"
 source_sha256: 8366416290c5d072c35976678fe4636146908facd20e052ad059d992b4d72eab
 original_url: "https://wallstreetcn.com/articles/3778825"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,7 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：华尔街见闻
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://wallstreetcn.com/articles/3778825)
 > - Vault 原文件：[[信息源/华尔街见闻/光量子计算公司图灵量子启动A股上市辅导|查看原始文件]]
 

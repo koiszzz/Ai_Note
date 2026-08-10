@@ -1,12 +1,12 @@
 ---
-published: 2026-08-04
 title: "哈萨克斯坦重建老虎种群 - August 4, 2026"
 source: "iDaily 每日环球视野"
 original_file: "信息源/iDaily 每日环球视野/哈萨克斯坦重建老虎种群 - August 4, 2026.md"
 source_note: "[[信息源/iDaily 每日环球视野/哈萨克斯坦重建老虎种群 - August 4, 2026]]"
 source_sha256: 293f54d9fd20c71fcf1d66c7b49ba3f2252b8f0b3e679fa2e3f143ac004a5752
 original_url: "https://m.idai.ly/se/0e64M3"
-processed: 2026-08-05
+published: 2026-08-04
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：iDaily 每日环球视野
+> - 作者：哈萨克斯坦 · 阿拉木图州
+> - 发布时间：2026-08-04
 > - 原文链接：[打开原文](https://m.idai.ly/se/0e64M3)
 > - Vault 原文件：[[信息源/iDaily 每日环球视野/哈萨克斯坦重建老虎种群 - August 4, 2026|查看原始文件]]
 

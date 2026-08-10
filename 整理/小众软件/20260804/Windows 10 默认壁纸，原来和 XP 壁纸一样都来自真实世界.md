@@ -1,12 +1,12 @@
 ---
-published: 2026-08-04
 title: "Windows 10 默认壁纸，原来和 XP 壁纸一样都来自真实世界"
 source: "小众软件"
 original_file: "信息源/小众软件/Windows 10 默认壁纸，原来和 XP 壁纸一样都来自真实世界.md"
 source_note: "[[信息源/小众软件/Windows 10 默认壁纸，原来和 XP 壁纸一样都来自真实世界]]"
 source_sha256: 3c0e290458f95b20c61412b63eeb6e1c50f64901de695c8385819df2eabed44c
 original_url: "https://www.appinn.com/windows-10-wallpaper-real-world/"
-processed: 2026-08-05
+published: 2026-08-04
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：小众软件
+> - 作者：青小蛙
+> - 发布时间：2026-08-04
 > - 原文链接：[打开原文](https://www.appinn.com/windows-10-wallpaper-real-world/)
 > - Vault 原文件：[[信息源/小众软件/Windows 10 默认壁纸，原来和 XP 壁纸一样都来自真实世界|查看原始文件]]
 

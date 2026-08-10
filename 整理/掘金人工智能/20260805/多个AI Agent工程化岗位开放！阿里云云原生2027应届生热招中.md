@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "多个AI Agent工程化岗位开放！阿里云云原生2027应届生热招中"
 source: "掘金人工智能"
 original_file: "信息源/掘金人工智能/多个AI Agent工程化岗位开放！阿里云云原生2027应届生热招中.md"
 source_note: "[[信息源/掘金人工智能/多个AI Agent工程化岗位开放！阿里云云原生2027应届生热招中]]"
 source_sha256: 2c796abbbb095dee337eeca513a50a47c75756ea1d41c58627fbc4fb6dcbdba2
 original_url: https://juejin.cn/post/7670367236265607203
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 

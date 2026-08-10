@@ -1,0 +1,12 @@
+# EvReflection: Event-Driven Micro-Dynamics for Reflection Removal
+
+> 数据源：arXiv cs.CV RSS
+> RSS：[打开源文件](https://export.arxiv.org/rss/cs.CV)
+
+> 作者：Jiaxiao Wang, Dachun Kai, Huyue Zhu, Quanquan Hu, Zhenyang Xu, Xiaoyan Sun　|　发布时间：Fri, 07 Aug 2026 00:00:00 -0400　|　分类：cs.CV　|　原文：[打开链接](https://arxiv.org/abs/2608.06184)
+
+------
+
+arXiv:2608.06184v1 Announce Type: new
+
+Abstract: Despite remarkable progress in reflection removal, current methods primarily exploit static image priors from a single frame and still suffer from severe residual artifacts due to the inherent ambiguity between the reflection and transmission layers. In this paper, we propose leveraging event signals to break this ambiguity. By employing event cameras to capture micro-dynamics, we reveal the differential motion between these two layers. We thereby present a novel event-driven reflection removal network, EvReflection, that utilizes these dynamic cues for layer separation. Specifically, we design a Micro-Dynamics Decoupler to disentangle layer-specific motions from event streams as priors, which then guide a Parallax-Attention Rectifier to cleanly remove artifacts from the RGB image. Furthermore, to address data scarcity, we develop a parallax-aware simulation pipeline and construct the EVR$^2$ benchmark dataset, the first real-world dataset for this task. Extensive experiments demonstrate that EvReflection achieves state-of-the-art performance on both synthetic and real-world benchmarks, surpassing the best competing method by more than 1.6 dB and 1.2 dB in PSNR, respectively. The code, dataset, and pre-trained models are available at https://github.com/JiaxiaoWang/EvReflection.

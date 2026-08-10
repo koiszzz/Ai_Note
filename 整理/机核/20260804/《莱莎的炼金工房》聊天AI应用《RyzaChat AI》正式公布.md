@@ -1,12 +1,12 @@
 ---
-published: 2026-08-04
 title: "《莱莎的炼金工房》聊天AI应用《RyzaChat:AI》正式公布"
 source: "机核"
 original_file: "信息源/机核/《莱莎的炼金工房》聊天AI应用《RyzaChat-AI》正式公布.md"
 source_note: "[[信息源/机核/《莱莎的炼金工房》聊天AI应用《RyzaChat-AI》正式公布]]"
 source_sha256: 5bd256ebcf48105b0a5ce53160f8d64016ab77a83c41f22f7191908976c543f1
 original_url: "https://www.gcores.com/articles/217940"
-processed: 2026-08-05
+published: 2026-08-04
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：机核
+> - 作者：Chimekuma
+> - 发布时间：2026-08-04
 > - 原文链接：[打开原文](https://www.gcores.com/articles/217940)
 > - Vault 原文件：[[信息源/机核/《莱莎的炼金工房》聊天AI应用《RyzaChat-AI》正式公布|查看原始文件]]
 

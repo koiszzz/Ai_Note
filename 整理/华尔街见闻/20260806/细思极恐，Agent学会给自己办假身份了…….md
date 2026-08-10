@@ -5,7 +5,8 @@ original_file: "信息源/华尔街见闻/细思极恐，Agent学会给自己办
 source_note: "[[信息源/华尔街见闻/细思极恐，Agent学会给自己办假身份了……]]"
 source_sha256: 24a2658845738b87afa15c04e87e86fbde388e838890462441b427539c9a84ab
 original_url: "https://wallstreetcn.com/articles/3778854"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：华尔街见闻
+> - 作者：字母AI
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://wallstreetcn.com/articles/3778854)
 > - Vault 原文件：[[信息源/华尔街见闻/细思极恐，Agent学会给自己办假身份了……|查看原始文件]]
 

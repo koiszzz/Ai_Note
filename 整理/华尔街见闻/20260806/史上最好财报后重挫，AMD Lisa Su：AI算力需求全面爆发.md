@@ -5,7 +5,8 @@ original_file: "信息源/华尔街见闻/史上最好财报后重挫，AMD Lisa
 source_note: "[[信息源/华尔街见闻/史上最好财报后重挫，AMD Lisa Su：AI算力需求全面爆发]]"
 source_sha256: 58935bca7f91c7fa07aa0aee412aa111fec97d071a0343d75b73359e036aa559
 original_url: "https://wallstreetcn.com/charts/41959530"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：华尔街见闻
+> - 作者：张硕
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://wallstreetcn.com/charts/41959530)
 > - Vault 原文件：[[信息源/华尔街见闻/史上最好财报后重挫，AMD Lisa Su：AI算力需求全面爆发|查看原始文件]]
 

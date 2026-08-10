@@ -1,12 +1,12 @@
 ---
-published: 2026-08-01
 title: "Areada – 开源、纯粹的电子书阅读器：除了看书外，没有任何功能[Android]"
 source: "小众软件"
 original_file: "信息源/小众软件/Areada – 开源、纯粹的电子书阅读器：除了看书外，没有任何功能[Android].md"
 source_note: "[[信息源/小众软件/Areada – 开源、纯粹的电子书阅读器：除了看书外，没有任何功能[Android]]]"
 source_sha256: 04649f311523671d8786a6df92d1db8959596bd2152abc6b4f3aa8213fcb8a24
 original_url: "https://www.appinn.com/areada-android-reader/"
-processed: 2026-08-05
+published: 2026-08-01
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：小众软件
+> - 作者：青小蛙
+> - 发布时间：2026-08-01
 > - 原文链接：[打开原文](https://www.appinn.com/areada-android-reader/)
 > - Vault 原文件：[[信息源/小众软件/Areada – 开源、纯粹的电子书阅读器：除了看书外，没有任何功能[Android]|查看原始文件]]
 

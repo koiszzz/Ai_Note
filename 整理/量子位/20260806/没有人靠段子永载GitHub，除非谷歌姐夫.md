@@ -5,7 +5,8 @@ original_file: "信息源/量子位/没有人靠段子永载GitHub，除非谷�
 source_note: "[[信息源/量子位/没有人靠段子永载GitHub，除非谷歌姐夫]]"
 source_sha256: 1f087aed9dffe95ffc8b160541fe3d39cc6a6bc86c2bda6dddcce231fe533961
 original_url: "https://www.qbitai.com/2026/08/467447.html"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：量子位
+> - 作者：Jay
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://www.qbitai.com/2026/08/467447.html)
 > - Vault 原文件：[[信息源/量子位/没有人靠段子永载GitHub，除非谷歌姐夫|查看原始文件]]
 

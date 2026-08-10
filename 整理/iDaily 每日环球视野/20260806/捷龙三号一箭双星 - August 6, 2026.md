@@ -5,7 +5,8 @@ original_file: "信息源/iDaily 每日环球视野/捷龙三号一箭双星 - A
 source_note: "[[信息源/iDaily 每日环球视野/捷龙三号一箭双星 - August 6, 2026]]"
 source_sha256: c7a64104fcff17ad5f69fbec6d92e5dc20114f8e0ebecbec9c2d5f72d7f4c835
 original_url: "https://m.idai.ly/se/60073N"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：iDaily 每日环球视野
+> - 作者：中国 · 海阳
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://m.idai.ly/se/60073N)
 > - Vault 原文件：[[信息源/iDaily 每日环球视野/捷龙三号一箭双星 - August 6, 2026|查看原始文件]]
 

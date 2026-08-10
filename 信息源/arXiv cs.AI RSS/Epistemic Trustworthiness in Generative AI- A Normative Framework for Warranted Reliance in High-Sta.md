@@ -1,0 +1,12 @@
+# Epistemic Trustworthiness in Generative AI: A Normative Framework for Warranted Reliance in High-Stakes Workflows
+
+> 数据源：arXiv cs.AI RSS
+> RSS：[打开源文件](https://export.arxiv.org/rss/cs.AI)
+
+> 作者：Nimisha Karnatak, Max Van Kleek, Nigel Shadbolt　|　发布时间：Fri, 07 Aug 2026 00:00:00 -0400　|　分类：cs.AI　|　原文：[打开链接](https://arxiv.org/abs/2608.05602)
+
+------
+
+arXiv:2608.05602v1 Announce Type: new
+
+Abstract: Generative AI systems are increasingly deployed in high-stakes professional contexts, where their outputs shape what users believe, how they reason, and what they treat as settled. This raises a central question for responsible AI: under what conditions is reliance on generative AI outputs epistemically warranted rather than behaviourally induced? Existing frameworks largely ask whether AI outputs are accurate, fair, explainable, safe, or trusted by users. These questions remain necessary, and each can contribute to warranted reliance. However, they do not directly specify warranted reliance as a distinct evaluative target: the conditions under which users are justified in treating AI outputs as inputs into their own reasoning. We argue that this requires an account of epistemic trustworthiness: what makes a system epistemically worthy of reliance. Drawing on philosophical accounts of trustworthiness as competence and audience-orientation, we develop a constitutive normative framework comprising three jointly necessary and non-fungible conditions. First, epistemic humility requires systems to represent and communicate the limits of their competence. Second, epistemic access requires systems to enable users to inspect, question, and contest outputs in context. Third, resistance to epistemic injustice requires systems to recognise users as legitimate epistemic agents and avoid marginalising their knowledge and experience. Through real-world case analyses in legal reasoning, medical reasoning, and hiring, we show how failures of epistemic humility, epistemic access, and resistance to epistemic injustice can produce consequential harms that standard measures of accuracy, fairness, and usability do not address on their own. We conclude by outlining design and evaluation implications for GenAI systems organised around epistemically warranted reliance rather than output correctness alone.

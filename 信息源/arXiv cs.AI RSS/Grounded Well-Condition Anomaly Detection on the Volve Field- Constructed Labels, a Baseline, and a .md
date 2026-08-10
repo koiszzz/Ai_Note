@@ -1,0 +1,12 @@
+# Grounded Well-Condition Anomaly Detection on the Volve Field: Constructed Labels, a Baseline, and a Dual-Head Model
+
+> 数据源：arXiv cs.AI RSS
+> RSS：[打开源文件](https://export.arxiv.org/rss/cs.AI)
+
+> 作者：Gospel Bassey, Vincent Fakiyesi　|　发布时间：Fri, 07 Aug 2026 00:00:00 -0400　|　分类：cs.AI　|　原文：[打开链接](https://arxiv.org/abs/2608.05685)
+
+------
+
+arXiv:2608.05685v1 Announce Type: new
+
+Abstract: Most public benchmarks for machine-condition monitoring come from test rigs, where faults are induced on purpose and every event is known. Real production fields rarely offer that. They give you sensor histories with no fault log attached, which is exactly the situation where an anomaly-detection method has to invent its own labels, and where quiet assumptions can slip in unnoticed. We work with the open Volve field data released by Equinor and take two things seriously that such datasets usually skip. First, we build anomaly labels that are not just patterns in the numbers but are checked against what the field's own engineering documents say can physically go wrong, and we release the reasoning behind every label. Second, we test whether those constructed labels are learnable at all, using both an unsupervised baseline and a small dual-head model that marks when an event happens and what kind it is, an idea we carry over from earlier work on defect detection in metal parts. The results are honest. An unsupervised detector that never sees the labels still lands on the same regions our rules flagged, which tells us the labels are not arbitrary. A compact supervised model recovers event presence and event type well across wells it has never seen, and locates events in time only roughly. We report what worked, what did not, and every assumption in between. The dataset, grounded labels, per-label provenance, baseline scores, trained model, and code are released publicly under CC-BY-NC-SA 4.0.

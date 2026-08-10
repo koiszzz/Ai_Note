@@ -1,12 +1,12 @@
 ---
-published: 2026-07-09
 title: "Google Cloud 陪伴台灣企業從實驗走向實戰，賦能企業邁向代理式企業新時代"
 source: "Google Blog Feed"
 original_file: "信息源/Google Blog Feed/Google Cloud 陪伴台灣企業從實驗走向實戰，賦能企業邁向代理式企業新時代.md"
 source_note: "[[信息源/Google Blog Feed/Google Cloud 陪伴台灣企業從實驗走向實戰，賦能企業邁向代理式企業新時代]]"
 source_sha256: 6fdb7f4ef0ced53fea37041ccdec18429029101591da51fb530d1630e8578427
 original_url: "https://blog.google/intl/zh-tw/products/cloud/google-cloud-day-taipei/"
-processed: 2026-08-05
+published: 2026-07-09
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：Google Blog Feed
+> - 作者：林書平 Google Cloud 台灣技術總經理　|　组织：Google
+> - 发布时间：2026-07-09
 > - 原文链接：[打开原文](https://blog.google/intl/zh-tw/products/cloud/google-cloud-day-taipei/)
 > - Vault 原文件：[[信息源/Google Blog Feed/Google Cloud 陪伴台灣企業從實驗走向實戰，賦能企業邁向代理式企業新時代|查看原始文件]]
 

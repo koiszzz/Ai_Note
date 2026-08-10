@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "下班前接到急活？我用 TRAE Work 20 分钟搞定了一套完整页面原型"
 source: "掘金人工智能"
 original_file: "信息源/掘金人工智能/下班前接到急活？我用 TRAE Work 20 分钟搞定了一套完整页面原型.md"
 source_note: "[[信息源/掘金人工智能/下班前接到急活？我用 TRAE Work 20 分钟搞定了一套完整页面原型]]"
 source_sha256: 0478bb9f2d2b5e15b285d89a08a49be1a3474ac43e73196619fd1f6b3fa332a1
 original_url: https://juejin.cn/post/7670368460741296137
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 

@@ -5,7 +5,8 @@ original_file: "信息源/虎嗅/没有工厂的if椰子水，一年市值蒸发
 source_note: "[[信息源/虎嗅/没有工厂的if椰子水，一年市值蒸发近九成]]"
 source_sha256: 43c7799449e71a259fa7130202840f269c9277c65b7d9e15129188b1e08416cf
 original_url: "https://www.huxiu.com/article/4881069.html?f=rss"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：虎嗅
+> - 作者：红餐网
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://www.huxiu.com/article/4881069.html?f=rss)
 > - Vault 原文件：[[信息源/虎嗅/没有工厂的if椰子水，一年市值蒸发近九成|查看原始文件]]
 

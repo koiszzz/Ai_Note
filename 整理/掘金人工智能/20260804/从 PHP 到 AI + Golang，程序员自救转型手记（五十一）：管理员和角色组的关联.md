@@ -1,12 +1,12 @@
 ---
-published: 2026-08-04
 title: "从 PHP 到 AI + Golang，程序员自救转型手记（五十一）：管理员和角色组的关联"
 source: "掘金人工智能"
 original_file: "信息源/掘金人工智能/从 PHP 到 AI + Golang，程序员自救转型手记（五十一）：管理员和角色组的关联.md"
 source_note: "[[信息源/掘金人工智能/从 PHP 到 AI + Golang，程序员自救转型手记（五十一）：管理员和角色组的关联]]"
 source_sha256: 640fcec00fdcb6ac8317772f2a066c902c2db67df39ac5489642a50f359bcf2a
 original_url: https://juejin.cn/post/7669993495222517770
-processed: 2026-08-06
+published: 2026-08-04
+processed: 2026-08-10
 language: zh-CN
 ---
 

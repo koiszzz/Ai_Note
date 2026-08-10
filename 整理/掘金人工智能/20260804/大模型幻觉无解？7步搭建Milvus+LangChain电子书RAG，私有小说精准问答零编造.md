@@ -1,12 +1,12 @@
 ---
-published: 2026-08-04
 title: "大模型幻觉无解？7步搭建Milvus+LangChain电子书RAG，私有小说精准问答零编造"
 source: "掘金人工智能"
 original_file: "信息源/掘金人工智能/大模型幻觉无解？7步搭建Milvus+LangChain电子书RAG，私有小说精准问答零编造.md"
 source_note: "[[信息源/掘金人工智能/大模型幻觉无解？7步搭建Milvus+LangChain电子书RAG，私有小说精准问答零编造]]"
 source_sha256: 1fc2726cb0a18b6d3febc8a7aeca1bf0cd25450da8211956528909c3c6d5bd78
 original_url: https://juejin.cn/post/7669993495223468042
-processed: 2026-08-05
+published: 2026-08-04
+processed: 2026-08-10
 language: zh-CN
 ---
 

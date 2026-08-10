@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "从图片生成任务到用户隔离：AIGC Creative Studio 后端与 PostgreSQL 建模实践"
 source: "掘金人工智能"
 original_file: "信息源/掘金人工智能/从图片生成任务到用户隔离：AIGC Creative Studio 后端与 PostgreSQL 建模实践.md"
 source_note: "[[信息源/掘金人工智能/从图片生成任务到用户隔离：AIGC Creative Studio 后端与 PostgreSQL 建模实践]]"
 source_sha256: 77f4268b95aa4671fe465ac80c2b9d91cffb52299dbc5b2684c448628b85abdd
 original_url: https://juejin.cn/post/7670094721702576168
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 

@@ -5,7 +5,8 @@ original_file: "信息源/iDaily 每日环球视野/美国就业数据低于预�
 source_note: "[[信息源/iDaily 每日环球视野/美国就业数据低于预期 - August 6, 2026]]"
 source_sha256: c58c3afaf8224bb30ce7ff57d003037ad4682ca9ebe87b924b29fdfbecd8b2ab
 original_url: "https://m.idai.ly/se/0b4572"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：iDaily 每日环球视野
+> - 作者：美国 · 拉斯维加斯
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://m.idai.ly/se/0b4572)
 > - Vault 原文件：[[信息源/iDaily 每日环球视野/美国就业数据低于预期 - August 6, 2026|查看原始文件]]
 

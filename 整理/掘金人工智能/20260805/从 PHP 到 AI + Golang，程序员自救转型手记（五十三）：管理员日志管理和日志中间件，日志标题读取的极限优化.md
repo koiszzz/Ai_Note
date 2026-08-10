@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "从 PHP 到 AI + Golang，程序员自救转型手记（五十三）：管理员日志管理和日志中间件，日志标题读取的极限优化"
 source: "掘金人工智能"
 original_file: "信息源/掘金人工智能/从 PHP 到 AI + Golang，程序员自救转型手记（五十三）：管理员日志管理和日志中间件，日志标题读取的极限优化.md"
 source_note: "[[信息源/掘金人工智能/从 PHP 到 AI + Golang，程序员自救转型手记（五十三）：管理员日志管理和日志中间件，日志标题读取的极限优化]]"
 source_sha256: c0a19012dd82e7ab8ee7a18d4d7167b4df5aea03bfaa78bcaf6d27962da8183a
 original_url: https://juejin.cn/post/7670016345689767987
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 

@@ -1,12 +1,12 @@
 ---
-published: 2026-08-04
 title: "高市早苗视察地震灾区 - August 4, 2026"
 source: "iDaily 每日环球视野"
 original_file: "信息源/iDaily 每日环球视野/高市早苗视察地震灾区 - August 4, 2026.md"
 source_note: "[[信息源/iDaily 每日环球视野/高市早苗视察地震灾区 - August 4, 2026]]"
 source_sha256: d0896b81d676a00aeeafccfe9e344e07a7cdb3a5b0ca00bf68a4b728f4b32dc3
 original_url: "https://m.idai.ly/se/359tA4"
-processed: 2026-08-05
+published: 2026-08-04
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：iDaily 每日环球视野
+> - 作者：日本 · 熊本县
+> - 发布时间：2026-08-04
 > - 原文链接：[打开原文](https://m.idai.ly/se/359tA4)
 > - Vault 原文件：[[信息源/iDaily 每日环球视野/高市早苗视察地震灾区 - August 4, 2026|查看原始文件]]
 

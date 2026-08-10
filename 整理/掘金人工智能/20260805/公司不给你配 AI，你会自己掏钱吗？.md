@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "公司不给你配 AI，你会自己掏钱吗？"
 source: "掘金人工智能"
 original_file: "信息源/掘金人工智能/公司不给你配 AI，你会自己掏钱吗？.md"
 source_note: "[[信息源/掘金人工智能/公司不给你配 AI，你会自己掏钱吗？]]"
 source_sha256: fc6459b38a91053d1f41940ce4b6f476c0d351df8191728f0254094e12613339
 original_url: https://juejin.cn/post/7670011027535921202
-processed: 2026-08-06
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 

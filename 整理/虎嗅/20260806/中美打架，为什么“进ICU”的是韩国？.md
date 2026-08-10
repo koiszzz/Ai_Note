@@ -5,7 +5,8 @@ original_file: "信息源/虎嗅/中美打架，为什么“进ICU”的是韩�
 source_note: "[[信息源/虎嗅/中美打架，为什么“进ICU”的是韩国？]]"
 source_sha256: 86ef6a1d36508ecf5aabdc1eb9f190d423b3f71854100d2a2f27eedba5754b4e
 original_url: "https://www.huxiu.com/article/4880953.html?f=rss"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：虎嗅
+> - 作者：大湾区评论©
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://www.huxiu.com/article/4880953.html?f=rss)
 > - Vault 原文件：[[信息源/虎嗅/中美打架，为什么“进ICU”的是韩国？|查看原始文件]]
 

@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "GitHub Trending 榜首｜腾讯 Agent 记忆库技术拆解：分层记忆 vs 向量堆，让 AI 不再反复问"
 source: "掘金人工智能"
 original_file: "信息源/掘金人工智能/GitHub Trending 榜首｜腾讯 Agent 记忆库技术拆解：分层记忆 vs 向量堆，让 AI 不再反复问.md"
 source_note: "[[信息源/掘金人工智能/GitHub Trending 榜首｜腾讯 Agent 记忆库技术拆解：分层记忆 vs 向量堆，让 AI 不再反复问]]"
 source_sha256: fc6b59d9db32cf5c834dcdb3f6c901692c166c1ce17e9dc590f429acf263bc92
 original_url: https://juejin.cn/post/7670369216241074202
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 

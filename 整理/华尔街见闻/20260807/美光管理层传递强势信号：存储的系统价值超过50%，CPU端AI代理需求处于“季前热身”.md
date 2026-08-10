@@ -1,12 +1,12 @@
 ---
-published: 2026-08-07
 title: "美光管理层传递强势信号：存储的系统价值超过50%，CPU端AI代理需求处于“季前热身”"
 source: "华尔街见闻"
 original_file: "信息源/华尔街见闻/美光管理层传递强势信号：存储的系统价值超过50%，CPU端AI代理需求处于“季前热身”.md"
 source_note: "[[信息源/华尔街见闻/美光管理层传递强势信号：存储的系统价值超过50%，CPU端AI代理需求处于“季前热身”]]"
 source_sha256: f734bee150457a8a6f480da0997a8735668e50c542ff8ff8460c262f8040dc55
 original_url: "https://wallstreetcn.com/articles/3778904"
-processed: 2026-08-07
+published: 2026-08-07
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -20,10 +20,7 @@ language: zh-CN
 
 ## 摘要
 
-- 8月6日德意志银行在FMS 2026闪存峰会期间与美光管理层深度会晤（与会者包括核心数据中心业务高级副总裁兼总经理Jeremy Werner、投资者关系与财务副总裁Satya Kumar），会后德银Melissa Weathers发研报称AI正将内存行业永久重塑为系统架构的核心价值所在。
-- 供需格局结构性偏紧：DRAM与NAND均处于相对需求的供给短缺状态，战略客户协议（SCAs）预计将覆盖约40%的销售量，平抑价格波动。
-- 存储器在整体系统价值中的占比已从约三十年前的10%攀升至如今的近50%；美光采取跨存储层级方案（HBM承担热路径、SOCAMM2处理KV溢出、去中心化DDR5资源池覆盖长尾）。
-- 超大规模云厂商CPU侧历史投入不足正在被提上日程，但智能体资源采用进程仍处"赛季前热身"阶段；德银认为SRAM只能作为片上方案，对HBM格局暂无颠覆性冲击，维持美光买入评级。
+- 原始来源为中文 RSS/网页条目，以下正文保留原文信息并统一排版。
 
 ## 正文
 
@@ -35,7 +32,11 @@ language: zh-CN
 
 <p style="text-align: left;">她认为，<strong>美光凭借从HBM到存储的全栈技术领先优势，叠加严格的执行纪律，具备在不牺牲盈利能力的前提下实现增长的"奢侈条件"，有望驱动强劲的盈利预测上修与估值重塑</strong>。</p>
 
+<div data-testid="stHeadingWithActionElements">
+
 <h2 id="c4a4d5bb">供需格局结构性偏紧，合约机制平抑波动</h2>
+
+</div>
 
 <p>美光科技管理层在会议上强调，DRAM与NAND目前均处于相对需求的供给短缺状态。AI趋势的兴起以及更高的存储与算力比例，使得本轮失衡程度较历史周期更为显著。</p>
 
@@ -45,9 +46,13 @@ language: zh-CN
 
 <p><strong>在供给管控层面，管理层透露，战略客户协议（SCAs）预计将覆盖约40%的销售量。</strong>这类协议以承诺持续时间和供货量为对价，换取价格上下限的约定，有助于双方改善排产规划，并在行业层面降低短缺冲击的烈度。</p>
 
-<p><strong>德银认为，上述结构性特征使当前存储周期的供需约束程度超越历史规律，与管理层判断一致，对存储周期整体保持"非常积极"的态度。</strong></p>
+<p><strong>&nbsp;德银认为，上述结构性特征使当前存储周期的供需约束程度超越历史规律，与管理层判断一致，对存储周期整体保持"非常积极"的态度。</strong></p>
+
+<div data-testid="stHeadingWithActionElements">
 
 <h2 id="ai">存储器系统价值占比被低估，AI加速重估进程</h2>
+
+</div>
 
 <p><strong>报告援引美光管理层观点指出，存储器在整体系统价值中的占比已从约三十年前的10%攀升至如今的近50%，而AI的发展正在加速这一多十年来的重估进程。</strong></p>
 
@@ -65,7 +70,11 @@ language: zh-CN
 
 <p><strong>德银将CPU需求的兴起视为AI驱动存储需求的"增量支柱"，认为这一趋势为美光打开了超越GPU生态的新增量空间。</strong></p>
 
+<div data-testid="stHeadingWithActionElements">
+
 <h2 id="efa3cbda">新兴存储方案受关注，替代性竞争威胁有限</h2>
+
+</div>
 
 <p>在FMS 2026行业会议背景下，投资者对有望突破"存储墙"的颠覆性存储技术给予较高关注。</p>
 
@@ -77,7 +86,11 @@ language: zh-CN
 
 <p><strong>德银认为，SRAM更多代表存储层级中的一个新兴细分层，对现有HBM格局暂时未造成颠覆性冲击，对美光核心存储业务构成的竞争威胁有限。</strong></p>
 
+<div data-testid="stHeadingWithActionElements">
+
 <h2 id="11f25fa0">德意志银行：美光兼具增长与盈利优势，重申买入</h2>
+
+</div>
 
 <p>综合上述判断，德意志银行维持对美光科技的买入评级。</p>
 
@@ -87,6 +100,20 @@ language: zh-CN
 
 <p>值得注意的是，德意志银行及其关联方可能在美光科技发行的金融工具中担任做市商或流动性提供方，过去一年内也曾从该公司获得非投资银行业务相关服务的报酬，投资者在参考上述研究结论时应充分考量相关利益冲突。</p>
 
+<p class="shield-text">~~~~~~~~~~~~~~~~~~~~~~~~</p>
+
+<p class="shield-text">以上精彩内容来自<a href="https://mp.weixin.qq.com/s/uua05g5qk-N2J7h91pyqxQ" target="_blank" rel="noopener">追风交易台</a>。</p>
+
+<p class="shield-text">更详细的解读，包括实时解读、一线研究等内容，请加入【<a href="https://wallstreetcn.com/shop/item/1000309" target="_blank" rel="noopener"><strong><span style="color: #1482f0;">追风交易台▪年度会员</span></strong></a>】</p>
+
+<p class="shield-text"><a href="https://wallstreetcn.com/shop/item/1000309" target="_blank" rel="noopener"><img class="wscnph" src="https://wpimg-wscn.awtmt.com/3c4a713c-7a38-4582-9850-d0eabaf0e7ad.png" data-wscntype="image" data-wscnh="3130" data-wscnw="1080" data-wscnsize="1463814" referrerpolicy="no-referrer"></a></p><div style="color: #666; margin-bottom: 15px;">风险提示及免责条款</div>
+
+<div style="font-size: 12px;font-family: 黑体;color: #666;line-height: 20px;">
+
+市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。
+
+</div>
+
 ## 关键词
 
-#美光 #存储 #HBM #DRAM #NAND #德意志银行 #AI服务器
+#华尔街见闻

@@ -5,7 +5,8 @@ original_file: "信息源/虎嗅/谷歌AI大换血：当科学家退场，产品
 source_note: "[[信息源/虎嗅/谷歌AI大换血：当科学家退场，产品经理能否打赢这场硬仗？]]"
 source_sha256: 24e45807b27bef8b8464d749c1c22541b0f3e668fec0ba195b0a64e32cc2d0bb
 original_url: "https://www.huxiu.com/article/4881169.html?f=rss"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：虎嗅
+> - 作者：AI商业评论
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://www.huxiu.com/article/4881169.html?f=rss)
 > - Vault 原文件：[[信息源/虎嗅/谷歌AI大换血：当科学家退场，产品经理能否打赢这场硬仗？|查看原始文件]]
 

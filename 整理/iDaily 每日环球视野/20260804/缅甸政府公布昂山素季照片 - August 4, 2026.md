@@ -1,12 +1,12 @@
 ---
-published: 2026-08-04
 title: "缅甸政府公布昂山素季照片 - August 4, 2026"
 source: "iDaily 每日环球视野"
 original_file: "信息源/iDaily 每日环球视野/缅甸政府公布昂山素季照片 - August 4, 2026.md"
 source_note: "[[信息源/iDaily 每日环球视野/缅甸政府公布昂山素季照片 - August 4, 2026]]"
 source_sha256: 5e02ba0de09fac780dc399a6afae8b9b80921735f310511cd6e2e8bf7a133128
 original_url: "https://m.idai.ly/se/2d5aO9"
-processed: 2026-08-05
+published: 2026-08-04
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：iDaily 每日环球视野
+> - 作者：缅甸 · 内比都
+> - 发布时间：2026-08-04
 > - 原文链接：[打开原文](https://m.idai.ly/se/2d5aO9)
 > - Vault 原文件：[[信息源/iDaily 每日环球视野/缅甸政府公布昂山素季照片 - August 4, 2026|查看原始文件]]
 

@@ -1,12 +1,12 @@
 ---
-published: 2026-08-04
 title: "巴西总统卢拉宣布竞选 - August 4, 2026"
 source: "iDaily 每日环球视野"
 original_file: "信息源/iDaily 每日环球视野/巴西总统卢拉宣布竞选 - August 4, 2026.md"
 source_note: "[[信息源/iDaily 每日环球视野/巴西总统卢拉宣布竞选 - August 4, 2026]]"
 source_sha256: 8810785a9848b76d87617bc9b628f43c3ebe043e2bf8e77680d958cfbbcafd7b
 original_url: "https://m.idai.ly/se/9e9ngm"
-processed: 2026-08-05
+published: 2026-08-04
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：iDaily 每日环球视野
+> - 作者：巴西 · 圣保罗
+> - 发布时间：2026-08-04
 > - 原文链接：[打开原文](https://m.idai.ly/se/9e9ngm)
 > - Vault 原文件：[[信息源/iDaily 每日环球视野/巴西总统卢拉宣布竞选 - August 4, 2026|查看原始文件]]
 

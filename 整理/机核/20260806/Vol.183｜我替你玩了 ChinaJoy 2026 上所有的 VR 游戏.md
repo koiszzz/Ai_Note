@@ -5,7 +5,8 @@ original_file: "信息源/机核/Vol.183｜我替你玩了 ChinaJoy 2026 上所�
 source_note: "[[信息源/机核/Vol.183｜我替你玩了 ChinaJoy 2026 上所有的 VR 游戏]]"
 source_sha256: da2aaf4721683866ba3e07b0cf64595bde7e634149678cd8812fb080eff4e16c
 original_url: "https://www.gcores.com/radios/218030"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：机核
+> - 作者：VRplay
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://www.gcores.com/radios/218030)
 > - Vault 原文件：[[信息源/机核/Vol.183｜我替你玩了 ChinaJoy 2026 上所有的 VR 游戏|查看原始文件]]
 

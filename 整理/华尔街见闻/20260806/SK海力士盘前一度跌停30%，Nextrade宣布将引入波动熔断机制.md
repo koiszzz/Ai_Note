@@ -5,7 +5,8 @@ original_file: "信息源/华尔街见闻/SK海力士盘前一度跌停30%，Nex
 source_note: "[[信息源/华尔街见闻/SK海力士盘前一度跌停30%，Nextrade宣布将引入波动熔断机制]]"
 source_sha256: 435f95d2a963b95fcb4b67d4de7efc6e1398be2ed499b5ff7efff50fa4525301
 original_url: "https://wallstreetcn.com/articles/3778803"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,7 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：华尔街见闻
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://wallstreetcn.com/articles/3778803)
 > - Vault 原文件：[[信息源/华尔街见闻/SK海力士盘前一度跌停30%，Nextrade宣布将引入波动熔断机制|查看原始文件]]
 

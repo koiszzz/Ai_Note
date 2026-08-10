@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "中国7月RatingDog服务业PMI 50.4，前值 54.1"
 source: "华尔街见闻"
 original_file: "信息源/华尔街见闻/中国7月RatingDog服务业PMI 50.4，前值 54.1.md"
 source_note: "[[信息源/华尔街见闻/中国7月RatingDog服务业PMI 50.4，前值 54.1]]"
 source_sha256: 69203bb62098672c4671128b00beaf6464b1c1498fc4b712056387185c98c850
 original_url: "https://wallstreetcn.com/articles/3778713"
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,7 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：华尔街见闻
+> - 发布时间：2026-08-05
 > - 原文链接：[打开原文](https://wallstreetcn.com/articles/3778713)
 > - Vault 原文件：[[信息源/华尔街见闻/中国7月RatingDog服务业PMI 50.4，前值 54.1|查看原始文件]]
 

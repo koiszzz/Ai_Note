@@ -1,12 +1,12 @@
 ---
-published: 2026-08-03
 title: "上野动物园准备拆除熊猫馆 - August 3, 2026"
 source: "iDaily 每日环球视野"
 original_file: "信息源/iDaily 每日环球视野/上野动物园准备拆除熊猫馆 - August 3, 2026.md"
 source_note: "[[信息源/iDaily 每日环球视野/上野动物园准备拆除熊猫馆 - August 3, 2026]]"
 source_sha256: 4c819d6bbde7cdc0ca15803288d016e9e7ebe0a8f634ea9b1cd27701c82c6a1c
 original_url: "https://m.idai.ly/se/940q8F"
-processed: 2026-08-05
+published: 2026-08-03
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：iDaily 每日环球视野
+> - 作者：日本 · 东京
+> - 发布时间：2026-08-03
 > - 原文链接：[打开原文](https://m.idai.ly/se/940q8F)
 > - Vault 原文件：[[信息源/iDaily 每日环球视野/上野动物园准备拆除熊猫馆 - August 3, 2026|查看原始文件]]
 

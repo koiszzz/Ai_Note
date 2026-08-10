@@ -5,7 +5,8 @@ original_file: "信息源/虎嗅/一秒两块钱，AI视频贵到普通人用不
 source_note: "[[信息源/虎嗅/一秒两块钱，AI视频贵到普通人用不起？]]"
 source_sha256: 6a2e6cee9f5e20b0568935ba9535914cabc3d2087dfceb56a2cbcedb0ef4684d
 original_url: "https://www.huxiu.com/article/4881035.html?f=rss"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：虎嗅
+> - 作者：光锥智能
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://www.huxiu.com/article/4881035.html?f=rss)
 > - Vault 原文件：[[信息源/虎嗅/一秒两块钱，AI视频贵到普通人用不起？|查看原始文件]]
 

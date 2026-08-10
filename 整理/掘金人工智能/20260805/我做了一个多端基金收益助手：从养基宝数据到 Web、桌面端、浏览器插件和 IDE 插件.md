@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "我做了一个多端基金收益助手：从养基宝数据到 Web、桌面端、浏览器插件和 IDE 插件"
 source: "掘金人工智能"
 original_file: "信息源/掘金人工智能/我做了一个多端基金收益助手：从养基宝数据到 Web、桌面端、浏览器插件和 IDE 插件.md"
 source_note: "[[信息源/掘金人工智能/我做了一个多端基金收益助手：从养基宝数据到 Web、桌面端、浏览器插件和 IDE 插件]]"
 source_sha256: 03d292fb0c4a794ac4d25dad0fcd5c6751266f862c8cd410a59467b44d77e9a3
-original_url: "https://juejin.cn/post/7670373575253934122"
-processed: 2026-08-06
+original_url: https://juejin.cn/post/7670373575253934122
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -31,4 +31,4 @@ language: zh-CN
 
 ## 关键词
 
-#人工智能 #掘金人工智能 #仅标题
+#人工智能 #掘金 #仅标题

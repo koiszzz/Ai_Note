@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "如何在Windows环境选择适合自己的 AI Agent"
 source: "掘金人工智能"
 original_file: "信息源/掘金人工智能/如何在Windows环境选择适合自己的 AI Agent.md"
 source_note: "[[信息源/掘金人工智能/如何在Windows环境选择适合自己的 AI Agent]]"
 source_sha256: aa53b615719af1438399cc3b7caf37657373c2373cf2b2cf1a341d1fdd8cf7d1
 original_url: https://juejin.cn/post/7670366276666802228
-processed: 2026-08-06
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 

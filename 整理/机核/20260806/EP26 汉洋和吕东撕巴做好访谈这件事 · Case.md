@@ -5,7 +5,8 @@ original_file: "信息源/机核/EP26 汉洋和吕东撕巴做好访谈这件事
 source_note: "[[信息源/机核/EP26 汉洋和吕东撕巴做好访谈这件事 · Case]]"
 source_sha256: 457fa5d61ac50db5c3972ba922a304c43b1e06bcf917cdfe2f56606f8f88c329
 original_url: "https://www.gcores.com/radios/218032"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：机核
+> - 作者：这样重这样轻,MasterPa
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://www.gcores.com/radios/218032)
 > - Vault 原文件：[[信息源/机核/EP26 汉洋和吕东撕巴做好访谈这件事 · Case|查看原始文件]]
 

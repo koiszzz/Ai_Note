@@ -5,7 +5,8 @@ original_file: "信息源/虎嗅/从OpenAI到Meta的连续“失控”：当AI�
 source_note: "[[信息源/虎嗅/从OpenAI到Meta的连续“失控”：当AI评测本身成为风险源]]"
 source_sha256: 450e738f93ccd7f9a0e1a1522643311a21e1418838e73b45e6ca4fdb3def1017
 original_url: "https://www.huxiu.com/article/4881204.html?f=rss"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：虎嗅
+> - 作者：互联网法律评论
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://www.huxiu.com/article/4881204.html?f=rss)
 > - Vault 原文件：[[信息源/虎嗅/从OpenAI到Meta的连续“失控”：当AI评测本身成为风险源|查看原始文件]]
 

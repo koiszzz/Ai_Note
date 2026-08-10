@@ -1,12 +1,12 @@
 ---
-published: 2026-08-07
 title: "他预言AI将毁灭人类，却仍在全力建造它——Anthropic掌门人的矛盾与崛起"
 source: "华尔街见闻"
 original_file: "信息源/华尔街见闻/他预言AI将毁灭人类，却仍在全力建造它——Anthropic掌门人的矛盾与崛起.md"
 source_note: "[[信息源/华尔街见闻/他预言AI将毁灭人类，却仍在全力建造它——Anthropic掌门人的矛盾与崛起]]"
 source_sha256: 2f7779fbd17f99e90cfc91d35a3509d10dd411a36d1ac206f76b663b113168eb
 original_url: "https://wallstreetcn.com/articles/3778907"
-processed: 2026-08-07
+published: 2026-08-07
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -20,10 +20,7 @@ language: zh-CN
 
 ## 摘要
 
-- Anthropic创始人Dario Amodei是预言AI末日风险的核心人物，却创办了最接近AGI前沿的公司，估值逼近9650亿美元，三年涨幅逾200倍。
-- 他2016年加入OpenAI担任安全负责人，因与Sam Altman的根本分歧于2020年底出走创立Anthropic，创始团队被形容为"末日祭司团"。
-- 随着竞争加剧，Anthropic在安全原则上有让步：撤回无条件安全承诺、接受卡塔尔和阿联酋投资、向马斯克的SpaceX支付每月逾10亿美元算力费；据The Information报道，公司最快将于今年9月上市。
-- 投资者担忧的核心矛盾：Amodei究竟是Anthropic最深的护城河，还是它最大的隐患？
+- 原始来源为中文 RSS/网页条目，以下正文保留原文信息并统一排版。
 
 ## 正文
 
@@ -31,13 +28,13 @@ language: zh-CN
 
 <p>但Anthropic一位主要投资人私下给Dario Amodei的评价是：他更像一个宗教领袖，而不是CEO。</p>
 
-<p>Anthropic作为Claude背后的AI巨头，估值逼近万亿美元，营收增长速度让整个行业侧目。可它的核心叙事，却不是"我们要让AI帮人类写代码、做药、赚钱"，而是"我们必须防止自己正在创造的东西毁掉人类"。</p>
+<p>Anthropic作为Claude背后的AI巨头，估值逼近万亿美元，营收增长速度让整个行业侧目。可它的核心叙事，却不是“我们要让AI帮人类写代码、做药、赚钱”，而是“我们必须防止自己正在创造的东西毁掉人类”。</p>
 
 <p>一个相信末日风险的人，创办了一家最接近AGI前沿的公司；一个不断警告AI危险的人，正在把更强大的AI推向全球市场。</p>
 
 <p>这就是Dario Amodei的悖论，也是Anthropic即将面对公开市场时最大的矛盾。</p>
 
-<h2>出走：一个"末日祭司团"的诞生</h2>
+<h2>出走：一个“末日祭司团”的诞生</h2>
 
 <p>要理解Amodei今天的样子，必须回到他在OpenAI的那些年。</p>
 
@@ -113,8 +110,14 @@ language: zh-CN
 
 <p>这个逻辑自洽吗？也许。危险吗？肯定。</p>
 
-<p>对于即将买入Anthropic股票的投资者而言，他们需要做出的判断，不只是这家公司能否继续增长，而是一个更根本的问题——<strong>这个矛盾，究竟是Anthropic最深的护城河，还是它最大的隐患？</strong></p>
+<p>对于即将买入Anthropic股票的投资者而言，他们需要做出的判断，不只是这家公司能否继续增长，而是一个更根本的问题——<strong>这个矛盾，究竟是Anthropic最深的护城河，还是它最大的隐患？</strong></p><div style="color: #666; margin-bottom: 15px;">风险提示及免责条款</div>
+
+<div style="font-size: 12px;font-family: 黑体;color: #666;line-height: 20px;">
+
+市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。
+
+</div>
 
 ## 关键词
 
-#Anthropic #AI安全 #DarioAmodei #IPO #Claude #OpenAI
+#华尔街见闻

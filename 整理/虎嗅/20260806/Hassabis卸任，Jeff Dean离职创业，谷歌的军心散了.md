@@ -5,7 +5,8 @@ original_file: "信息源/虎嗅/Hassabis卸任，Jeff Dean离职创业，谷歌
 source_note: "[[信息源/虎嗅/Hassabis卸任，Jeff Dean离职创业，谷歌的军心散了]]"
 source_sha256: 9a47f82e4adc8100960131b11a28d6c1344d2b23c031e2f9a6df42c653b35d7c
 original_url: "https://www.huxiu.com/article/4881012.html?f=rss"
-processed: 2026-08-06
+published: 2026-08-06
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -13,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：虎嗅
+> - 作者：动察Beating©
+> - 发布时间：2026-08-06
 > - 原文链接：[打开原文](https://www.huxiu.com/article/4881012.html?f=rss)
 > - Vault 原文件：[[信息源/虎嗅/Hassabis卸任，Jeff Dean离职创业，谷歌的军心散了|查看原始文件]]
 

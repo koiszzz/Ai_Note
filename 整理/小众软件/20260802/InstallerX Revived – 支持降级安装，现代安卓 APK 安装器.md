@@ -1,12 +1,12 @@
 ---
-published: 2026-08-02
 title: "InstallerX Revived – 支持降级安装，现代安卓 APK 安装器"
 source: "小众软件"
 original_file: "信息源/小众软件/InstallerX Revived – 支持降级安装，现代安卓 APK 安装器.md"
 source_note: "[[信息源/小众软件/InstallerX Revived – 支持降级安装，现代安卓 APK 安装器]]"
 source_sha256: 2ca2baa926e9f9c3298ee3791910da64d3f381969977fdee21255a4b00474e82
 original_url: "https://www.appinn.com/installerx-revived/"
-processed: 2026-08-05
+published: 2026-08-02
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：小众软件
+> - 作者：青小蛙
+> - 发布时间：2026-08-02
 > - 原文链接：[打开原文](https://www.appinn.com/installerx-revived/)
 > - Vault 原文件：[[信息源/小众软件/InstallerX Revived – 支持降级安装，现代安卓 APK 安装器|查看原始文件]]
 

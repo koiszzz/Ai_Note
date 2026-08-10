@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "TaaS：如何理解开源模型Token优化与算力工厂收入分成的新模式？"
 source: "华尔街见闻"
 original_file: "信息源/华尔街见闻/TaaS：如何理解开源模型Token优化与算力工厂收入分成的新模式？.md"
 source_note: "[[信息源/华尔街见闻/TaaS：如何理解开源模型Token优化与算力工厂收入分成的新模式？]]"
 source_sha256: 3de0f29695e543470d9c5bb1d2a83a29e212635955a18532c0974e250b023586
 original_url: "https://wallstreetcn.com/member/articles/3778430"
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,7 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：华尔街见闻
+> - 发布时间：2026-08-05
 > - 原文链接：[打开原文](https://wallstreetcn.com/member/articles/3778430)
 > - Vault 原文件：[[信息源/华尔街见闻/TaaS：如何理解开源模型Token优化与算力工厂收入分成的新模式？|查看原始文件]]
 

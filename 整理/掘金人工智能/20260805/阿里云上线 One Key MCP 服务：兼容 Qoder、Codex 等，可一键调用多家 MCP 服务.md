@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "阿里云上线 One Key MCP 服务：兼容 Qoder、Codex 等，可一键调用多家 MCP 服务"
 source: "掘金人工智能"
 original_file: "信息源/掘金人工智能/阿里云上线 One Key MCP 服务：兼容 Qoder、Codex 等，可一键调用多家 MCP 服务.md"
 source_note: "[[信息源/掘金人工智能/阿里云上线 One Key MCP 服务：兼容 Qoder、Codex 等，可一键调用多家 MCP 服务]]"
 source_sha256: ebaceaea7a426004b06189df0adc6e1058d7b01232919ae8e864ba6c9ac75dee
-original_url: "https://juejin.cn/post/7670404221931520042"
-processed: 2026-08-06
+original_url: https://juejin.cn/post/7670404221931520042
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -31,4 +31,4 @@ language: zh-CN
 
 ## 关键词
 
-#人工智能 #掘金人工智能 #仅标题
+#人工智能 #掘金 #仅标题

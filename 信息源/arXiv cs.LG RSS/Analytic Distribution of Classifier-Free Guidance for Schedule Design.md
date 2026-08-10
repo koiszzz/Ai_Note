@@ -1,0 +1,12 @@
+# Analytic Distribution of Classifier-Free Guidance for Schedule Design
+
+> 数据源：arXiv cs.LG RSS
+> RSS：[打开源文件](https://export.arxiv.org/rss/cs.LG)
+
+> 作者：Enze Jiang, Zheng Ma　|　发布时间：Fri, 07 Aug 2026 00:00:00 -0400　|　分类：cs.LG　|　原文：[打开链接](https://arxiv.org/abs/2607.19725)
+
+------
+
+arXiv:2607.19725v2 Announce Type: replace
+
+Abstract: Classifier-free guidance (CFG) is the default mechanism for conditional generation in diffusion models, but the distribution sampled by its deterministic guided dynamics is not captured by the usual product-distribution heuristic $p_0^\omega q_0^{1-\omega}$. We analyze CFG through the probability flow ODE and derive exact analytic path-integral representations of the induced distributions for both constant and time-dependent guidance. The resulting formulas show that CFG modifies $p_{t_0}$ by an exponential path-integral correction, and that a time-dependent schedule enters this correction through the weight $\omega(t)-1$. This characterization explains how score discrepancies accumulate along sampling trajectories and motivates Distribution-Guided CFG (DG-CFG), a schedule that balances timestep contributions while accounting for signal strength and low-noise score-error amplification. A toy model with analytic scores closely verifies the predicted distributions. Across Stable Diffusion~1.5, Stable Diffusion~2.1, and Stable Diffusion~XL, DG-CFG yields a stronger diversity--fidelity trade-off and robustly mitigates the saturation and quality degradation caused by strong constant or heuristic guidance. Complete NFE experiments on Stable Diffusion~1.5 and Stable Diffusion~2.1 confirm that these gains persist across sampling budgets, while fixed-quality experiments on both backbones show that DG-CFG reaches target metrics with fewer sampling steps.

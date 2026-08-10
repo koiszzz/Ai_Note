@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "🌞 我造了一个\"AI 日记本\"：用向量数据库 Milvus 让 AI 能\"记住\"你的心情"
 source: "掘金人工智能"
 original_file: "信息源/掘金人工智能/🌞 我造了一个-AI 日记本-：用向量数据库 Milvus 让 AI 能-记住-你的心情.md"
 source_note: "[[信息源/掘金人工智能/🌞 我造了一个-AI 日记本-：用向量数据库 Milvus 让 AI 能-记住-你的心情]]"
 source_sha256: b78c298d2d751de25908a32eed729d73f6973286bad0c0933ee02f4b8dc1a3fb
-original_url: "https://juejin.cn/post/7670369856132464667"
-processed: 2026-08-06
+original_url: https://juejin.cn/post/7670369856132464667
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -31,4 +31,4 @@ language: zh-CN
 
 ## 关键词
 
-#人工智能 #掘金人工智能 #仅标题
+#人工智能 #掘金 #仅标题

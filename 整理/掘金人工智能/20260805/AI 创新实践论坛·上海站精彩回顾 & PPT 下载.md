@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "AI 创新实践论坛·上海站精彩回顾 & PPT 下载"
 source: "掘金人工智能"
 original_file: "信息源/掘金人工智能/AI 创新实践论坛·上海站精彩回顾 & PPT 下载.md"
 source_note: "[[信息源/掘金人工智能/AI 创新实践论坛·上海站精彩回顾 & PPT 下载]]"
 source_sha256: fafb75c138c74c6296f8a149ff06859ddfdbf3aacae89e5aba45dde4131e4060
 original_url: https://juejin.cn/post/7670162213920161792
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 

@@ -1,12 +1,12 @@
 ---
-published: 2026-08-05
 title: "均分73分：GAME FREAK《轮回之兽》媒体评分汇总"
 source: "机核"
 original_file: "信息源/机核/均分73分：GAME FREAK《轮回之兽》媒体评分汇总.md"
 source_note: "[[信息源/机核/均分73分：GAME FREAK《轮回之兽》媒体评分汇总]]"
 source_sha256: f01d9deba95485b3ff757b600ac760ea99e563c82193e4aa26d19237ce3f33fc
 original_url: "https://www.gcores.com/articles/217961"
-processed: 2026-08-05
+published: 2026-08-05
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：机核
+> - 作者：YT17
+> - 发布时间：2026-08-05
 > - 原文链接：[打开原文](https://www.gcores.com/articles/217961)
 > - Vault 原文件：[[信息源/机核/均分73分：GAME FREAK《轮回之兽》媒体评分汇总|查看原始文件]]
 

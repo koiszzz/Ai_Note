@@ -1,12 +1,12 @@
 ---
-published: 2026-08-04
 title: "塞满的创意与有限的成本，《轮回之兽》会让Game Freak变得不一样吗？"
 source: "机核"
 original_file: "信息源/机核/塞满的创意与有限的成本，《轮回之兽》会让Game Freak变得不一样吗？.md"
 source_note: "[[信息源/机核/塞满的创意与有限的成本，《轮回之兽》会让Game Freak变得不一样吗？]]"
 source_sha256: b656555c57b4c77dc678a3cde84346fbdde6ef19ad8d664f9a034ed0fbe40269
 original_url: "https://www.gcores.com/radios/217786"
-processed: 2026-08-05
+published: 2026-08-04
+processed: 2026-08-10
 language: zh-CN
 ---
 
@@ -14,6 +14,8 @@ language: zh-CN
 
 > [!info] 来源信息
 > - 数据源：机核
+> - 作者：雪豆,Ryoma,萝萝又卜卜
+> - 发布时间：2026-08-04
 > - 原文链接：[打开原文](https://www.gcores.com/radios/217786)
 > - Vault 原文件：[[信息源/机核/塞满的创意与有限的成本，《轮回之兽》会让Game Freak变得不一样吗？|查看原始文件]]
 
