@@ -3,12 +3,15 @@
  *
  * 把“读源 → 复用已有翻译 → 生成模板 → 哈希 → 校验”全部自动化。
  * 翻译本身可选：--llm=claude 时批量调用 Claude Code CLI 翻译；
+ * --llm=opencode 时批量调用 opencode run（默认模型 opencode/deepseek-v4-flash-free，
+ * 可用 --model=provider/model 覆盖）；
  * 默认（--llm=none）生成“骨架笔记”：完整 frontmatter + 摘要（英文摘要）+
  * 正文占位，供人工/多个 AI 会话批量填充，避免手工写模板与哈希。
  *
  * 用法：
  *   node scripts/translate-batch.mjs [--vault=.] --src=<目录|list文件> [--out=<输出目录>]
- *       [--llm=none|claude] [--dry] [--limit=N] [--reuse-from=<其他已整理目录,...>]
+ *       [--llm=none|claude|opencode] [--model=<provider/model>] [--dry] [--limit=N]
+ *       [--reuse-from=<其他已整理目录,...>]
  *
  * 步骤（对每个条目）：
  *   1. 读取原文，提取标题/URL/分类/摘要/哈希。
@@ -31,6 +34,7 @@ let vault = '.';
 let srcArg = null;
 let outDir = null;
 let llm = 'none';
+let model = 'opencode/deepseek-v4-flash-free';
 let DRY = false;
 let limit = 0;
 const reuseFrom = [];
@@ -39,6 +43,7 @@ for (const arg of args) {
   else if (arg.startsWith('--src=')) srcArg = arg.slice('--src='.length);
   else if (arg.startsWith('--out=')) outDir = arg.slice('--out='.length);
   else if (arg.startsWith('--llm=')) llm = arg.slice('--llm='.length);
+  else if (arg.startsWith('--model=')) model = arg.slice('--model='.length);
   else if (arg === '--dry') DRY = true;
   else if (arg.startsWith('--limit=')) limit = parseInt(arg.slice('--limit='.length), 10) || 0;
   else if (arg.startsWith('--reuse-from=')) reuseFrom.push(...arg.slice('--reuse-from='.length).split(',').map((s) => s.trim()).filter(Boolean));
@@ -160,12 +165,14 @@ for (const entry of entries) {
   const abstract = raw.match(/Abstract:\s*([\s\S]*)$/)?.[1]?.trim() || '';
   const base = { source: sourceName, original_file: rel, source_sha256: targetSha, original_url: url, processed: day };
 
-  if (llm === 'claude') {
+  if (llm === 'claude' || llm === 'opencode') {
     const prompt = `请阅读源文件 ${JSON.stringify(path.resolve(entry))}（一篇 arXiv 论文），将其整理为一份中文 Obsidian 笔记。要求：\n`
       + `1. 标题：中文翻译标题（可加英文原标题的冒号副题风格，如“Xxx：副标题”）\n`
       + `2. 结构必须为：frontmatter（title/source/original_file/source_note/source_sha256/original_url/processed/language: zh-CN，值用 JSON 双引号转义，source_sha256 为 ${targetSha}，original_file 为 ${JSON.stringify(rel)}，source_note 为 [[${rel.replace(/\.md$/i, '')}]]，original_url 为 ${JSON.stringify(url)}，processed 为 ${day}）+ "# 标题" + "> [!info] 来源信息" 块 + "## 摘要"（5-8 条 bullet，忠实概括）+ "## 正文"（完整中文翻译，按段落，不增删事实）+ "## 关键词"（5 个中文词，逗号分隔）\n`
       + `3. 只输出笔记文件完整内容，不要任何解释、前言或代码围栏。`;
-    const run = spawnSync('claude', ['-p', prompt, '--output-format', 'text'], { encoding: 'utf8', timeout: 300000, maxBuffer: 64 * 1024 * 1024 });
+    const run = llm === 'claude'
+      ? spawnSync('claude', ['-p', prompt, '--output-format', 'text'], { encoding: 'utf8', timeout: 300000, maxBuffer: 64 * 1024 * 1024 })
+      : spawnSync('opencode', ['run', '--model', model, '--format', 'default', prompt], { cwd: path.resolve(vault), encoding: 'utf8', timeout: 600000, maxBuffer: 64 * 1024 * 1024 });
     let out = run.status === 0 ? String(run.stdout || '') : '';
     out = out.replace(/^```(?:markdown)?\s*/i, '').replace(/```\s*$/, '').trim();
     if (!out.includes('# ') || !out.includes('## 正文')) {

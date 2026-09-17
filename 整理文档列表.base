@@ -7,9 +7,8 @@ views:
     filters:
       and:
         - file.inFolder("整理")
-        - or:
-            - file.name.contains("AI")
-            - file.tags.contains("AI")
+        - and:
+            - file.folder.contains("arXiv")
     order:
       - file.name
       - processed

@@ -7,6 +7,10 @@ const vault = path.resolve(process.argv[2] || '.');
 const sourceName = process.argv[3] || '掘金人工智能';
 const sourceDir = path.join(vault, '信息源', sourceName);
 const outputDir = path.join(vault, '整理', sourceName);
+if (!fs.existsSync(sourceDir)) {
+  console.error(`源目录不存在（请检查 vault 与源名参数）：${sourceDir}`);
+  process.exit(1);
+}
 fs.mkdirSync(outputDir, { recursive: true });
 
 function yamlQuote(value) {
